@@ -94,6 +94,14 @@ DATA       ESTABELECIMENTO / DESCRIÇÃO          VALOR (R$)
 | `ALMEIDA QUEIJOS` | ALMEIDA QUEIJOS | Queijaria / snack |
 | `BELLA SAUIPE` | BELLA SAUIPE II | Snack / fast food |
 | `HIGH LAPA FOODS` | HIGH LAPA FOODS LTDA | Snack / lanche |
+| `STRIKEBAR` | STRIKEBAR | Bar / snack — valor baixo (< R$50) |
+| `GABRIELLAFRANCES` | GABRIELLAFRANCES | Lanche / snack |
+| `BOLOS` | BOLOSDALAPACOMERCIO | Confeitaria / padaria |
+| `ZIGPAY` | ZIGPAY | Pagamento cashless em eventos (ZIG) |
+| `ZIG*` | ZIG*SAO JOAO DE SP | Evento / festival (ZIG) |
+| `BANCADEFRUTAS` | BANCADEFRUTASMIGUEL | Banca de frutas |
+| `FRUTAS` | FRUTAS NASSAI | Banca de frutas / frutaria |
+| `LOCCITANE` | LOCCITANEBR | L'Occitane — cosméticos (→ Compras / Presentes) |
 
 ### Alimentação — Restaurantes
 
@@ -109,6 +117,7 @@ DATA       ESTABELECIMENTO / DESCRIÇÃO          VALOR (R$)
 | `ASSOCIACAO ATLETIC` | ASSOCIACAO ATLETIC | Restaurante AABB — **somente quando valor ≤ R$ 250** |
 
 > ⚠️ `99Food *` e `Kee*` = delivery → **Ifood + snacks + Padaria**, mesmo que o nome seja de restaurante.  
+> ⚠️ Valores **abaixo de R$ 50** em estabelecimentos de bar/lanche sem reserva → **Ifood + snacks + Padaria**, não Restaurantes.  
 > ⚠️ `ASSOCIACAO ATLETIC` com valor **acima de R$ 250** = mensalidade/outro → **Outros**.
 
 ### Alimentação — HiperMercado
@@ -119,6 +128,9 @@ DATA       ESTABELECIMENTO / DESCRIÇÃO          VALOR (R$)
 | `CARREFOUR` | CARREFOUR BARRA FUNDA | |
 | `ATACADAO` | ATACADAO | |
 | `ASSAI` | ASSAI ATACADISTA | |
+| `AKKI` | AKKI ATACADISTA | Atacadista japonês / hipermercado |
+| `PAODEACUCAR` | PAODEACUCAR-2408 | Pão de Açúcar (supermercado) |
+| `PAO DE ACUCAR` | PAO DE ACUCAR | Pão de Açúcar |
 | `WALMART` | WALMART | |
 | `BIG` | BIG SUPERMERCADO | |
 
@@ -147,6 +159,7 @@ DATA       ESTABELECIMENTO / DESCRIÇÃO          VALOR (R$)
 | `ULTRAFARMA` | ULTRAFARMA | |
 | `PANVEL` | PANVEL FARMACIA | |
 | `FARMACIA` | FARMACIA POPULAR | |
+| `PAGUEMENOS` | PAGUEMENOS00209 | Farmácia Pague Menos |
 
 ### Pessoal / Vestuário / Beleza — Corte Cabelo
 
@@ -156,6 +169,7 @@ DATA       ESTABELECIMENTO / DESCRIÇÃO          VALOR (R$)
 | `BARBEARIA` | BARBEARIA CENTRAL | |
 | `CABELEREIRO` | CABELEREIRO JOAO | |
 | `SALAO` | SALAO DE BELEZA | |
+| `PERSONAL HAIR` | PERSONAL HAIR STUDIO L | Salão de beleza / cabelereiro |
 
 > Vacinas, consultas médicas e despesas de saúde da Isabela.
 
@@ -232,6 +246,9 @@ DATA       ESTABELECIMENTO / DESCRIÇÃO          VALOR (R$)
 | `CONECTCAR` | CONECTCAR | Pedágio tag |
 | `ESTAPAR` | ESTAPAR | Estacionamento |
 | `MULTIPARK` | MULTIPARK | Estacionamento |
+| `ZUL` | ZUL 1 cartao | App Zona Azul Digital (estacionamento rotativo) |
+| `PolyGaragensE` | PolyGaragensE | Estacionamento fixo |
+| `Estacionamento` | Estacionamento | Genérico |
 
 > ⚠️ `99Food *` (com "Food") → **Alimentação → Restaurantes**. Sem "Food" → **Transporte**.
 
@@ -258,6 +275,7 @@ DATA       ESTABELECIMENTO / DESCRIÇÃO          VALOR (R$)
 | `APPLE.COM` | APPLE COM/BILL Cloud | APPLE.COM/BILL |
 | `APPLE COM` | APPLE COM/BILL Cloud | APPLE COM/BILL |
 | `NETFLIX` | Netflix | NETFLIX.COM |
+| `DISNEY` | THE WALT DISNEY COMPAN | Disney+ |
 
 ### Cartões e Dívidas — Juros/IOF
 

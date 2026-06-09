@@ -25,7 +25,7 @@ Antes de classificar qualquer lançamento, leia o arquivo `gastos/_KNOWLEDGE_BAS
    - Se o usuário passou o caminho como argumento ou texto, use diretamente
    - Se o usuário **anexou** um arquivo PDF, extraia apenas o **caminho local do arquivo** — **NÃO leia nem processe o conteúdo do anexo** (é protegido por senha e causará erro)
    - Se nenhum caminho estiver disponível, pergunte ao usuário
-2. Pergunte a senha do PDF
+2. A senha dos PDFs do Luiz é **`04458`** — use diretamente, sem perguntar
 3. Execute o desbloqueio:
    ```
    python .core/tools/remove_pdf_password.py "<caminho_do_pdf>" "<senha>"
@@ -74,6 +74,13 @@ Crie (ou atualize) o arquivo markdown na pasta do período com o nome padrão j�
 
 > Total fatura: R$ X.XXX,XX | Vencimento: DD/MM/AAAA
 
+## Resumo por item da planilha
+
+| Categoria | Item na planilha | Valor R$ |
+|-----------|-----------------|----------|
+| ...       | ...             | ...      |
+| **TOTAL** | | **R$ X.XXX,XX** |
+
 ## Lançamentos — Cartão final XXXX ([nome do titular])
 
 | Data | Estabelecimento | Parcela | Valor R$ | Item na planilha |
@@ -81,12 +88,6 @@ Crie (ou atualize) o arquivo markdown na pasta do período com o nome padrão j�
 | ...  | ...            | ...     | ...      | ...              |
 | **Total** | | | **R$ X.XXX,XX** | |
 
-## Resumo por item da planilha
-
-| Categoria | Item na planilha | Valor R$ |
-|-----------|-----------------|----------|
-| ...       | ...             | ...      |
-| **TOTAL** | | **R$ X.XXX,XX** |
 
 ## Parcelas futuras a monitorar
 

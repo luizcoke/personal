@@ -1,1 +1,4 @@
 .venv/
+
+# despesas-pessoais: ignorar subpastas, manter apenas o .md raiz
+despesas-pessoais/*/
