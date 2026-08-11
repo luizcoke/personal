@@ -56,6 +56,7 @@ DATA       ESTABELECIMENTO / DESCRIÇÃO          VALOR (R$)
 - Linha de totalização geral: `Total dos lançamentos atuais R$ X.XXX,XX`
 - Débito automático em conta corrente Itaú
 - **Cartão 3878 (Paloma):** dividido 50/50 com a esposa — aplicar 50% de todos os valores na planilha
+- **Resumo da planilha para o cartão 3878:** não distribuir os valores por categoria no resumo mensal; lançar apenas uma linha única com o **total do cartão final 3878 (50%)**. A categorização por lançamento pode continuar no detalhamento para referência.
 
 ### Visa Infinite (Itaú Personnalitê)
 
@@ -97,11 +98,13 @@ DATA       ESTABELECIMENTO / DESCRIÇÃO          VALOR (R$)
 | `STRIKEBAR` | STRIKEBAR | Bar / snack — valor baixo (< R$50) |
 | `GABRIELLAFRANCES` | GABRIELLAFRANCES | Lanche / snack |
 | `BOLOS` | BOLOSDALAPACOMERCIO | Confeitaria / padaria |
-| `ZIGPAY` | ZIGPAY | Pagamento cashless em eventos (ZIG) |
-| `ZIG*` | ZIG*SAO JOAO DE SP | Evento / festival (ZIG) |
+| `PRACAPANAMERICANA` | PRACAPANAMERICANA | Sorvete / snack McDonald's |
+| `30220687Adriana` | 30220687Adriana | Churros / comida no clube |
+| `CAFECREMECOMERCIO` | CAFECREMECOMERCIO | Snack / cafeteria / padaria |
+| `BAFFSSANTACASA` | BAFFSSANTACASA | Comida / snack na lojinha do trabalho |
 | `BANCADEFRUTAS` | BANCADEFRUTASMIGUEL | Banca de frutas |
 | `FRUTAS` | FRUTAS NASSAI | Banca de frutas / frutaria |
-| `LOCCITANE` | LOCCITANEBR | L'Occitane — cosméticos (→ Compras / Presentes) |
+| `ZUL` | ZUL 1 cartao | App Zona Azul Digital (estacionamento rotativo) |
 
 ### Alimentação — Restaurantes
 
@@ -110,7 +113,11 @@ DATA       ESTABELECIMENTO / DESCRIÇÃO          VALOR (R$)
 | Contém no PDF | Exemplo real | Observação |
 |---------------|-------------|------------|
 | `COCO BAMBU` | COCO BAMBU LAPA | Restaurante presencial |
+| `BADARO` | BADARO | Restaurante presencial |
+| `OUTBACK` | OUTBACKBOURBOUNSP | Restaurante presencial |
+| `JOTASIFREITASLTDA` | JOTASIFREITASLTDA | Restaurante / refeicao no trabalho |
 | `PECORINO` | PECORINO REST | Restaurante presencial |
+| `PRATUS VERBO DIVINO` | PRATUS VERBO DIVINO | Almoço no escritório |
 | `RESTAURANTE` | RESTAURANTE DO JOSE | Use para estabelecimentos onde foi presencialmente |
 | `CHURRASCARIA` | CHURRASCARIA BOI | |
 | `ASSOCIACAO ATLETICA` | ASSOCIACAO ATLETICA B | Restaurante AABB — **somente quando valor ≤ R$ 250** |
@@ -129,10 +136,12 @@ DATA       ESTABELECIMENTO / DESCRIÇÃO          VALOR (R$)
 | `ATACADAO` | ATACADAO | |
 | `ASSAI` | ASSAI ATACADISTA | |
 | `AKKI` | AKKI ATACADISTA | Atacadista japonês / hipermercado |
+| `DIABRASILLJ386` | DIABRASILLJ386 | Compra de mercado / supermercado |
 | `PAODEACUCAR` | PAODEACUCAR-2408 | Pão de Açúcar (supermercado) |
 | `PAO DE ACUCAR` | PAO DE ACUCAR | Pão de Açúcar |
 | `WALMART` | WALMART | |
 | `BIG` | BIG SUPERMERCADO | |
+| `SONDA` | SONDA POMPEIA | Supermercado Sonda |
 
 ### Alimentação — Mercadão + Bebidas
 
@@ -141,6 +150,9 @@ DATA       ESTABELECIMENTO / DESCRIÇÃO          VALOR (R$)
 | `MERCADO MUNICIPAL` | MERCADO MUNICIPAL SP | |
 | `DISTRIBUIDORA` | DISTRIBUIDORA BEBIDAS | |
 | `ADEGA` | ADEGA DO VINHO | |
+| `ELTON BARROSO DE MELO` | ELTON BARROSO DE MELO | Feira de frutas |
+| `EltonBarrosoDe` | EltonBarrosoDe | Feira de frutas (variante abreviada) |
+| `JAPONESA PASTEIS` | JAPONESA PASTEIS | Feira de frutas |
 
 ### Alimentação — Marmitas
 
@@ -212,13 +224,23 @@ DATA       ESTABELECIMENTO / DESCRIÇÃO          VALOR (R$)
 | `MERCADO LIVRE` | MERCADO LIVRE | |
 | `AMAZON` | AMAZON.COM.BR | Compras (não Prime) |
 | `AMAZONMKTPLC` | AMAZONMKTPLC*UPTEC | Amazon Marketplace — **Compras/Presentes**, não veículo |
-| `ITAUSHOP` | ITAUSHOP | Compra parcelada via Itaú Shop (ex: celular) → **Compras/Presentes** |
+| `ITAUSHOP` | ITAUSHOP | Compra parcelada via Itaú Shop (ex: iPhone 16 / celular) → **Compras/Presentes** |
 | `RENNER` | RENNER | |
 | `RIACHUELO` | RIACHUELO 366 | |
 | `ZARA` | Zara Brasil LTDA | |
 | `C&A` | C&A MODA | |
 | `ESKALA` | ESKALA 106 | Loja de roupas |
 | `HERING` | HERING STORE | |
+| `PARATY ESPORTES` | PARATY ESPORTES LTDA | Loja de roupas esportivas |
+| `LOCCITANE` | LOCCITANEBR | L'Occitane — cosméticos |
+| `SamPedro` | SamPedro | Sapateiro da Lapa / conserto de calcados |
+| `EDITORAWMFMARTINSF` | EDITORAWMFMARTINSF | Livro / compra pessoal |
+
+### Pessoal / Vestuário / Beleza — Projetos pessoais
+
+| Contém no PDF | Exemplo real | Observação |
+|---------------|-------------|------------|
+| `GITHUB,INC.` | GITHUB,INC. | Classificar como **Projetos pessoais** |
 
 ### Pessoal / Vestuário / Beleza — Compras / Presentes (marketplace casa)
 
@@ -235,6 +257,8 @@ DATA       ESTABELECIMENTO / DESCRIÇÃO          VALOR (R$)
 | `TELHANORTE` | TELHANORTE | |
 | `CASAS BAHIA` | CASAS BAHIA | Eletrodomésticos/móveis |
 | `TOK&STOK` | TOK&STOK | |
+| `MP*ASSTECNICAELE` | MP*ASSTECNICAELE | Conserto da lava e seca → **Casa Manutenção Apartamento** |
+| `SAMSUNGNOITAU` | SAMSUNGNOITAU | Lava e seca nova / eletrodoméstico → **Casa Manutenção Apartamento** |
 
 ### Veículo / Transporte — Uber - 99 / Estac / ConectCar
 
@@ -244,6 +268,7 @@ DATA       ESTABELECIMENTO / DESCRIÇÃO          VALOR (R$)
 | `99*` | 99* | Corrida pelo app 99 (sem "Food") |
 | `99APP` | 99APP | |
 | `CONECTCAR` | CONECTCAR | Pedágio tag |
+| `TagItau *LUIZNETO` | TagItau *LUIZNETO | ConectCar / tag de pedagio |
 | `ESTAPAR` | ESTAPAR | Estacionamento |
 | `MULTIPARK` | MULTIPARK | Estacionamento |
 | `ZUL` | ZUL 1 cartao | App Zona Azul Digital (estacionamento rotativo) |
@@ -264,6 +289,20 @@ DATA       ESTABELECIMENTO / DESCRIÇÃO          VALOR (R$)
 | `PETROBRAS` | PETROBRAS POSTO | |
 | `AUTO POSTO` | AUTO POSTO ALBION LTD | |
 | `FUKUYA` | FUKUYA KANEMOTO | Posto de gasolina |
+
+### Veículo / Transporte — Carro Manutenção e Lavagem
+
+| Contém no PDF | Exemplo real | Observação |
+|---------------|-------------|------------|
+| `H GARD` | H GARD | Manutenção e serviços para carro |
+
+### Turismo e Entretenimento
+
+| Contém no PDF | Exemplo real | Observação |
+|---------------|-------------|------------|
+| `ZIGPAY` | ZIGPAY | Pagamento cashless em eventos/festas (ZIG) |
+| `ZIG*` | ZIG*SAO JOAO DE SP | **Lazer / Viagem** — Festival junino / festa junina (ZIG) |
+| `PAG*Steam` | PAG*Steam | Jogo / plataforma Steam — **Lazer** |
 
 ### Assinaturas
 
@@ -290,6 +329,7 @@ DATA       ESTABELECIMENTO / DESCRIÇÃO          VALOR (R$)
 
 | Contém no PDF | Item na planilha | Exemplo real |
 |---------------|-----------------|-------------|
+| `SOLUCOGARAGENS` | Reembolso empresa | SOLUCOGARAGENS | Estacionamento reembolsado pela empresa |
 | `CAASP` | Drogaria | CAASP LAPA | Saúde → Drogaria (plano assistência advogados) |
 | `CAIXA LOTERIAS` | Loterias | CAIXA LOTERIAS |
 | `LOTERIA` | Loterias | LOTERIA FEDERAL |
@@ -459,7 +499,7 @@ Para cada lançamento extraído do PDF, identifique a qual **Item** da planilha 
 ### Lazer / Viagens
 | Item na planilha | Palavras-chave no PDF | Vem do cartão? |
 |------------------|----------------------|----------------|
-| Lazer / Viagem | BOOKING, AIRBNB, hotel, passagem, cinema, show, parque | Sim |
+| Lazer / Viagem | BOOKING, AIRBNB, hotel, passagem, cinema, show, parque, ZIG* (festa junina) | Sim |
 
 ### Investimentos / Poupança
 | Item na planilha | De onde vem | Vem do cartão? |
@@ -494,6 +534,7 @@ Para cada lançamento extraído do PDF, identifique a qual **Item** da planilha 
 - **Compras parceladas**: registre apenas o valor da parcela atual; some ao item correspondente (ex: Porto Seguro parcela 3/6 → some em "Carro Seguro").
 - **Compras internacionais**: use o valor em BRL já convertido que aparece na fatura.
 - **IOF e encargos**: some em "Juros/IOF" na categoria Cartões e Dívidas.
+- **Cartão final 3878 (Paloma):** no detalhamento, manter a categoria de cada lançamento e aplicar 50%; no **Resumo por item da planilha**, não somar essas categorias. Em vez disso, usar uma linha única: `Cartão família | Total cartão final 3878 (50%)`.
 - **Estornos**: aparecem com sinal positivo na fatura — subtraia do item original ou registre em Estornos. Se houver qualquer estorno na fatura, calcule e apresente a **soma total dos estornos** (impacto real para o Luiz, já aplicando 50% do cartão 3878) ao final do resumo de reconciliação.
 - **Lançamentos não identificados**: some em "Lançamentos no cartão (final 3878)" até conseguir identificar.
 - **Esocial**: lançamento de folha, não vem do cartão.
