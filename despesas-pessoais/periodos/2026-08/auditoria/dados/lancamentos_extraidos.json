@@ -1,0 +1,1631 @@
+[
+  {
+    "arquivo": "Fatura_MASTERCARD_100482751858_09-2026.pdf",
+    "lancamentos": [
+      {
+        "data": "12/03",
+        "estabelecimento": "ITAUSHOP",
+        "parcela": "06/15",
+        "valor": "285.46",
+        "cartao": "0539",
+        "tipo": "nacional",
+        "pagina": 2,
+        "coluna": "esquerda",
+        "fonte": "12/03 ITAUSHOP 06/15 285,46"
+      },
+      {
+        "data": "04/04",
+        "estabelecimento": "ASSOCIACAO ATLETIC",
+        "parcela": "06/06",
+        "valor": "194.17",
+        "cartao": "0539",
+        "tipo": "nacional",
+        "pagina": 2,
+        "coluna": "esquerda",
+        "fonte": "04/04 ASSOCIACAO ATLETIC06/06 194,17"
+      },
+      {
+        "data": "08/07",
+        "estabelecimento": "MP *ASSTECNICAELE",
+        "parcela": "02/08",
+        "valor": "137.50",
+        "cartao": "0539",
+        "tipo": "nacional",
+        "pagina": 2,
+        "coluna": "esquerda",
+        "fonte": "08/07 MP *ASSTECNICAELE 02/08 137,50"
+      },
+      {
+        "data": "09/07",
+        "estabelecimento": "LEVI S-SHOP.MORUMB",
+        "parcela": "02/02",
+        "valor": "122.47",
+        "cartao": "0539",
+        "tipo": "nacional",
+        "pagina": 2,
+        "coluna": "esquerda",
+        "fonte": "09/07 LEVI S-SHOP.MORUMB02/02 122,47"
+      },
+      {
+        "data": "09/07",
+        "estabelecimento": "LEVI S-SHOP.MORUMBI",
+        "parcela": "",
+        "valor": "-0.01",
+        "cartao": "0539",
+        "tipo": "nacional",
+        "pagina": 2,
+        "coluna": "esquerda",
+        "fonte": "09/07 LEVI S-SHOP.MORUMBI - 0,01"
+      },
+      {
+        "data": "25/07",
+        "estabelecimento": "SAMSUNG NO ITAU",
+        "parcela": "02/14",
+        "valor": "300.04",
+        "cartao": "0539",
+        "tipo": "nacional",
+        "pagina": 2,
+        "coluna": "esquerda",
+        "fonte": "25/07 SAMSUNG NO ITAU 02/14 300,04"
+      },
+      {
+        "data": "25/07",
+        "estabelecimento": "SAMSUNG NO ITAU",
+        "parcela": "",
+        "valor": "-1.56",
+        "cartao": "0539",
+        "tipo": "nacional",
+        "pagina": 2,
+        "coluna": "esquerda",
+        "fonte": "25/07 SAMSUNG NO ITAU - 1,56"
+      },
+      {
+        "data": "08/08",
+        "estabelecimento": "ASSOCIACAO ATLETICA B",
+        "parcela": "",
+        "valor": "400.58",
+        "cartao": "0539",
+        "tipo": "nacional",
+        "pagina": 2,
+        "coluna": "esquerda",
+        "fonte": "08/08 ASSOCIACAO ATLETICA B 400,58"
+      },
+      {
+        "data": "09/08",
+        "estabelecimento": "ESTRADA ITAPECERICA",
+        "parcela": "",
+        "valor": "23.80",
+        "cartao": "0539",
+        "tipo": "nacional",
+        "pagina": 2,
+        "coluna": "esquerda",
+        "fonte": "09/08 ESTRADA ITAPECERICA 23,80"
+      },
+      {
+        "data": "09/08",
+        "estabelecimento": "ASSOCIACAO ATLETICA B",
+        "parcela": "",
+        "valor": "98.55",
+        "cartao": "0539",
+        "tipo": "nacional",
+        "pagina": 2,
+        "coluna": "esquerda",
+        "fonte": "09/08 ASSOCIACAO ATLETICA B 98,55"
+      },
+      {
+        "data": "12/08",
+        "estabelecimento": "PRATUS VERBO DIVINO RE",
+        "parcela": "",
+        "valor": "59.71",
+        "cartao": "0539",
+        "tipo": "nacional",
+        "pagina": 2,
+        "coluna": "esquerda",
+        "fonte": "12/08 PRATUS VERBO DIVINO RE 59,71"
+      },
+      {
+        "data": "12/08",
+        "estabelecimento": "BAFF S SANTA CASA",
+        "parcela": "",
+        "valor": "18.00",
+        "cartao": "0539",
+        "tipo": "nacional",
+        "pagina": 2,
+        "coluna": "esquerda",
+        "fonte": "12/08 BAFF S SANTA CASA 18,00"
+      },
+      {
+        "data": "12/08",
+        "estabelecimento": "SOLUCO GARAGENS",
+        "parcela": "",
+        "valor": "35.00",
+        "cartao": "0539",
+        "tipo": "nacional",
+        "pagina": 2,
+        "coluna": "esquerda",
+        "fonte": "12/08 SOLUCO GARAGENS 35,00"
+      },
+      {
+        "data": "15/08",
+        "estabelecimento": "RESERVA PAULISTA ADMIN",
+        "parcela": "",
+        "valor": "9.99",
+        "cartao": "0539",
+        "tipo": "nacional",
+        "pagina": 2,
+        "coluna": "esquerda",
+        "fonte": "15/08 RESERVA PAULISTA ADMIN 9,99"
+      },
+      {
+        "data": "15/08",
+        "estabelecimento": "RESERVA PAULISTA ADMIN",
+        "parcela": "",
+        "valor": "30.00",
+        "cartao": "0539",
+        "tipo": "nacional",
+        "pagina": 2,
+        "coluna": "esquerda",
+        "fonte": "15/08 RESERVA PAULISTA ADMIN 30,00"
+      },
+      {
+        "data": "15/08",
+        "estabelecimento": "ASSOCIACAO ATLETICA B",
+        "parcela": "",
+        "valor": "111.02",
+        "cartao": "0539",
+        "tipo": "nacional",
+        "pagina": 2,
+        "coluna": "direita",
+        "fonte": "15/08 ASSOCIACAO ATLETICA B 111,02"
+      },
+      {
+        "data": "16/08",
+        "estabelecimento": "CasaDeCarnes",
+        "parcela": "",
+        "valor": "134.90",
+        "cartao": "0539",
+        "tipo": "nacional",
+        "pagina": 2,
+        "coluna": "direita",
+        "fonte": "16/08 CasaDeCarnes 134,90"
+      },
+      {
+        "data": "16/08",
+        "estabelecimento": "PANIFICADORA BELLA ALB",
+        "parcela": "",
+        "valor": "3.21",
+        "cartao": "0539",
+        "tipo": "nacional",
+        "pagina": 2,
+        "coluna": "direita",
+        "fonte": "16/08 PANIFICADORA BELLA ALB 3,21"
+      },
+      {
+        "data": "17/08",
+        "estabelecimento": "PANIFICADORA BELLA ALB",
+        "parcela": "",
+        "valor": "9.00",
+        "cartao": "0539",
+        "tipo": "nacional",
+        "pagina": 2,
+        "coluna": "direita",
+        "fonte": "17/08 PANIFICADORA BELLA ALB 9,00"
+      },
+      {
+        "data": "17/08",
+        "estabelecimento": "PANIFICADORA BELLA ALB",
+        "parcela": "",
+        "valor": "17.17",
+        "cartao": "0539",
+        "tipo": "nacional",
+        "pagina": 2,
+        "coluna": "direita",
+        "fonte": "17/08 PANIFICADORA BELLA ALB 17,17"
+      },
+      {
+        "data": "18/08",
+        "estabelecimento": "PANIFICADORA BELLA ALB",
+        "parcela": "",
+        "valor": "9.00",
+        "cartao": "0539",
+        "tipo": "nacional",
+        "pagina": 2,
+        "coluna": "direita",
+        "fonte": "18/08 PANIFICADORA BELLA ALB 9,00"
+      },
+      {
+        "data": "19/08",
+        "estabelecimento": "PRATUS VERBO DIVINO RE",
+        "parcela": "",
+        "valor": "64.80",
+        "cartao": "0539",
+        "tipo": "nacional",
+        "pagina": 2,
+        "coluna": "direita",
+        "fonte": "19/08 PRATUS VERBO DIVINO RE 64,80"
+      },
+      {
+        "data": "19/08",
+        "estabelecimento": "SOLUCO GARAGENS",
+        "parcela": "",
+        "valor": "35.00",
+        "cartao": "0539",
+        "tipo": "nacional",
+        "pagina": 2,
+        "coluna": "direita",
+        "fonte": "19/08 SOLUCO GARAGENS 35,00"
+      },
+      {
+        "data": "22/08",
+        "estabelecimento": "ASSOCIACAO ATLETICA B",
+        "parcela": "",
+        "valor": "99.18",
+        "cartao": "0539",
+        "tipo": "nacional",
+        "pagina": 2,
+        "coluna": "direita",
+        "fonte": "22/08 ASSOCIACAO ATLETICA B 99,18"
+      },
+      {
+        "data": "22/08",
+        "estabelecimento": "ROSSINI EVENTOS",
+        "parcela": "",
+        "valor": "26.00",
+        "cartao": "0539",
+        "tipo": "nacional",
+        "pagina": 2,
+        "coluna": "direita",
+        "fonte": "22/08 ROSSINI EVENTOS 26,00"
+      },
+      {
+        "data": "23/08",
+        "estabelecimento": "JIM.COM* MAGALI DA",
+        "parcela": "01/04",
+        "valor": "129.46",
+        "cartao": "0539",
+        "tipo": "nacional",
+        "pagina": 2,
+        "coluna": "direita",
+        "fonte": "23/08 JIM.COM* MAGALI DA01/04 129,46"
+      },
+      {
+        "data": "25/08",
+        "estabelecimento": "PANIFICADORA BELLA ALB",
+        "parcela": "",
+        "valor": "41.19",
+        "cartao": "0539",
+        "tipo": "nacional",
+        "pagina": 2,
+        "coluna": "direita",
+        "fonte": "25/08 PANIFICADORA BELLA ALB 41,19"
+      },
+      {
+        "data": "26/08",
+        "estabelecimento": "BAFF S SANTA CASA",
+        "parcela": "",
+        "valor": "12.00",
+        "cartao": "0539",
+        "tipo": "nacional",
+        "pagina": 2,
+        "coluna": "direita",
+        "fonte": "26/08 BAFF S SANTA CASA 12,00"
+      },
+      {
+        "data": "26/08",
+        "estabelecimento": "BELLA SAUIPE II",
+        "parcela": "",
+        "valor": "70.24",
+        "cartao": "0539",
+        "tipo": "nacional",
+        "pagina": 2,
+        "coluna": "direita",
+        "fonte": "26/08 BELLA SAUIPE II 70,24"
+      },
+      {
+        "data": "26/08",
+        "estabelecimento": "ACORES PARKS ES",
+        "parcela": "",
+        "valor": "35.00",
+        "cartao": "0539",
+        "tipo": "nacional",
+        "pagina": 2,
+        "coluna": "direita",
+        "fonte": "26/08 ACORES PARKS ES 35,00"
+      },
+      {
+        "data": "27/08",
+        "estabelecimento": "IFD*IFOOD CLUB",
+        "parcela": "",
+        "valor": "5.95",
+        "cartao": "0539",
+        "tipo": "nacional",
+        "pagina": 2,
+        "coluna": "direita",
+        "fonte": "27/08 IFD*IFOOD CLUB 5,95"
+      },
+      {
+        "data": "29/08",
+        "estabelecimento": "PE DE MANGA",
+        "parcela": "",
+        "valor": "320.32",
+        "cartao": "0539",
+        "tipo": "nacional",
+        "pagina": 3,
+        "coluna": "esquerda",
+        "fonte": "29/08 PE DE MANGA 320,32"
+      },
+      {
+        "data": "30/08",
+        "estabelecimento": "PostoSetee",
+        "parcela": "",
+        "valor": "150.68",
+        "cartao": "0539",
+        "tipo": "nacional",
+        "pagina": 3,
+        "coluna": "esquerda",
+        "fonte": "30/08 PostoSetee 150,68"
+      },
+      {
+        "data": "30/08",
+        "estabelecimento": "OSASCO MARGINAL",
+        "parcela": "",
+        "valor": "37.80",
+        "cartao": "0539",
+        "tipo": "nacional",
+        "pagina": 3,
+        "coluna": "esquerda",
+        "fonte": "30/08 OSASCO MARGINAL 37,80"
+      },
+      {
+        "data": "30/08",
+        "estabelecimento": "PANIFICADORA BELLA ALB",
+        "parcela": "",
+        "valor": "9.00",
+        "cartao": "0539",
+        "tipo": "nacional",
+        "pagina": 3,
+        "coluna": "esquerda",
+        "fonte": "30/08 PANIFICADORA BELLA ALB 9,00"
+      },
+      {
+        "data": "01/09",
+        "estabelecimento": "PANIFICADORA BELLA ALB",
+        "parcela": "",
+        "valor": "35.63",
+        "cartao": "0539",
+        "tipo": "nacional",
+        "pagina": 3,
+        "coluna": "esquerda",
+        "fonte": "01/09 PANIFICADORA BELLA ALB 35,63"
+      },
+      {
+        "data": "02/09",
+        "estabelecimento": "VERBO DIVINO RESTAURAN",
+        "parcela": "",
+        "valor": "61.70",
+        "cartao": "0539",
+        "tipo": "nacional",
+        "pagina": 3,
+        "coluna": "esquerda",
+        "fonte": "02/09 VERBO DIVINO RESTAURAN 61,70"
+      },
+      {
+        "data": "02/09",
+        "estabelecimento": "BAFF S SANTA CASA",
+        "parcela": "",
+        "valor": "18.00",
+        "cartao": "0539",
+        "tipo": "nacional",
+        "pagina": 3,
+        "coluna": "esquerda",
+        "fonte": "02/09 BAFF S SANTA CASA 18,00"
+      },
+      {
+        "data": "02/09",
+        "estabelecimento": "ACORES PARKS-CT",
+        "parcela": "",
+        "valor": "35.00",
+        "cartao": "0539",
+        "tipo": "nacional",
+        "pagina": 3,
+        "coluna": "esquerda",
+        "fonte": "02/09 ACORES PARKS-CT 35,00"
+      },
+      {
+        "data": "03/09",
+        "estabelecimento": "PANIFICADORA BELLA ALB",
+        "parcela": "",
+        "valor": "11.85",
+        "cartao": "0539",
+        "tipo": "nacional",
+        "pagina": 3,
+        "coluna": "esquerda",
+        "fonte": "03/09 PANIFICADORA BELLA ALB 11,85"
+      },
+      {
+        "data": "04/09",
+        "estabelecimento": "MP *BARBEARIADONO",
+        "parcela": "",
+        "valor": "80.00",
+        "cartao": "0539",
+        "tipo": "nacional",
+        "pagina": 3,
+        "coluna": "esquerda",
+        "fonte": "04/09 MP *BARBEARIADONO 80,00"
+      },
+      {
+        "data": "05/09",
+        "estabelecimento": "PANIFICADORA BELLA ALB",
+        "parcela": "",
+        "valor": "2.86",
+        "cartao": "0539",
+        "tipo": "nacional",
+        "pagina": 3,
+        "coluna": "esquerda",
+        "fonte": "05/09 PANIFICADORA BELLA ALB 2,86"
+      },
+      {
+        "data": "06/09",
+        "estabelecimento": "GOBR COMERCIO",
+        "parcela": "",
+        "valor": "36.90",
+        "cartao": "0539",
+        "tipo": "nacional",
+        "pagina": 3,
+        "coluna": "esquerda",
+        "fonte": "06/09 GOBR COMERCIO 36,90"
+      },
+      {
+        "data": "06/09",
+        "estabelecimento": "ASSOCIACAO ATLETICA B",
+        "parcela": "",
+        "valor": "109.25",
+        "cartao": "0539",
+        "tipo": "nacional",
+        "pagina": 3,
+        "coluna": "esquerda",
+        "fonte": "06/09 ASSOCIACAO ATLETICA B 109,25"
+      },
+      {
+        "data": "10/12",
+        "estabelecimento": "AMAZONMKTPLC*UPTEC",
+        "parcela": "09/12",
+        "valor": "160.61",
+        "cartao": "1929",
+        "tipo": "nacional",
+        "pagina": 3,
+        "coluna": "esquerda",
+        "fonte": "10/12 AMAZONMKTPLC*UPTEC09/12 160,61"
+      },
+      {
+        "data": "14/08",
+        "estabelecimento": "APPLE.COM/BILL",
+        "parcela": "",
+        "valor": "5.90",
+        "cartao": "1929",
+        "tipo": "nacional",
+        "pagina": 3,
+        "coluna": "esquerda",
+        "fonte": "14/08 APPLE.COM/BILL 5,90"
+      },
+      {
+        "data": "14/08",
+        "estabelecimento": "MICROSOFT*STORE",
+        "parcela": "",
+        "valor": "599.00",
+        "cartao": "1929",
+        "tipo": "nacional",
+        "pagina": 3,
+        "coluna": "esquerda",
+        "fonte": "14/08 MICROSOFT*STORE 599,00"
+      },
+      {
+        "data": "21/08",
+        "estabelecimento": "Amazon Prime Aluguel",
+        "parcela": "",
+        "valor": "14.90",
+        "cartao": "1929",
+        "tipo": "nacional",
+        "pagina": 3,
+        "coluna": "esquerda",
+        "fonte": "21/08 Amazon Prime Aluguel 14,90"
+      },
+      {
+        "data": "23/08",
+        "estabelecimento": "MERCADOLIVRE*CHRIS",
+        "parcela": "",
+        "valor": "23.18",
+        "cartao": "1929",
+        "tipo": "nacional",
+        "pagina": 3,
+        "coluna": "esquerda",
+        "fonte": "23/08 MERCADOLIVRE*CHRIS 23,18"
+      },
+      {
+        "data": "24/08",
+        "estabelecimento": "NETFLIX.COM",
+        "parcela": "",
+        "valor": "20.90",
+        "cartao": "1929",
+        "tipo": "nacional",
+        "pagina": 3,
+        "coluna": "esquerda",
+        "fonte": "24/08 NETFLIX.COM 20,90"
+      },
+      {
+        "data": "25/08",
+        "estabelecimento": "APPLE.COM/BILL",
+        "parcela": "",
+        "valor": "14.90",
+        "cartao": "1929",
+        "tipo": "nacional",
+        "pagina": 3,
+        "coluna": "esquerda",
+        "fonte": "25/08 APPLE.COM/BILL 14,90"
+      },
+      {
+        "data": "27/08",
+        "estabelecimento": "EBN *SPOTIFY",
+        "parcela": "",
+        "valor": "31.90",
+        "cartao": "1929",
+        "tipo": "nacional",
+        "pagina": 3,
+        "coluna": "esquerda",
+        "fonte": "27/08 EBN *SPOTIFY 31,90"
+      },
+      {
+        "data": "05/09",
+        "estabelecimento": "Amazon Digital BR",
+        "parcela": "",
+        "valor": "34.90",
+        "cartao": "1929",
+        "tipo": "nacional",
+        "pagina": 3,
+        "coluna": "esquerda",
+        "fonte": "05/09 Amazon Digital BR 34,90"
+      },
+      {
+        "data": "16/08",
+        "estabelecimento": "ZOOSPECOMMERCEPARQ",
+        "parcela": "01/02",
+        "valor": "72.16",
+        "cartao": "9871",
+        "tipo": "nacional",
+        "pagina": 3,
+        "coluna": "esquerda",
+        "fonte": "16/08 ZOOSPECOMMERCEPARQ01/02 72,16"
+      },
+      {
+        "data": "17/06",
+        "estabelecimento": "CAASP LAPA",
+        "parcela": "03/03",
+        "valor": "51.83",
+        "cartao": "3878",
+        "tipo": "nacional",
+        "pagina": 3,
+        "coluna": "esquerda",
+        "fonte": "17/06 CAASP LAPA 03/03 51,83"
+      },
+      {
+        "data": "28/06",
+        "estabelecimento": "Zara Brasil LTDA",
+        "parcela": "03/05",
+        "valor": "317.12",
+        "cartao": "3878",
+        "tipo": "nacional",
+        "pagina": 3,
+        "coluna": "esquerda",
+        "fonte": "28/06 Zara Brasil LTDA 03/05 317,12"
+      },
+      {
+        "data": "01/07",
+        "estabelecimento": "PAGUEMENOS00209",
+        "parcela": "03/03",
+        "valor": "42.01",
+        "cartao": "3878",
+        "tipo": "nacional",
+        "pagina": 3,
+        "coluna": "esquerda",
+        "fonte": "01/07 PAGUEMENOS00209 03/03 42,01"
+      },
+      {
+        "data": "23/07",
+        "estabelecimento": "RAIA DROGASIL SA",
+        "parcela": "02/03",
+        "valor": "82.33",
+        "cartao": "3878",
+        "tipo": "nacional",
+        "pagina": 3,
+        "coluna": "esquerda",
+        "fonte": "23/07 RAIA DROGASIL SA 02/03 82,33"
+      },
+      {
+        "data": "10/08",
+        "estabelecimento": "SHOPEE *MSModa",
+        "parcela": "",
+        "valor": "29.60",
+        "cartao": "3878",
+        "tipo": "nacional",
+        "pagina": 3,
+        "coluna": "esquerda",
+        "fonte": "10/08 SHOPEE *MSModa 29,60"
+      },
+      {
+        "data": "12/08",
+        "estabelecimento": "Wellhub Isabela Paixao",
+        "parcela": "",
+        "valor": "319.99",
+        "cartao": "3878",
+        "tipo": "nacional",
+        "pagina": 3,
+        "coluna": "esquerda",
+        "fonte": "12/08 Wellhub Isabela Paixao 319,99"
+      },
+      {
+        "data": "12/08",
+        "estabelecimento": "99APP *99App",
+        "parcela": "",
+        "valor": "9.90",
+        "cartao": "3878",
+        "tipo": "nacional",
+        "pagina": 3,
+        "coluna": "direita",
+        "fonte": "12/08 99APP *99App 9,90"
+      },
+      {
+        "data": "12/08",
+        "estabelecimento": "99APP *99App",
+        "parcela": "",
+        "valor": "8.28",
+        "cartao": "3878",
+        "tipo": "nacional",
+        "pagina": 3,
+        "coluna": "direita",
+        "fonte": "12/08 99APP *99App 8,28"
+      },
+      {
+        "data": "13/08",
+        "estabelecimento": "CAASP LAPA",
+        "parcela": "",
+        "valor": "39.64",
+        "cartao": "3878",
+        "tipo": "nacional",
+        "pagina": 3,
+        "coluna": "direita",
+        "fonte": "13/08 CAASP LAPA 39,64"
+      },
+      {
+        "data": "14/08",
+        "estabelecimento": "Shopee*MARABO BAZAR PA",
+        "parcela": "",
+        "valor": "34.99",
+        "cartao": "3878",
+        "tipo": "nacional",
+        "pagina": 3,
+        "coluna": "direita",
+        "fonte": "14/08 Shopee*MARABO BAZAR PA 34,99"
+      },
+      {
+        "data": "15/08",
+        "estabelecimento": "RESERVA PAULISTA ADMIN",
+        "parcela": "",
+        "valor": "39.99",
+        "cartao": "3878",
+        "tipo": "nacional",
+        "pagina": 3,
+        "coluna": "direita",
+        "fonte": "15/08 RESERVA PAULISTA ADMIN 39,99"
+      },
+      {
+        "data": "15/08",
+        "estabelecimento": "SHOPEE *HGUTILIDADESDO",
+        "parcela": "",
+        "valor": "118.70",
+        "cartao": "3878",
+        "tipo": "nacional",
+        "pagina": 3,
+        "coluna": "direita",
+        "fonte": "15/08 SHOPEE *HGUTILIDADESDO 118,70"
+      },
+      {
+        "data": "15/08",
+        "estabelecimento": "Shopee*COMERCIAL RULLI",
+        "parcela": "",
+        "valor": "53.66",
+        "cartao": "3878",
+        "tipo": "nacional",
+        "pagina": 3,
+        "coluna": "direita",
+        "fonte": "15/08 Shopee*COMERCIAL RULLI 53,66"
+      },
+      {
+        "data": "16/08",
+        "estabelecimento": "POSTO DE SERVICOS PAZ",
+        "parcela": "",
+        "valor": "254.73",
+        "cartao": "3878",
+        "tipo": "nacional",
+        "pagina": 3,
+        "coluna": "direita",
+        "fonte": "16/08 POSTO DE SERVICOS PAZ 254,73"
+      },
+      {
+        "data": "17/08",
+        "estabelecimento": "AUTO POSTO ALBION LTD",
+        "parcela": "",
+        "valor": "70.00",
+        "cartao": "3878",
+        "tipo": "nacional",
+        "pagina": 3,
+        "coluna": "direita",
+        "fonte": "17/08 AUTO POSTO ALBION LTD 70,00"
+      },
+      {
+        "data": "18/08",
+        "estabelecimento": "DL*UberRides",
+        "parcela": "",
+        "valor": "12.95",
+        "cartao": "3878",
+        "tipo": "nacional",
+        "pagina": 3,
+        "coluna": "direita",
+        "fonte": "18/08 DL*UberRides 12,95"
+      },
+      {
+        "data": "18/08",
+        "estabelecimento": "99APP *99App",
+        "parcela": "",
+        "valor": "12.60",
+        "cartao": "3878",
+        "tipo": "nacional",
+        "pagina": 3,
+        "coluna": "direita",
+        "fonte": "18/08 99APP *99App 12,60"
+      },
+      {
+        "data": "18/08",
+        "estabelecimento": "99APP *99App",
+        "parcela": "",
+        "valor": "11.90",
+        "cartao": "3878",
+        "tipo": "nacional",
+        "pagina": 3,
+        "coluna": "direita",
+        "fonte": "18/08 99APP *99App 11,90"
+      },
+      {
+        "data": "19/08",
+        "estabelecimento": "DL*UberRides",
+        "parcela": "",
+        "valor": "1.09",
+        "cartao": "3878",
+        "tipo": "nacional",
+        "pagina": 3,
+        "coluna": "direita",
+        "fonte": "19/08 DL*UberRides 1,09"
+      },
+      {
+        "data": "19/08",
+        "estabelecimento": "99APP *99App",
+        "parcela": "",
+        "valor": "9.20",
+        "cartao": "3878",
+        "tipo": "nacional",
+        "pagina": 3,
+        "coluna": "direita",
+        "fonte": "19/08 99APP *99App 9,20"
+      },
+      {
+        "data": "19/08",
+        "estabelecimento": "99APP *99App",
+        "parcela": "",
+        "valor": "11.90",
+        "cartao": "3878",
+        "tipo": "nacional",
+        "pagina": 3,
+        "coluna": "direita",
+        "fonte": "19/08 99APP *99App 11,90"
+      },
+      {
+        "data": "21/08",
+        "estabelecimento": "MP *DAVIDELIRA",
+        "parcela": "",
+        "valor": "20.00",
+        "cartao": "3878",
+        "tipo": "nacional",
+        "pagina": 3,
+        "coluna": "direita",
+        "fonte": "21/08 MP *DAVIDELIRA 20,00"
+      },
+      {
+        "data": "21/08",
+        "estabelecimento": "CAASP LAPA",
+        "parcela": "01/03",
+        "valor": "33.39",
+        "cartao": "3878",
+        "tipo": "nacional",
+        "pagina": 3,
+        "coluna": "direita",
+        "fonte": "21/08 CAASP LAPA 01/03 33,39"
+      },
+      {
+        "data": "21/08",
+        "estabelecimento": "99APP *99App",
+        "parcela": "",
+        "valor": "12.00",
+        "cartao": "3878",
+        "tipo": "nacional",
+        "pagina": 3,
+        "coluna": "direita",
+        "fonte": "21/08 99APP *99App 12,00"
+      },
+      {
+        "data": "21/08",
+        "estabelecimento": "99APP *99App",
+        "parcela": "",
+        "valor": "9.20",
+        "cartao": "3878",
+        "tipo": "nacional",
+        "pagina": 3,
+        "coluna": "direita",
+        "fonte": "21/08 99APP *99App 9,20"
+      },
+      {
+        "data": "22/08",
+        "estabelecimento": "Shopee*HW COMERCIO DE",
+        "parcela": "",
+        "valor": "11.99",
+        "cartao": "3878",
+        "tipo": "nacional",
+        "pagina": 3,
+        "coluna": "direita",
+        "fonte": "22/08 Shopee*HW COMERCIO DE 11,99"
+      },
+      {
+        "data": "22/08",
+        "estabelecimento": "AMAZON BR",
+        "parcela": "",
+        "valor": "31.49",
+        "cartao": "3878",
+        "tipo": "nacional",
+        "pagina": 3,
+        "coluna": "direita",
+        "fonte": "22/08 AMAZON BR 31,49"
+      },
+      {
+        "data": "23/08",
+        "estabelecimento": "99APP *99App",
+        "parcela": "",
+        "valor": "16.80",
+        "cartao": "3878",
+        "tipo": "nacional",
+        "pagina": 3,
+        "coluna": "direita",
+        "fonte": "23/08 99APP *99App 16,80"
+      },
+      {
+        "data": "25/08",
+        "estabelecimento": "KIDSTOK",
+        "parcela": "",
+        "valor": "32.00",
+        "cartao": "3878",
+        "tipo": "nacional",
+        "pagina": 3,
+        "coluna": "direita",
+        "fonte": "25/08 KIDSTOK 32,00"
+      },
+      {
+        "data": "25/08",
+        "estabelecimento": "DRUGSTORE LIBERDADE",
+        "parcela": "",
+        "valor": "78.30",
+        "cartao": "3878",
+        "tipo": "nacional",
+        "pagina": 3,
+        "coluna": "direita",
+        "fonte": "25/08 DRUGSTORE LIBERDADE 78,30"
+      },
+      {
+        "data": "26/08",
+        "estabelecimento": "DL*UberRides",
+        "parcela": "",
+        "valor": "11.01",
+        "cartao": "3878",
+        "tipo": "nacional",
+        "pagina": 3,
+        "coluna": "direita",
+        "fonte": "26/08 DL*UberRides 11,01"
+      },
+      {
+        "data": "26/08",
+        "estabelecimento": "99APP *99App",
+        "parcela": "",
+        "valor": "9.66",
+        "cartao": "3878",
+        "tipo": "nacional",
+        "pagina": 3,
+        "coluna": "direita",
+        "fonte": "26/08 99APP *99App 9,66"
+      },
+      {
+        "data": "28/08",
+        "estabelecimento": "DL*UberRides",
+        "parcela": "",
+        "valor": "9.93",
+        "cartao": "3878",
+        "tipo": "nacional",
+        "pagina": 3,
+        "coluna": "direita",
+        "fonte": "28/08 DL*UberRides 9,93"
+      },
+      {
+        "data": "28/08",
+        "estabelecimento": "DL*UberRides",
+        "parcela": "",
+        "valor": "7.95",
+        "cartao": "3878",
+        "tipo": "nacional",
+        "pagina": 3,
+        "coluna": "direita",
+        "fonte": "28/08 DL*UberRides 7,95"
+      },
+      {
+        "data": "28/08",
+        "estabelecimento": "Drogaria_SP drogar",
+        "parcela": "01/03",
+        "valor": "92.90",
+        "cartao": "3878",
+        "tipo": "nacional",
+        "pagina": 3,
+        "coluna": "direita",
+        "fonte": "28/08 Drogaria_SP drogar01/03 92,90"
+      },
+      {
+        "data": "31/08",
+        "estabelecimento": "DL*UberRides",
+        "parcela": "",
+        "valor": "7.45",
+        "cartao": "3878",
+        "tipo": "nacional",
+        "pagina": 3,
+        "coluna": "direita",
+        "fonte": "31/08 DL*UberRides 7,45"
+      },
+      {
+        "data": "31/08",
+        "estabelecimento": "99APP *99App",
+        "parcela": "",
+        "valor": "9.76",
+        "cartao": "3878",
+        "tipo": "nacional",
+        "pagina": 3,
+        "coluna": "direita",
+        "fonte": "31/08 99APP *99App 9,76"
+      },
+      {
+        "data": "01/09",
+        "estabelecimento": "Shopee*M M TOYS COMERC",
+        "parcela": "",
+        "valor": "51.93",
+        "cartao": "3878",
+        "tipo": "nacional",
+        "pagina": 3,
+        "coluna": "direita",
+        "fonte": "01/09 Shopee*M M TOYS COMERC 51,93"
+      },
+      {
+        "data": "01/09",
+        "estabelecimento": "PANIFICADORA BELLA ALB",
+        "parcela": "",
+        "valor": "21.56",
+        "cartao": "3878",
+        "tipo": "nacional",
+        "pagina": 3,
+        "coluna": "direita",
+        "fonte": "01/09 PANIFICADORA BELLA ALB 21,56"
+      },
+      {
+        "data": "02/09",
+        "estabelecimento": "DL*UberRides",
+        "parcela": "",
+        "valor": "7.54",
+        "cartao": "3878",
+        "tipo": "nacional",
+        "pagina": 3,
+        "coluna": "direita",
+        "fonte": "02/09 DL*UberRides 7,54"
+      },
+      {
+        "data": "02/09",
+        "estabelecimento": "MP *DAVIDELIRA",
+        "parcela": "",
+        "valor": "20.00",
+        "cartao": "3878",
+        "tipo": "nacional",
+        "pagina": 3,
+        "coluna": "direita",
+        "fonte": "02/09 MP *DAVIDELIRA 20,00"
+      },
+      {
+        "data": "02/09",
+        "estabelecimento": "Uber UBER *TRIP HELP.U",
+        "parcela": "",
+        "valor": "8.20",
+        "cartao": "3878",
+        "tipo": "nacional",
+        "pagina": 3,
+        "coluna": "direita",
+        "fonte": "02/09 Uber UBER *TRIP HELP.U 8,20"
+      },
+      {
+        "data": "04/09",
+        "estabelecimento": "PORTO SEGURO CIA S",
+        "parcela": "01/10",
+        "valor": "230.06",
+        "cartao": "3878",
+        "tipo": "nacional",
+        "pagina": 4,
+        "coluna": "esquerda",
+        "fonte": "04/09 PORTO SEGURO CIA S01/10 230,06"
+      },
+      {
+        "data": "04/09",
+        "estabelecimento": "Uber UBER *TRIP HELP.U",
+        "parcela": "",
+        "valor": "8.21",
+        "cartao": "3878",
+        "tipo": "nacional",
+        "pagina": 4,
+        "coluna": "esquerda",
+        "fonte": "04/09 Uber UBER *TRIP HELP.U 8,21"
+      },
+      {
+        "data": "04/09",
+        "estabelecimento": "CAASP LAPA",
+        "parcela": "01/03",
+        "valor": "28.84",
+        "cartao": "3878",
+        "tipo": "nacional",
+        "pagina": 4,
+        "coluna": "esquerda",
+        "fonte": "04/09 CAASP LAPA 01/03 28,84"
+      },
+      {
+        "data": "04/09",
+        "estabelecimento": "99APP *99App",
+        "parcela": "",
+        "valor": "9.76",
+        "cartao": "3878",
+        "tipo": "nacional",
+        "pagina": 4,
+        "coluna": "esquerda",
+        "fonte": "04/09 99APP *99App 9,76"
+      },
+      {
+        "data": "06/09",
+        "estabelecimento": "POSTO DE SERVICOS PAZ",
+        "parcela": "",
+        "valor": "154.75",
+        "cartao": "3878",
+        "tipo": "nacional",
+        "pagina": 4,
+        "coluna": "esquerda",
+        "fonte": "06/09 POSTO DE SERVICOS PAZ 154,75"
+      },
+      {
+        "data": "06/09",
+        "estabelecimento": "PAO DE ACUCAR-1207",
+        "parcela": "",
+        "valor": "393.96",
+        "cartao": "3878",
+        "tipo": "nacional",
+        "pagina": 4,
+        "coluna": "esquerda",
+        "fonte": "06/09 PAO DE ACUCAR-1207 393,96"
+      },
+      {
+        "data": "15/08",
+        "estabelecimento": "GITHUB, INC.",
+        "parcela": "",
+        "valor": "55.40",
+        "cartao": "0539",
+        "tipo": "internacional",
+        "pagina": 4,
+        "coluna": "esquerda",
+        "fonte": "15/08 GITHUB, INC. 55,40"
+      },
+      {
+        "data": "—",
+        "estabelecimento": "Repasse de IOF internacional",
+        "parcela": "",
+        "valor": "1.94",
+        "cartao": "0539",
+        "tipo": "iof",
+        "pagina": 4,
+        "coluna": "esquerda",
+        "fonte": "Repasse de IOF em R$ 1,94"
+      },
+      {
+        "data": "05/09",
+        "estabelecimento": "OPENAI *CHATGPT SUBSCR",
+        "parcela": "",
+        "valor": "105.74",
+        "cartao": "1929",
+        "tipo": "internacional",
+        "pagina": 4,
+        "coluna": "esquerda",
+        "fonte": "05/09 OPENAI *CHATGPT SUBSCR 105,74"
+      },
+      {
+        "data": "07/09",
+        "estabelecimento": "OPENAI *CHATGPT SUBSCR",
+        "parcela": "",
+        "valor": "457.56",
+        "cartao": "1929",
+        "tipo": "internacional",
+        "pagina": 4,
+        "coluna": "esquerda",
+        "fonte": "07/09 OPENAI *CHATGPT SUBSCR 457,56"
+      },
+      {
+        "data": "—",
+        "estabelecimento": "Repasse de IOF internacional",
+        "parcela": "",
+        "valor": "19.68",
+        "cartao": "1929",
+        "tipo": "iof",
+        "pagina": 4,
+        "coluna": "esquerda",
+        "fonte": "Repasse de IOF em R$ 19,68"
+      }
+    ],
+    "futuras": [
+      {
+        "data": "10/12",
+        "estabelecimento": "AMAZONMKTPLC*UPTEC",
+        "parcela": "10/12",
+        "valor": "160.61",
+        "cartao": null,
+        "tipo": "futura",
+        "pagina": 4,
+        "coluna": "esquerda",
+        "fonte": "10/12 AMAZONMKTPLC*UPTEC10/12 160,61"
+      },
+      {
+        "data": "12/03",
+        "estabelecimento": "ITAUSHOP",
+        "parcela": "07/15",
+        "valor": "285.46",
+        "cartao": null,
+        "tipo": "futura",
+        "pagina": 4,
+        "coluna": "esquerda",
+        "fonte": "12/03 ITAUSHOP 07/15 285,46"
+      },
+      {
+        "data": "28/06",
+        "estabelecimento": "Zara Brasil LTDA",
+        "parcela": "04/05",
+        "valor": "317.12",
+        "cartao": null,
+        "tipo": "futura",
+        "pagina": 4,
+        "coluna": "esquerda",
+        "fonte": "28/06 Zara Brasil LTDA 04/05 317,12"
+      },
+      {
+        "data": "08/07",
+        "estabelecimento": "MP *ASSTECNICAELE",
+        "parcela": "03/08",
+        "valor": "137.50",
+        "cartao": null,
+        "tipo": "futura",
+        "pagina": 4,
+        "coluna": "esquerda",
+        "fonte": "08/07 MP *ASSTECNICAELE 03/08 137,50"
+      },
+      {
+        "data": "23/07",
+        "estabelecimento": "RAIA DROGASIL SA",
+        "parcela": "03/03",
+        "valor": "82.33",
+        "cartao": null,
+        "tipo": "futura",
+        "pagina": 4,
+        "coluna": "esquerda",
+        "fonte": "23/07 RAIA DROGASIL SA 03/03 82,33"
+      },
+      {
+        "data": "25/07",
+        "estabelecimento": "SAMSUNG NO ITAU",
+        "parcela": "03/14",
+        "valor": "300.04",
+        "cartao": null,
+        "tipo": "futura",
+        "pagina": 4,
+        "coluna": "esquerda",
+        "fonte": "25/07 SAMSUNG NO ITAU 03/14 300,04"
+      },
+      {
+        "data": "16/08",
+        "estabelecimento": "ZOOSPECOMMERCEPARQ",
+        "parcela": "02/02",
+        "valor": "72.16",
+        "cartao": null,
+        "tipo": "futura",
+        "pagina": 4,
+        "coluna": "esquerda",
+        "fonte": "16/08 ZOOSPECOMMERCEPARQ02/02 72,16"
+      },
+      {
+        "data": "21/08",
+        "estabelecimento": "CAASP LAPA",
+        "parcela": "02/03",
+        "valor": "33.39",
+        "cartao": null,
+        "tipo": "futura",
+        "pagina": 4,
+        "coluna": "esquerda",
+        "fonte": "21/08 CAASP LAPA 02/03 33,39"
+      },
+      {
+        "data": "23/08",
+        "estabelecimento": "JIM.COM* MAGALI DA",
+        "parcela": "02/04",
+        "valor": "129.46",
+        "cartao": null,
+        "tipo": "futura",
+        "pagina": 4,
+        "coluna": "esquerda",
+        "fonte": "23/08 JIM.COM* MAGALI DA02/04 129,46"
+      },
+      {
+        "data": "28/08",
+        "estabelecimento": "Drogaria_SP drogar",
+        "parcela": "02/03",
+        "valor": "92.90",
+        "cartao": null,
+        "tipo": "futura",
+        "pagina": 4,
+        "coluna": "esquerda",
+        "fonte": "28/08 Drogaria_SP drogar02/03 92,90"
+      },
+      {
+        "data": "04/09",
+        "estabelecimento": "PORTO SEGURO CIA S",
+        "parcela": "02/10",
+        "valor": "230.06",
+        "cartao": null,
+        "tipo": "futura",
+        "pagina": 4,
+        "coluna": "esquerda",
+        "fonte": "04/09 PORTO SEGURO CIA S02/10 230,06"
+      },
+      {
+        "data": "04/09",
+        "estabelecimento": "CAASP LAPA",
+        "parcela": "02/03",
+        "valor": "28.84",
+        "cartao": null,
+        "tipo": "futura",
+        "pagina": 4,
+        "coluna": "esquerda",
+        "fonte": "04/09 CAASP LAPA 02/03 28,84"
+      }
+    ],
+    "subtotais": [
+      {
+        "cartao": "0539",
+        "tipo": "nacional",
+        "valor": "3425.81"
+      },
+      {
+        "cartao": "1929",
+        "tipo": "nacional",
+        "valor": "906.19"
+      },
+      {
+        "cartao": "9871",
+        "tipo": "nacional",
+        "valor": "72.16"
+      },
+      {
+        "cartao": "3878",
+        "tipo": "nacional",
+        "valor": "2861.05"
+      },
+      {
+        "cartao": "0539",
+        "tipo": "internacional",
+        "valor": "57.34"
+      },
+      {
+        "cartao": "1929",
+        "tipo": "internacional",
+        "valor": "582.98"
+      }
+    ],
+    "validacoes": [
+      {
+        "checagem": "Cartão 0539 nacional",
+        "calculado": "3425.81",
+        "informado": "3425.81",
+        "diferenca": "0.00"
+      },
+      {
+        "checagem": "Cartão 1929 nacional",
+        "calculado": "906.19",
+        "informado": "906.19",
+        "diferenca": "0.00"
+      },
+      {
+        "checagem": "Cartão 9871 nacional",
+        "calculado": "72.16",
+        "informado": "72.16",
+        "diferenca": "0.00"
+      },
+      {
+        "checagem": "Cartão 3878 nacional",
+        "calculado": "2861.05",
+        "informado": "2861.05",
+        "diferenca": "0.00"
+      },
+      {
+        "checagem": "Cartão 0539 internacional",
+        "calculado": "57.34",
+        "informado": "57.34",
+        "diferenca": "0.00"
+      },
+      {
+        "checagem": "Cartão 1929 internacional",
+        "calculado": "582.98",
+        "informado": "582.98",
+        "diferenca": "0.00"
+      }
+    ],
+    "total_fatura": "7905.53",
+    "vencimento": "15/09/2026",
+    "emissao": "08/09/2026",
+    "proxima_fatura": "1869.87",
+    "demais_faturas": "9164.49",
+    "total_futuras": "11034.36"
+  },
+  {
+    "arquivo": "Fatura_VISA_100482751883_09-2026.pdf",
+    "lancamentos": [
+      {
+        "data": "29/07",
+        "estabelecimento": "IFD*iFood",
+        "parcela": "",
+        "valor": "12.90",
+        "cartao": "2587",
+        "tipo": "nacional",
+        "pagina": 2,
+        "coluna": "esquerda",
+        "fonte": "29/07 IFD*iFood 12,90"
+      },
+      {
+        "data": "29/07",
+        "estabelecimento": "CdbAlberico2De",
+        "parcela": "",
+        "valor": "25.00",
+        "cartao": "2587",
+        "tipo": "nacional",
+        "pagina": 2,
+        "coluna": "esquerda",
+        "fonte": "29/07 CdbAlberico2De 25,00"
+      },
+      {
+        "data": "29/07",
+        "estabelecimento": "99Food *Esfiha Imigrant",
+        "parcela": "",
+        "valor": "67.31",
+        "cartao": "2587",
+        "tipo": "nacional",
+        "pagina": 2,
+        "coluna": "esquerda",
+        "fonte": "29/07 99Food *Esfiha Imigrant 67,31"
+      },
+      {
+        "data": "31/07",
+        "estabelecimento": "IFD*EMPORIO DAS PIZZAS",
+        "parcela": "",
+        "valor": "65.84",
+        "cartao": "2587",
+        "tipo": "nacional",
+        "pagina": 2,
+        "coluna": "esquerda",
+        "fonte": "31/07 IFD*EMPORIO DAS PIZZAS 65,84"
+      },
+      {
+        "data": "01/08",
+        "estabelecimento": "AGUA NA BOCA DOCEIRA L",
+        "parcela": "",
+        "valor": "18.00",
+        "cartao": "2587",
+        "tipo": "nacional",
+        "pagina": 2,
+        "coluna": "esquerda",
+        "fonte": "01/08 AGUA NA BOCA DOCEIRA L 18,00"
+      },
+      {
+        "data": "01/08",
+        "estabelecimento": "AGUA NA BOCA DOCEIRA L",
+        "parcela": "",
+        "valor": "20.00",
+        "cartao": "2587",
+        "tipo": "nacional",
+        "pagina": 2,
+        "coluna": "esquerda",
+        "fonte": "01/08 AGUA NA BOCA DOCEIRA L 20,00"
+      },
+      {
+        "data": "07/08",
+        "estabelecimento": "IFD*EMPORIO DAS PIZZAS",
+        "parcela": "",
+        "valor": "74.99",
+        "cartao": "2587",
+        "tipo": "nacional",
+        "pagina": 2,
+        "coluna": "esquerda",
+        "fonte": "07/08 IFD*EMPORIO DAS PIZZAS 74,99"
+      },
+      {
+        "data": "09/08",
+        "estabelecimento": "PAO DE ACUCAR-2408",
+        "parcela": "",
+        "valor": "74.53",
+        "cartao": "2587",
+        "tipo": "nacional",
+        "pagina": 2,
+        "coluna": "esquerda",
+        "fonte": "09/08 PAO DE ACUCAR-2408 74,53"
+      },
+      {
+        "data": "12/08",
+        "estabelecimento": "IFD*TORTA NO QUINTAL L",
+        "parcela": "",
+        "valor": "196.48",
+        "cartao": "2587",
+        "tipo": "nacional",
+        "pagina": 2,
+        "coluna": "esquerda",
+        "fonte": "12/08 IFD*TORTA NO QUINTAL L 196,48"
+      },
+      {
+        "data": "21/08",
+        "estabelecimento": "IFD*LANCHONETE MELLO F",
+        "parcela": "",
+        "valor": "69.32",
+        "cartao": "2587",
+        "tipo": "nacional",
+        "pagina": 2,
+        "coluna": "esquerda",
+        "fonte": "21/08 IFD*LANCHONETE MELLO F 69,32"
+      },
+      {
+        "data": "02/07",
+        "estabelecimento": "RAIA DROGASIL SA",
+        "parcela": "02/03",
+        "valor": "41.99",
+        "cartao": "7396",
+        "tipo": "nacional",
+        "pagina": 2,
+        "coluna": "esquerda",
+        "fonte": "02/07 RAIA DROGASIL SA 02/03 41,99"
+      },
+      {
+        "data": "26/07",
+        "estabelecimento": "ECOPARQUEECOMMERCE",
+        "parcela": "01/03",
+        "valor": "46.60",
+        "cartao": "7396",
+        "tipo": "nacional",
+        "pagina": 2,
+        "coluna": "esquerda",
+        "fonte": "26/07 ECOPARQUEECOMMERCE01/03 46,60"
+      },
+      {
+        "data": "06/08",
+        "estabelecimento": "99Food *Lig-lig - Lapa",
+        "parcela": "",
+        "valor": "53.93",
+        "cartao": "7396",
+        "tipo": "nacional",
+        "pagina": 2,
+        "coluna": "esquerda",
+        "fonte": "06/08 99Food *Lig-lig - Lapa 53,93"
+      },
+      {
+        "data": "08/08",
+        "estabelecimento": "99Food *Faustolo Restau",
+        "parcela": "",
+        "valor": "53.82",
+        "cartao": "7396",
+        "tipo": "nacional",
+        "pagina": 2,
+        "coluna": "direita",
+        "fonte": "08/08 99Food *Faustolo Restau 53,82"
+      },
+      {
+        "data": "13/08",
+        "estabelecimento": "99Food *Esfiha Imigrant",
+        "parcela": "",
+        "valor": "72.56",
+        "cartao": "7396",
+        "tipo": "nacional",
+        "pagina": 2,
+        "coluna": "direita",
+        "fonte": "13/08 99Food *Esfiha Imigrant 72,56"
+      },
+      {
+        "data": "19/08",
+        "estabelecimento": "99Food *SENHORA BURGUER",
+        "parcela": "",
+        "valor": "43.34",
+        "cartao": "7396",
+        "tipo": "nacional",
+        "pagina": 2,
+        "coluna": "direita",
+        "fonte": "19/08 99Food *SENHORA BURGUER 43,34"
+      }
+    ],
+    "futuras": [
+      {
+        "data": "02/07",
+        "estabelecimento": "RAIA DROGASIL SA",
+        "parcela": "03/03",
+        "valor": "41.99",
+        "cartao": null,
+        "tipo": "futura",
+        "pagina": 2,
+        "coluna": "direita",
+        "fonte": "02/07 RAIA DROGASIL SA 03/03 41,99"
+      },
+      {
+        "data": "26/07",
+        "estabelecimento": "ECOPARQUEECOMMERCE",
+        "parcela": "02/03",
+        "valor": "46.60",
+        "cartao": null,
+        "tipo": "futura",
+        "pagina": 2,
+        "coluna": "direita",
+        "fonte": "26/07 ECOPARQUEECOMMERCE02/03 46,60"
+      }
+    ],
+    "subtotais": [
+      {
+        "cartao": "2587",
+        "tipo": "nacional",
+        "valor": "624.37"
+      },
+      {
+        "cartao": "7396",
+        "tipo": "nacional",
+        "valor": "312.24"
+      }
+    ],
+    "validacoes": [
+      {
+        "checagem": "Cartão 2587 nacional",
+        "calculado": "624.37",
+        "informado": "624.37",
+        "diferenca": "0.00"
+      },
+      {
+        "checagem": "Cartão 7396 nacional",
+        "calculado": "312.24",
+        "informado": "312.24",
+        "diferenca": "0.00"
+      }
+    ],
+    "total_fatura": "936.61",
+    "vencimento": "01/09/2026",
+    "emissao": "25/08/2026",
+    "proxima_fatura": "88.59",
+    "demais_faturas": "46.60",
+    "total_futuras": "135.19"
+  }
+]

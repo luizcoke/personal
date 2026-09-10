@@ -1,0 +1,330 @@
+{
+  "versao": 1,
+  "origem": "Imagem final da planilha de agosto enviada por Luiz em 10/09/2026; OneDrive e OpenAI incluídos em Assinaturas.",
+  "criterio_periodo": "Extrato: datas contábeis dentro do mês de referência; cartões: faturas completas do ciclo enviadas pelo usuário, salvo instrução expressa diferente.",
+  "observacoes": [
+    "Os percentuais 50% e 30% nomeiam os blocos do orçamento; não são fatores para multiplicar os gastos.",
+    "A imagem mostra rótulo antigo de seguro com 6 parcelas de R$ 434,73; usar o item Carro Seguro da linha 35 e os valores atuais dos documentos.",
+    "A imagem foi usada só para nomes, ordem e categorias. Nenhum valor de células existentes, metas ou fórmulas é importado.",
+    "linha é o ID estável dos dados; linha_excel é a posição atual visível na planilha. Inserções não recategorizam lançamentos antigos.",
+    "OneDrive e OpenAI ocupam linhas Excel 61 e 62; Spotify 63, Apple 64, Netflix 65, Lazer 66, Loterias 67 e Outros 68. Os IDs permanecem os anteriores.",
+    "Fundo de Reserva não aparece no recorte final: posição Excel não confirmada. Reembolso empresa continua complementar, sem posição visível."
+  ],
+  "linhas": [
+    {
+      "bloco": "Despesas Básicas (50%)",
+      "linha": "21",
+      "item": "Financiamento Apt Lapa *",
+      "categoria": "Casa / Moradia",
+      "linha_excel": "21"
+    },
+    {
+      "bloco": "Despesas Básicas (50%)",
+      "linha": "22",
+      "item": "Condomínio",
+      "categoria": "Casa / Moradia",
+      "linha_excel": "22"
+    },
+    {
+      "bloco": "Despesas Básicas (50%)",
+      "linha": "23",
+      "item": "IPTU",
+      "categoria": "Casa / Moradia",
+      "linha_excel": "23"
+    },
+    {
+      "bloco": "Despesas Básicas (50%)",
+      "linha": "24",
+      "item": "Luz",
+      "categoria": "Casa / Moradia",
+      "linha_excel": "24"
+    },
+    {
+      "bloco": "Despesas Básicas (50%)",
+      "linha": "25",
+      "item": "Conta Celular",
+      "categoria": "Pessoal / Vestuário / Beleza",
+      "linha_excel": "25"
+    },
+    {
+      "bloco": "Despesas Básicas (50%)",
+      "linha": "26",
+      "item": "Conta Internet + TV",
+      "categoria": "Casa / Moradia",
+      "linha_excel": "26"
+    },
+    {
+      "bloco": "Despesas Básicas (50%)",
+      "linha": "27",
+      "item": "Casa Manutenção Apartamento",
+      "categoria": "Casa / Moradia",
+      "linha_excel": "27"
+    },
+    {
+      "bloco": "Despesas Básicas (50%)",
+      "linha": "28",
+      "item": "Casa Faxina semanal *",
+      "categoria": "Casa / Moradia",
+      "linha_excel": "28"
+    },
+    {
+      "bloco": "Despesas Básicas (50%)",
+      "linha": "29",
+      "item": "Gastos Meninos",
+      "categoria": "Filhos / Educação / Cuidados",
+      "linha_excel": "29"
+    },
+    {
+      "bloco": "Despesas Básicas (50%)",
+      "linha": "30",
+      "item": "Gastos Isabela *",
+      "categoria": "Filhos / Educação / Cuidados",
+      "linha_excel": "30"
+    },
+    {
+      "bloco": "Despesas Básicas (50%)",
+      "linha": "31",
+      "item": "Gastos Babá Isabela *",
+      "categoria": "Filhos / Educação / Cuidados",
+      "linha_excel": "31"
+    },
+    {
+      "bloco": "Despesas Básicas (50%)",
+      "linha": "32",
+      "item": "Gastos Babá Isabela Esocial *",
+      "categoria": "Filhos / Educação / Cuidados",
+      "linha_excel": "32"
+    },
+    {
+      "bloco": "Despesas Básicas (50%)",
+      "linha": "33",
+      "item": "Gastos Babá Isabela férias *",
+      "categoria": "Filhos / Educação / Cuidados",
+      "linha_excel": "33"
+    },
+    {
+      "bloco": "Despesas Básicas (50%)",
+      "linha": "34",
+      "item": "Carro IPVA + Licenciamento + Multa *",
+      "categoria": "Veículo / Transporte",
+      "linha_excel": "34"
+    },
+    {
+      "bloco": "Despesas Básicas (50%)",
+      "linha": "35",
+      "item": "Carro Seguro - Porto Seguro",
+      "categoria": "Veículo / Transporte",
+      "linha_excel": "35"
+    },
+    {
+      "bloco": "Despesas Básicas (50%)",
+      "linha": "36",
+      "item": "Carro Lavagem",
+      "categoria": "Veículo / Transporte",
+      "linha_excel": "36"
+    },
+    {
+      "bloco": "Despesas Básicas (50%)",
+      "linha": "37",
+      "item": "Carro Gasolina",
+      "categoria": "Veículo / Transporte",
+      "linha_excel": "37"
+    },
+    {
+      "bloco": "Despesas Básicas (50%)",
+      "linha": "38",
+      "item": "Carro Estacionamento",
+      "categoria": "Veículo / Transporte",
+      "linha_excel": "38"
+    },
+    {
+      "bloco": "Despesas Básicas (50%)",
+      "linha": "39",
+      "item": "HiperMercado",
+      "categoria": "Alimentação",
+      "linha_excel": "39"
+    },
+    {
+      "bloco": "Despesas Básicas (50%)",
+      "linha": "40",
+      "item": "Marmitas",
+      "categoria": "Alimentação",
+      "linha_excel": "40"
+    },
+    {
+      "bloco": "Despesas Básicas (50%)",
+      "linha": "41",
+      "item": "Drogaria",
+      "categoria": "Saúde",
+      "linha_excel": "41"
+    },
+    {
+      "bloco": "Despesas Básicas (50%)",
+      "linha": "42",
+      "item": "Trabalho - Restaurantes",
+      "categoria": "Alimentação",
+      "linha_excel": "42"
+    },
+    {
+      "bloco": "Despesas Básicas (50%)",
+      "linha": "45",
+      "item": "Juros/IOF",
+      "categoria": "Cartões e Dívidas",
+      "linha_excel": "45"
+    },
+    {
+      "bloco": "Despesas Básicas (50%)",
+      "linha": "46",
+      "item": "Outros",
+      "categoria": "Outros",
+      "linha_excel": "46"
+    },
+    {
+      "bloco": "Estilo de Vida e Desejos (30%)",
+      "linha": "49",
+      "item": "Finan. Adiantamento de parcela",
+      "categoria": "Casa / Moradia",
+      "linha_excel": "49"
+    },
+    {
+      "bloco": "Estilo de Vida e Desejos (30%)",
+      "linha": "50",
+      "item": "Corte Cabelo",
+      "categoria": "Pessoal / Vestuário / Beleza",
+      "linha_excel": "50"
+    },
+    {
+      "bloco": "Estilo de Vida e Desejos (30%)",
+      "linha": "51",
+      "item": "Compras / Presentes",
+      "categoria": "Pessoal / Vestuário / Beleza",
+      "linha_excel": "51"
+    },
+    {
+      "bloco": "Estilo de Vida e Desejos (30%)",
+      "linha": "52",
+      "item": "Uber - 99 / Estac / ConectCar",
+      "categoria": "Veículo / Transporte",
+      "linha_excel": "52"
+    },
+    {
+      "bloco": "Estilo de Vida e Desejos (30%)",
+      "linha": "53",
+      "item": "Restaurantes",
+      "categoria": "Alimentação",
+      "linha_excel": "53"
+    },
+    {
+      "bloco": "Estilo de Vida e Desejos (30%)",
+      "linha": "54",
+      "item": "Ifood + snacks + Padaria",
+      "categoria": "Alimentação",
+      "linha_excel": "54"
+    },
+    {
+      "bloco": "Estilo de Vida e Desejos (30%)",
+      "linha": "55",
+      "item": "Mercadão + feira + Bebida + rest. AABB",
+      "categoria": "Alimentação",
+      "linha_excel": "55"
+    },
+    {
+      "bloco": "Estilo de Vida e Desejos (30%)",
+      "linha": "56",
+      "item": "Lançamentos no cartão (final 3878)",
+      "categoria": "Outros",
+      "linha_excel": "56"
+    },
+    {
+      "bloco": "Estilo de Vida e Desejos (30%)",
+      "linha": "57",
+      "item": "CLUBE AABB",
+      "categoria": "Lazer / Viagens",
+      "linha_excel": "57"
+    },
+    {
+      "bloco": "Estilo de Vida e Desejos (30%)",
+      "linha": "58",
+      "item": "Projetos Pessoais",
+      "categoria": "Pessoal / Vestuário / Beleza",
+      "linha_excel": "58"
+    },
+    {
+      "bloco": "Estilo de Vida e Desejos (30%)",
+      "linha": "60",
+      "item": "AMAZON PRIME BR - 12/12",
+      "categoria": "Assinaturas",
+      "linha_excel": "60"
+    },
+    {
+      "bloco": "Estilo de Vida e Desejos (30%)",
+      "linha": "novo-onedrive",
+      "item": "OneDrive — anual",
+      "categoria": "Assinaturas",
+      "linha_excel": "61"
+    },
+    {
+      "bloco": "Estilo de Vida e Desejos (30%)",
+      "linha": "novo-openai",
+      "item": "OpenAI — mensal",
+      "categoria": "Assinaturas",
+      "linha_excel": "62"
+    },
+    {
+      "bloco": "Estilo de Vida e Desejos (30%)",
+      "linha": "61",
+      "item": "Spotify",
+      "categoria": "Assinaturas",
+      "linha_excel": "63"
+    },
+    {
+      "bloco": "Estilo de Vida e Desejos (30%)",
+      "linha": "62",
+      "item": "APPLE COM/BILL Cloud",
+      "categoria": "Assinaturas",
+      "linha_excel": "64"
+    },
+    {
+      "bloco": "Estilo de Vida e Desejos (30%)",
+      "linha": "63",
+      "item": "Netflix + Disney+",
+      "categoria": "Assinaturas",
+      "linha_excel": "65"
+    },
+    {
+      "bloco": "Estilo de Vida e Desejos (30%)",
+      "linha": "64",
+      "item": "Lazer / Viagem",
+      "categoria": "Lazer / Viagens",
+      "linha_excel": "66"
+    },
+    {
+      "bloco": "Estilo de Vida e Desejos (30%)",
+      "linha": "65",
+      "item": "Loterias",
+      "categoria": "Outros",
+      "linha_excel": "67"
+    },
+    {
+      "bloco": "Estilo de Vida e Desejos (30%)",
+      "linha": "66",
+      "item": "Outros",
+      "categoria": "Outros",
+      "linha_excel": "68"
+    },
+    {
+      "bloco": "Investimentos / Poupança",
+      "linha": "70",
+      "item": "Fundo de Reserva",
+      "categoria": "Investimentos / Poupança",
+      "linha_excel": null
+    },
+    {
+      "bloco": "Itens complementares (sem linha na imagem)",
+      "linha": "novo-reembolso",
+      "item": "Reembolso empresa",
+      "categoria": "Outros",
+      "linha_excel": null
+    }
+  ]
+}

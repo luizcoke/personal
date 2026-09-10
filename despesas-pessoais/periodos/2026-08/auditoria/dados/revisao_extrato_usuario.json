@@ -1,0 +1,193 @@
+{
+  "EXT-013": {
+    "linha": null,
+    "valor_pessoal_exato": "0",
+    "status": "excluido_confirmado_usuario",
+    "observacao": "Tratamento do filho integralmente reembolsado pelo Bradesco Saúde na conta Santander; excluir por instrução de Luiz. PIX de retorno ao Itaú são transferências próprias, também fora dos gastos.",
+    "confirmado_em": "2026-09-10"
+  },
+  "EXT-061": {
+    "linha": null,
+    "valor_pessoal_exato": "0",
+    "status": "excluido_confirmado_usuario",
+    "observacao": "Tratamento do filho integralmente reembolsado pelo Bradesco Saúde na conta Santander; excluir por instrução de Luiz. PIX de retorno ao Itaú são transferências próprias, também fora dos gastos.",
+    "confirmado_em": "2026-09-10"
+  },
+  "EXT-060": {
+    "linha": null,
+    "valor_pessoal_exato": "0",
+    "status": "excluido_confirmado_usuario",
+    "observacao": "Tratamento do filho integralmente reembolsado pelo Bradesco Saúde na conta Santander; excluir por instrução de Luiz. PIX de retorno ao Itaú são transferências próprias, também fora dos gastos.",
+    "confirmado_em": "2026-09-10"
+  },
+  "EXT-062": {
+    "linha": null,
+    "valor_pessoal_exato": "0",
+    "status": "excluido_confirmado_usuario",
+    "observacao": "Tratamento do filho integralmente reembolsado pelo Bradesco Saúde na conta Santander; excluir por instrução de Luiz. PIX de retorno ao Itaú são transferências próprias, também fora dos gastos.",
+    "confirmado_em": "2026-09-10"
+  },
+  "EXT-029": {
+    "linha": "31",
+    "valor_pessoal_exato": "1750.00",
+    "status": "confirmada_usuario",
+    "observacao": "Parcela 01/02 do acordo judicial com a ex-babá Ana Vitória, paga ao advogado WALTER. Segunda parcela prevista em setembro/2026; conferir valor e data no próximo extrato. Categoria confirmada; valor integral mantido até confirmar eventual divisão com Paloma.",
+    "confirmado_em": "2026-09-10",
+    "parcela": "01/02",
+    "rateio_status": "aguardando_confirmacao"
+  },
+  "EXT-014": {
+    "linha": "31",
+    "valor_pessoal_exato": "990.13",
+    "status": "confirmada_usuario",
+    "observacao": "Empresa de Magali contratada para gerenciar a nova babá Bruna. Categoria confirmada; valor integral mantido até confirmar eventual divisão com Paloma.",
+    "confirmado_em": "2026-09-10",
+    "rateio_status": "aguardando_confirmacao"
+  },
+  "EXT-021": {
+    "linha": "31",
+    "valor_pessoal_exato": "221.64",
+    "status": "confirmada_usuario",
+    "observacao": "Empresa de Magali contratada para gerenciar a nova babá Bruna. Categoria confirmada; valor integral mantido até confirmar eventual divisão com Paloma.",
+    "confirmado_em": "2026-09-10",
+    "rateio_status": "aguardando_confirmacao"
+  },
+  "EXT-022": {
+    "linha": "31",
+    "valor_pessoal_exato": "450.00",
+    "status": "confirmada_usuario",
+    "observacao": "Empresa de Magali contratada para gerenciar a nova babá Bruna. Categoria confirmada; valor integral mantido até confirmar eventual divisão com Paloma.",
+    "confirmado_em": "2026-09-10",
+    "rateio_status": "aguardando_confirmacao"
+  },
+  "EXT-030": {
+    "linha": "31",
+    "valor_pessoal_exato": "246.61",
+    "status": "confirmada_usuario",
+    "observacao": "Ivaneyde: babá temporária que passou e não ficou. Categoria confirmada; valor integral mantido até confirmar eventual divisão com Paloma.",
+    "confirmado_em": "2026-09-10",
+    "rateio_status": "aguardando_confirmacao"
+  },
+  "EXT-037": {
+    "linha": "31",
+    "valor_pessoal_exato": "187.50",
+    "status": "confirmada_usuario",
+    "observacao": "Ivaneyde: babá temporária que passou e não ficou. Categoria confirmada; valor integral mantido até confirmar eventual divisão com Paloma.",
+    "confirmado_em": "2026-09-10",
+    "rateio_status": "aguardando_confirmacao"
+  },
+  "EXT-043": {
+    "linha": "31",
+    "valor_pessoal_exato": "63.60",
+    "status": "confirmada_usuario",
+    "observacao": "Ivaneyde: babá temporária que passou e não ficou. Categoria confirmada; valor integral mantido até confirmar eventual divisão com Paloma.",
+    "confirmado_em": "2026-09-10",
+    "rateio_status": "aguardando_confirmacao"
+  },
+  "EXT-047": {
+    "linha": "31",
+    "valor_pessoal_exato": "176.40",
+    "status": "confirmada_usuario",
+    "observacao": "Stefann: babá temporária que passou e não ficou. Categoria confirmada; valor integral mantido até confirmar eventual divisão com Paloma.",
+    "confirmado_em": "2026-09-10",
+    "rateio_status": "aguardando_confirmacao"
+  },
+  "EXT-051": {
+    "linha": "31",
+    "valor_pessoal_exato": "54.00",
+    "status": "confirmada_usuario",
+    "observacao": "Stefann: babá temporária que passou e não ficou. Categoria confirmada; valor integral mantido até confirmar eventual divisão com Paloma.",
+    "confirmado_em": "2026-09-10",
+    "rateio_status": "aguardando_confirmacao"
+  },
+  "EXT-025": {
+    "linha": "31",
+    "valor_pessoal_exato": "110.60",
+    "status": "confirmada_usuario",
+    "observacao": "Giovann: babá temporária que passou e não ficou. Categoria confirmada; valor integral mantido até confirmar eventual divisão com Paloma.",
+    "confirmado_em": "2026-09-10",
+    "rateio_status": "aguardando_confirmacao"
+  },
+  "EXT-050": {
+    "linha": "31",
+    "valor_pessoal_exato": "100.00",
+    "status": "confirmada_usuario",
+    "observacao": "Ana Pau: babá temporária que passou e não ficou. Categoria confirmada; valor integral mantido até confirmar eventual divisão com Paloma.",
+    "confirmado_em": "2026-09-10",
+    "rateio_status": "aguardando_confirmacao"
+  },
+  "EXT-024": {
+    "linha": null,
+    "valor_pessoal_exato": "0",
+    "status": "excluido_confirmado_usuario",
+    "observacao": "Devolução do PIX enviado por engano pela esposa Paloma em 21/08. Vinculado à entrada EXT-026 de R$ 875,00; ambos excluídos, efeito zero.",
+    "confirmado_em": "2026-09-10",
+    "credito_vinculado": "EXT-026"
+  },
+  "EXT-026": {
+    "linha": null,
+    "valor_pessoal_exato": "0",
+    "status": "excluido_confirmado_usuario",
+    "observacao": "PIX enviado por engano pela esposa Paloma em 21/08, devolvido em EXT-024. Ambos excluídos, efeito zero. Não confundir com o crédito de R$ 875,00 de 19/08.",
+    "confirmado_em": "2026-09-10",
+    "credito_vinculado": "EXT-024"
+  },
+  "EXT-032": {
+    "linha": "57",
+    "valor_pessoal_exato": "612.00",
+    "status": "confirmada_usuario",
+    "observacao": "Mensalidade da AABB confirmada por Luiz. Este boleto PAG TIT INT 001 de R$ 612,00 corresponde ao clube.",
+    "confirmado_em": "2026-09-10"
+  },
+  "EXT-049": {
+    "linha": "28",
+    "valor_pessoal_exato": "210.00",
+    "status": "confirmada_usuario",
+    "observacao": "PIX de R$ 210,00 para Paloma destinado à faxina semanal, confirmado por Luiz.",
+    "confirmado_em": "2026-09-10"
+  },
+  "EXT-028": {
+    "linha": "28",
+    "valor_pessoal_exato": "199.00",
+    "status": "confirmada_usuario",
+    "observacao": "Pagamento à empresa de faxina SOS DIA, confirmado por Luiz.",
+    "confirmado_em": "2026-09-10"
+  },
+  "EXT-055": {
+    "linha": "64",
+    "valor_pessoal_exato": "101.99",
+    "status": "confirmada_usuario",
+    "observacao": "Compra do jogo de PC BodyCam. Classificação restrita ao PIX PAGSEGURO de R$ 101,99 em 07/08/2026; não generalizar a todos os pagamentos via intermediador.",
+    "confirmado_em": "2026-09-10"
+  },
+  "EXT-027": {
+    "linha": "46",
+    "valor_pessoal_exato": "70.00",
+    "status": "confirmada_usuario",
+    "observacao": "Manter em Outros — Despesas Básicas por orientação expressa de Luiz; não requer nova identificação neste ciclo.",
+    "confirmado_em": "2026-09-10"
+  },
+  "EXT-012": {
+    "linha": "21",
+    "valor_pessoal_exato": "1208.00",
+    "status": "confirmada_usuario",
+    "observacao": "PIX para Paloma destinado ao financiamento do apartamento, confirmado por Luiz.",
+    "confirmado_em": "2026-09-10"
+  },
+  "EXT-054": {
+    "linha": "22",
+    "valor_pessoal_exato": "1127.81",
+    "status": "confirmada_usuario",
+    "observacao": "Pagamento de condomínio do apartamento, confirmado por Luiz; código PAG TIT INT 782995528000.",
+    "confirmado_em": "2026-09-10"
+  },
+  "EXT-056": {
+    "linha": "33",
+    "valor_pessoal_exato": "248.45",
+    "status": "confirmada_usuario",
+    "observacao": "Provisão do 13º de Ana Vitória: R$ 248,45 enviados por Luiz à Paloma para guardar no cofrinho e pagar no fim do ano. O PIX já é a metade de Luiz (total conjunto R$ 496,90); não dividir novamente nem esperar reembolso. Para os próximos aportes, a provisão passa a ser da babá Bruna, conforme orientação de Luiz.",
+    "confirmado_em": "2026-09-10",
+    "credito_vinculado": "",
+    "rateio_status": "participacao_pessoal_ja_paga"
+  }
+}

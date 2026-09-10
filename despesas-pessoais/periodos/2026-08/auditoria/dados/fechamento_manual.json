@@ -1,0 +1,19 @@
+{
+  "status": "fechado_confirmado_usuario",
+  "data_confirmacao": "2026-09-10",
+  "mensagem": "está correto, finalizamos",
+  "fonte": "auditoria/referencias/planilha_mensal_preenchida.png",
+  "total_blocos_planilha": "15224.56",
+  "subtotal_basicas": "8220.15",
+  "subtotal_estilo_vida": "7004.41",
+  "total_original_documentos": "17608.97",
+  "ajustes_por_id": {
+    "21": "1219.50",
+    "27": "435.00",
+    "31": "2239.97",
+    "32": "209.14",
+    "57": "806.17"
+  },
+  "controle_reembolso_empresa": "140.00",
+  "observacao": "Controle de reembolso não aparece nos blocos da imagem final; preservado nos documentos, sem inferir recebimento. Ajustes manuais específicos de agosto, não regras gerais nem alteração de fontes."
+}

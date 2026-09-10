@@ -1,0 +1,672 @@
+{
+  "mes_referencia": "2026-08",
+  "total_pessoal": "17608.97",
+  "linhas": [
+    {
+      "bloco": "Despesas Básicas (50%)",
+      "linha": "21",
+      "item": "Financiamento Apt Lapa *",
+      "categoria": "Casa / Moradia",
+      "linha_excel": "21",
+      "valores": {
+        "Mastercard": "0.00",
+        "Visa": "0.00",
+        "Extrato": "1208.00"
+      },
+      "total": "1208.00",
+      "quantidade": 1
+    },
+    {
+      "bloco": "Despesas Básicas (50%)",
+      "linha": "22",
+      "item": "Condomínio",
+      "categoria": "Casa / Moradia",
+      "linha_excel": "22",
+      "valores": {
+        "Mastercard": "0.00",
+        "Visa": "0.00",
+        "Extrato": "1127.81"
+      },
+      "total": "1127.81",
+      "quantidade": 1
+    },
+    {
+      "bloco": "Despesas Básicas (50%)",
+      "linha": "23",
+      "item": "IPTU",
+      "categoria": "Casa / Moradia",
+      "linha_excel": "23",
+      "valores": {
+        "Mastercard": "0.00",
+        "Visa": "0.00",
+        "Extrato": "418.87"
+      },
+      "total": "418.87",
+      "quantidade": 1
+    },
+    {
+      "bloco": "Despesas Básicas (50%)",
+      "linha": "24",
+      "item": "Luz",
+      "categoria": "Casa / Moradia",
+      "linha_excel": "24",
+      "valores": {
+        "Mastercard": "0.00",
+        "Visa": "0.00",
+        "Extrato": "394.72"
+      },
+      "total": "394.72",
+      "quantidade": 1
+    },
+    {
+      "bloco": "Despesas Básicas (50%)",
+      "linha": "25",
+      "item": "Conta Celular",
+      "categoria": "Pessoal / Vestuário / Beleza",
+      "linha_excel": "25",
+      "valores": {
+        "Mastercard": "0.00",
+        "Visa": "0.00",
+        "Extrato": "64.00"
+      },
+      "total": "64.00",
+      "quantidade": 1
+    },
+    {
+      "bloco": "Despesas Básicas (50%)",
+      "linha": "26",
+      "item": "Conta Internet + TV",
+      "categoria": "Casa / Moradia",
+      "linha_excel": "26",
+      "valores": {
+        "Mastercard": "0.00",
+        "Visa": "0.00",
+        "Extrato": "94.90"
+      },
+      "total": "94.90",
+      "quantidade": 1
+    },
+    {
+      "bloco": "Despesas Básicas (50%)",
+      "linha": "27",
+      "item": "Casa Manutenção Apartamento",
+      "categoria": "Casa / Moradia",
+      "linha_excel": "27",
+      "valores": {
+        "Mastercard": "435.98",
+        "Visa": "0.00",
+        "Extrato": "0.00"
+      },
+      "total": "435.98",
+      "quantidade": 3
+    },
+    {
+      "bloco": "Despesas Básicas (50%)",
+      "linha": "28",
+      "item": "Casa Faxina semanal *",
+      "categoria": "Casa / Moradia",
+      "linha_excel": "28",
+      "valores": {
+        "Mastercard": "0.00",
+        "Visa": "0.00",
+        "Extrato": "629.00"
+      },
+      "total": "629.00",
+      "quantidade": 3
+    },
+    {
+      "bloco": "Despesas Básicas (50%)",
+      "linha": "29",
+      "item": "Gastos Meninos",
+      "categoria": "Filhos / Educação / Cuidados",
+      "linha_excel": "29",
+      "valores": {
+        "Mastercard": "0.00",
+        "Visa": "0.00",
+        "Extrato": "310.00"
+      },
+      "total": "310.00",
+      "quantidade": 3
+    },
+    {
+      "bloco": "Despesas Básicas (50%)",
+      "linha": "30",
+      "item": "Gastos Isabela *",
+      "categoria": "Filhos / Educação / Cuidados",
+      "linha_excel": "30",
+      "valores": {
+        "Mastercard": "0.00",
+        "Visa": "0.00",
+        "Extrato": "0.00"
+      },
+      "total": "0.00",
+      "quantidade": 0
+    },
+    {
+      "bloco": "Despesas Básicas (50%)",
+      "linha": "31",
+      "item": "Gastos Babá Isabela *",
+      "categoria": "Filhos / Educação / Cuidados",
+      "linha_excel": "31",
+      "valores": {
+        "Mastercard": "129.46",
+        "Visa": "0.00",
+        "Extrato": "4350.48"
+      },
+      "total": "4479.94",
+      "quantidade": 12
+    },
+    {
+      "bloco": "Despesas Básicas (50%)",
+      "linha": "32",
+      "item": "Gastos Babá Isabela Esocial *",
+      "categoria": "Filhos / Educação / Cuidados",
+      "linha_excel": "32",
+      "valores": {
+        "Mastercard": "0.00",
+        "Visa": "0.00",
+        "Extrato": "418.27"
+      },
+      "total": "418.27",
+      "quantidade": 2
+    },
+    {
+      "bloco": "Despesas Básicas (50%)",
+      "linha": "33",
+      "item": "Gastos Babá Isabela férias *",
+      "categoria": "Filhos / Educação / Cuidados",
+      "linha_excel": "33",
+      "valores": {
+        "Mastercard": "0.00",
+        "Visa": "0.00",
+        "Extrato": "248.45"
+      },
+      "total": "248.45",
+      "quantidade": 1
+    },
+    {
+      "bloco": "Despesas Básicas (50%)",
+      "linha": "34",
+      "item": "Carro IPVA + Licenciamento + Multa *",
+      "categoria": "Veículo / Transporte",
+      "linha_excel": "34",
+      "valores": {
+        "Mastercard": "0.00",
+        "Visa": "0.00",
+        "Extrato": "0.00"
+      },
+      "total": "0.00",
+      "quantidade": 0
+    },
+    {
+      "bloco": "Despesas Básicas (50%)",
+      "linha": "35",
+      "item": "Carro Seguro - Porto Seguro",
+      "categoria": "Veículo / Transporte",
+      "linha_excel": "35",
+      "valores": {
+        "Mastercard": "0.00",
+        "Visa": "0.00",
+        "Extrato": "0.00"
+      },
+      "total": "0.00",
+      "quantidade": 0
+    },
+    {
+      "bloco": "Despesas Básicas (50%)",
+      "linha": "36",
+      "item": "Carro Lavagem",
+      "categoria": "Veículo / Transporte",
+      "linha_excel": "36",
+      "valores": {
+        "Mastercard": "0.00",
+        "Visa": "0.00",
+        "Extrato": "0.00"
+      },
+      "total": "0.00",
+      "quantidade": 0
+    },
+    {
+      "bloco": "Despesas Básicas (50%)",
+      "linha": "37",
+      "item": "Carro Gasolina",
+      "categoria": "Veículo / Transporte",
+      "linha_excel": "37",
+      "valores": {
+        "Mastercard": "150.68",
+        "Visa": "0.00",
+        "Extrato": "0.00"
+      },
+      "total": "150.68",
+      "quantidade": 1
+    },
+    {
+      "bloco": "Despesas Básicas (50%)",
+      "linha": "38",
+      "item": "Carro Estacionamento",
+      "categoria": "Veículo / Transporte",
+      "linha_excel": "38",
+      "valores": {
+        "Mastercard": "0.00",
+        "Visa": "0.00",
+        "Extrato": "0.00"
+      },
+      "total": "0.00",
+      "quantidade": 0
+    },
+    {
+      "bloco": "Despesas Básicas (50%)",
+      "linha": "39",
+      "item": "HiperMercado",
+      "categoria": "Alimentação",
+      "linha_excel": "39",
+      "valores": {
+        "Mastercard": "134.90",
+        "Visa": "74.53",
+        "Extrato": "0.00"
+      },
+      "total": "209.43",
+      "quantidade": 2
+    },
+    {
+      "bloco": "Despesas Básicas (50%)",
+      "linha": "40",
+      "item": "Marmitas",
+      "categoria": "Alimentação",
+      "linha_excel": "40",
+      "valores": {
+        "Mastercard": "0.00",
+        "Visa": "0.00",
+        "Extrato": "0.00"
+      },
+      "total": "0.00",
+      "quantidade": 0
+    },
+    {
+      "bloco": "Despesas Básicas (50%)",
+      "linha": "41",
+      "item": "Drogaria",
+      "categoria": "Saúde",
+      "linha_excel": "41",
+      "valores": {
+        "Mastercard": "0.00",
+        "Visa": "41.99",
+        "Extrato": "0.00"
+      },
+      "total": "41.99",
+      "quantidade": 1
+    },
+    {
+      "bloco": "Despesas Básicas (50%)",
+      "linha": "42",
+      "item": "Trabalho - Restaurantes",
+      "categoria": "Alimentação",
+      "linha_excel": "42",
+      "valores": {
+        "Mastercard": "186.21",
+        "Visa": "0.00",
+        "Extrato": "0.00"
+      },
+      "total": "186.21",
+      "quantidade": 3
+    },
+    {
+      "bloco": "Despesas Básicas (50%)",
+      "linha": "45",
+      "item": "Juros/IOF",
+      "categoria": "Cartões e Dívidas",
+      "linha_excel": "45",
+      "valores": {
+        "Mastercard": "21.62",
+        "Visa": "0.00",
+        "Extrato": "148.86"
+      },
+      "total": "170.48",
+      "quantidade": 4
+    },
+    {
+      "bloco": "Despesas Básicas (50%)",
+      "linha": "46",
+      "item": "Outros",
+      "categoria": "Outros",
+      "linha_excel": "46",
+      "valores": {
+        "Mastercard": "0.00",
+        "Visa": "0.00",
+        "Extrato": "70.00"
+      },
+      "total": "70.00",
+      "quantidade": 1
+    },
+    {
+      "bloco": "Estilo de Vida e Desejos (30%)",
+      "linha": "49",
+      "item": "Finan. Adiantamento de parcela",
+      "categoria": "Casa / Moradia",
+      "linha_excel": "49",
+      "valores": {
+        "Mastercard": "0.00",
+        "Visa": "0.00",
+        "Extrato": "0.00"
+      },
+      "total": "0.00",
+      "quantidade": 0
+    },
+    {
+      "bloco": "Estilo de Vida e Desejos (30%)",
+      "linha": "50",
+      "item": "Corte Cabelo",
+      "categoria": "Pessoal / Vestuário / Beleza",
+      "linha_excel": "50",
+      "valores": {
+        "Mastercard": "80.00",
+        "Visa": "0.00",
+        "Extrato": "0.00"
+      },
+      "total": "80.00",
+      "quantidade": 1
+    },
+    {
+      "bloco": "Estilo de Vida e Desejos (30%)",
+      "linha": "51",
+      "item": "Compras / Presentes",
+      "categoria": "Pessoal / Vestuário / Beleza",
+      "linha_excel": "51",
+      "valores": {
+        "Mastercard": "591.71",
+        "Visa": "0.00",
+        "Extrato": "0.00"
+      },
+      "total": "591.71",
+      "quantidade": 5
+    },
+    {
+      "bloco": "Estilo de Vida e Desejos (30%)",
+      "linha": "52",
+      "item": "Uber - 99 / Estac / ConectCar",
+      "categoria": "Veículo / Transporte",
+      "linha_excel": "52",
+      "valores": {
+        "Mastercard": "0.00",
+        "Visa": "0.00",
+        "Extrato": "0.00"
+      },
+      "total": "0.00",
+      "quantidade": 0
+    },
+    {
+      "bloco": "Estilo de Vida e Desejos (30%)",
+      "linha": "53",
+      "item": "Restaurantes",
+      "categoria": "Alimentação",
+      "linha_excel": "53",
+      "valores": {
+        "Mastercard": "320.32",
+        "Visa": "0.00",
+        "Extrato": "0.00"
+      },
+      "total": "320.32",
+      "quantidade": 1
+    },
+    {
+      "bloco": "Estilo de Vida e Desejos (30%)",
+      "linha": "54",
+      "item": "Ifood + snacks + Padaria",
+      "categoria": "Alimentação",
+      "linha_excel": "54",
+      "valores": {
+        "Mastercard": "326.90",
+        "Visa": "773.49",
+        "Extrato": "0.00"
+      },
+      "total": "1100.39",
+      "quantidade": 29
+    },
+    {
+      "bloco": "Estilo de Vida e Desejos (30%)",
+      "linha": "55",
+      "item": "Mercadão + feira + Bebida + rest. AABB",
+      "categoria": "Alimentação",
+      "linha_excel": "55",
+      "valores": {
+        "Mastercard": "612.17",
+        "Visa": "0.00",
+        "Extrato": "0.00"
+      },
+      "total": "612.17",
+      "quantidade": 5
+    },
+    {
+      "bloco": "Estilo de Vida e Desejos (30%)",
+      "linha": "56",
+      "item": "Lançamentos no cartão (final 3878)",
+      "categoria": "Outros",
+      "linha_excel": "56",
+      "valores": {
+        "Mastercard": "1430.53",
+        "Visa": "0.00",
+        "Extrato": "0.00"
+      },
+      "total": "1430.53",
+      "quantidade": 48
+    },
+    {
+      "bloco": "Estilo de Vida e Desejos (30%)",
+      "linha": "57",
+      "item": "CLUBE AABB",
+      "categoria": "Lazer / Viagens",
+      "linha_excel": "57",
+      "valores": {
+        "Mastercard": "0.00",
+        "Visa": "0.00",
+        "Extrato": "612.00"
+      },
+      "total": "612.00",
+      "quantidade": 1
+    },
+    {
+      "bloco": "Estilo de Vida e Desejos (30%)",
+      "linha": "58",
+      "item": "Projetos Pessoais",
+      "categoria": "Pessoal / Vestuário / Beleza",
+      "linha_excel": "58",
+      "valores": {
+        "Mastercard": "55.40",
+        "Visa": "0.00",
+        "Extrato": "0.00"
+      },
+      "total": "55.40",
+      "quantidade": 1
+    },
+    {
+      "bloco": "Estilo de Vida e Desejos (30%)",
+      "linha": "60",
+      "item": "AMAZON PRIME BR - 12/12",
+      "categoria": "Assinaturas",
+      "linha_excel": "60",
+      "valores": {
+        "Mastercard": "0.00",
+        "Visa": "0.00",
+        "Extrato": "0.00"
+      },
+      "total": "0.00",
+      "quantidade": 0
+    },
+    {
+      "bloco": "Estilo de Vida e Desejos (30%)",
+      "linha": "novo-onedrive",
+      "item": "OneDrive — anual",
+      "categoria": "Assinaturas",
+      "linha_excel": "61",
+      "valores": {
+        "Mastercard": "599.00",
+        "Visa": "0.00",
+        "Extrato": "0.00"
+      },
+      "total": "599.00",
+      "quantidade": 1
+    },
+    {
+      "bloco": "Estilo de Vida e Desejos (30%)",
+      "linha": "novo-openai",
+      "item": "OpenAI — mensal",
+      "categoria": "Assinaturas",
+      "linha_excel": "62",
+      "valores": {
+        "Mastercard": "563.30",
+        "Visa": "0.00",
+        "Extrato": "0.00"
+      },
+      "total": "563.30",
+      "quantidade": 2
+    },
+    {
+      "bloco": "Estilo de Vida e Desejos (30%)",
+      "linha": "61",
+      "item": "Spotify",
+      "categoria": "Assinaturas",
+      "linha_excel": "63",
+      "valores": {
+        "Mastercard": "31.90",
+        "Visa": "0.00",
+        "Extrato": "0.00"
+      },
+      "total": "31.90",
+      "quantidade": 1
+    },
+    {
+      "bloco": "Estilo de Vida e Desejos (30%)",
+      "linha": "62",
+      "item": "APPLE COM/BILL Cloud",
+      "categoria": "Assinaturas",
+      "linha_excel": "64",
+      "valores": {
+        "Mastercard": "20.80",
+        "Visa": "0.00",
+        "Extrato": "0.00"
+      },
+      "total": "20.80",
+      "quantidade": 2
+    },
+    {
+      "bloco": "Estilo de Vida e Desejos (30%)",
+      "linha": "63",
+      "item": "Netflix + Disney+",
+      "categoria": "Assinaturas",
+      "linha_excel": "65",
+      "valores": {
+        "Mastercard": "20.90",
+        "Visa": "0.00",
+        "Extrato": "0.00"
+      },
+      "total": "20.90",
+      "quantidade": 1
+    },
+    {
+      "bloco": "Estilo de Vida e Desejos (30%)",
+      "linha": "64",
+      "item": "Lazer / Viagem",
+      "categoria": "Lazer / Viagens",
+      "linha_excel": "66",
+      "valores": {
+        "Mastercard": "161.95",
+        "Visa": "46.60",
+        "Extrato": "101.99"
+      },
+      "total": "310.54",
+      "quantidade": 7
+    },
+    {
+      "bloco": "Estilo de Vida e Desejos (30%)",
+      "linha": "65",
+      "item": "Loterias",
+      "categoria": "Outros",
+      "linha_excel": "67",
+      "valores": {
+        "Mastercard": "0.00",
+        "Visa": "0.00",
+        "Extrato": "0.00"
+      },
+      "total": "0.00",
+      "quantidade": 0
+    },
+    {
+      "bloco": "Estilo de Vida e Desejos (30%)",
+      "linha": "66",
+      "item": "Outros",
+      "categoria": "Outros",
+      "linha_excel": "68",
+      "valores": {
+        "Mastercard": "461.28",
+        "Visa": "0.00",
+        "Extrato": "0.00"
+      },
+      "total": "461.28",
+      "quantidade": 3
+    },
+    {
+      "bloco": "Investimentos / Poupança",
+      "linha": "70",
+      "item": "Fundo de Reserva",
+      "categoria": "Investimentos / Poupança",
+      "linha_excel": null,
+      "valores": {
+        "Mastercard": "0.00",
+        "Visa": "0.00",
+        "Extrato": "0.00"
+      },
+      "total": "0.00",
+      "quantidade": 0
+    },
+    {
+      "bloco": "Itens complementares (sem linha na imagem)",
+      "linha": "novo-reembolso",
+      "item": "Reembolso empresa",
+      "categoria": "Outros",
+      "linha_excel": null,
+      "valores": {
+        "Mastercard": "140.00",
+        "Visa": "0.00",
+        "Extrato": "0.00"
+      },
+      "total": "140.00",
+      "quantidade": 4
+    }
+  ],
+  "controles": [
+    {
+      "fonte": "Mastercard",
+      "controle": "Total integral da fatura",
+      "valor": "7905.53",
+      "diferenca": "0.00"
+    },
+    {
+      "fonte": "Visa",
+      "controle": "Total integral da fatura",
+      "valor": "936.61",
+      "diferenca": "0.00"
+    },
+    {
+      "fonte": "Extrato Itaú",
+      "controle": "Saldo final do extrato",
+      "valor": "-3887.74",
+      "diferenca": "0.00"
+    }
+  ],
+  "creditos_utilizados": {
+    "EXT-019": {
+      "valor_utilizado": "140.43",
+      "despesas": [
+        "EXT-018"
+      ]
+    },
+    "EXT-057": {
+      "valor_utilizado": "277.84",
+      "despesas": [
+        "EXT-058"
+      ]
+    }
+  },
+  "quantidade_registros": 178,
+  "pendencias": 2
+}

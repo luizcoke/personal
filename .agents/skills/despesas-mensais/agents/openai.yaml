@@ -1,0 +1,6 @@
+interface:
+  display_name: "Despesas mensais"
+  short_description: "Extratos e cartões no modelo mensal da planilha"
+  default_prompt: "Use $despesas-mensais para processar os PDFs deste mês e gerar o resumo da planilha e a conferência de Paloma."
+policy:
+  allow_implicit_invocation: true

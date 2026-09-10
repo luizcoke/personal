@@ -1,0 +1,69 @@
+{
+  "mes": "2026-08",
+  "escopo": "Conferência dos pagamentos de babá sem crédito individual identificado",
+  "linhas": [
+    {
+      "item": "Babá Ivaneyde — 3 pagamentos",
+      "ids": [
+        "EXT-043",
+        "EXT-037",
+        "EXT-030"
+      ],
+      "valor_integral": "497.71",
+      "metade_exata": "248.855",
+      "metade_exibida": "248.86",
+      "situacao": "sem_credito_individual_identificado"
+    },
+    {
+      "item": "Babá Stefann — 13/08",
+      "ids": [
+        "EXT-047"
+      ],
+      "valor_integral": "176.40",
+      "metade_exata": "88.20",
+      "metade_exibida": "88.20",
+      "situacao": "sem_credito_individual_identificado"
+    },
+    {
+      "item": "Babá Giovann — 21/08",
+      "ids": [
+        "EXT-025"
+      ],
+      "valor_integral": "110.60",
+      "metade_exata": "55.30",
+      "metade_exibida": "55.30",
+      "situacao": "sem_credito_individual_identificado"
+    },
+    {
+      "item": "Bruna / Magali — 25/08",
+      "ids": [
+        "EXT-021"
+      ],
+      "valor_integral": "221.64",
+      "metade_exata": "110.82",
+      "metade_exibida": "110.82",
+      "situacao": "sem_credito_individual_identificado"
+    },
+    {
+      "item": "Gestão Bruna / Magali — 23/08",
+      "ids": [
+        "MASTERCARD-026"
+      ],
+      "valor_integral": "129.46",
+      "metade_exata": "64.73",
+      "metade_exibida": "64.73",
+      "situacao": "sem_credito_individual_identificado"
+    }
+  ],
+  "provisao_fora_do_acerto": {
+    "id": "EXT-056",
+    "valor_transferido": "248.45",
+    "valor_pessoal_ja_pago": "248.45",
+    "valor_total_conjunto": "496.90",
+    "valor_a_receber_de_paloma": "0.00",
+    "reembolso_esperado": false,
+    "motivo": "PIX já é a metade de Luiz; Paloma guarda no cofrinho para o 13º."
+  },
+  "total_rateado_para_conferir": "567.91",
+  "saldo_devedor_confirmado": null
+}

@@ -1,0 +1,144 @@
+{
+  "periodo_creditos": "2026-08-01 a 2026-08-31",
+  "data_conferencia": "2026-09-10",
+  "metodo": "Comparação de valor integral/metade, proximidade de datas e créditos já vinculados; não confirma finalidade do PIX. Nenhum crédito foi reaproveitado entre despesas.",
+  "pagamentos": [
+    {
+      "grupo": "Ana Vitória — acordo / WALTER",
+      "debito_id": "EXT-029",
+      "valor_integral": "1750.00",
+      "metade_exata": "875.00",
+      "credito_candidato_id": "EXT-034",
+      "nivel_evidencia": "metade_exata_vinculo_provavel",
+      "vinculo_confirmado": false,
+      "observacao": "Metade exata; crédito um dia antes do pagamento. Correspondência forte, finalidade ainda não confirmada."
+    },
+    {
+      "grupo": "Bruna — empresa Magali",
+      "debito_id": "EXT-022",
+      "valor_integral": "450.00",
+      "metade_exata": "225.00",
+      "credito_candidato_id": "EXT-023",
+      "nivel_evidencia": "valor_integral_vinculo_a_confirmar",
+      "vinculo_confirmado": false,
+      "observacao": "Crédito igual a 100% do pagamento; não é apenas a metade. Coincidem os PIX de 23/08, contabilizados em 24/08; vínculo a confirmar."
+    },
+    {
+      "grupo": "Bruna — empresa Magali",
+      "debito_id": "EXT-021",
+      "valor_integral": "221.64",
+      "metade_exata": "110.82",
+      "credito_candidato_id": null,
+      "nivel_evidencia": "sem_correspondencia_individual",
+      "vinculo_confirmado": false,
+      "observacao": "Não há crédito individual de Paloma igual à metade, nem metade do subtotal de Magali. Pode estar em um crédito agrupado."
+    },
+    {
+      "grupo": "Bruna — empresa Magali",
+      "debito_id": "EXT-014",
+      "valor_integral": "990.13",
+      "metade_exata": "495.065",
+      "credito_candidato_id": "EXT-015",
+      "nivel_evidencia": "metade_com_meio_centavo_vinculo_provavel",
+      "vinculo_confirmado": false,
+      "observacao": "Praticamente metade: metade exata R$ 495,065; recebido R$ 495,06, meio centavo abaixo. PIX da Paloma de 29/08, contabilizado em 31/08. Correspondência forte."
+    },
+    {
+      "grupo": "Bruna — gestão Magali, cartão 01/04",
+      "debito_id": "MASTERCARD-026",
+      "valor_integral": "129.46",
+      "metade_exata": "64.73",
+      "credito_candidato_id": null,
+      "nivel_evidencia": "sem_correspondencia_individual",
+      "vinculo_confirmado": false,
+      "observacao": "Não há crédito individual de R$ 64,73. Parcela no cartão com vencimento em setembro; ausência em agosto não comprova falta de reembolso."
+    },
+    {
+      "grupo": "Ivaneyde",
+      "debito_id": "EXT-043",
+      "valor_integral": "63.60",
+      "metade_exata": "31.80",
+      "credito_candidato_id": null,
+      "nivel_evidencia": "sem_correspondencia_individual",
+      "vinculo_confirmado": false,
+      "observacao": "Não há crédito individual correspondente à metade."
+    },
+    {
+      "grupo": "Ivaneyde",
+      "debito_id": "EXT-037",
+      "valor_integral": "187.50",
+      "metade_exata": "93.75",
+      "credito_candidato_id": null,
+      "nivel_evidencia": "sem_correspondencia_individual",
+      "vinculo_confirmado": false,
+      "observacao": "Não há crédito individual correspondente à metade."
+    },
+    {
+      "grupo": "Ivaneyde",
+      "debito_id": "EXT-030",
+      "valor_integral": "246.61",
+      "metade_exata": "123.305",
+      "credito_candidato_id": null,
+      "nivel_evidencia": "sem_correspondencia_individual",
+      "vinculo_confirmado": false,
+      "observacao": "Não há crédito individual correspondente à metade. Também não há crédito de R$ 248,85/248,86 correspondente à metade dos três pagamentos juntos."
+    },
+    {
+      "grupo": "Stefann",
+      "debito_id": "EXT-051",
+      "valor_integral": "54.00",
+      "metade_exata": "27.00",
+      "credito_candidato_id": "EXT-052",
+      "nivel_evidencia": "metade_exata_vinculo_provavel",
+      "vinculo_confirmado": false,
+      "observacao": "Metade exata, com crédito no mesmo dia. Correspondência forte, finalidade ainda não confirmada."
+    },
+    {
+      "grupo": "Stefann",
+      "debito_id": "EXT-047",
+      "valor_integral": "176.40",
+      "metade_exata": "88.20",
+      "credito_candidato_id": null,
+      "nivel_evidencia": "sem_correspondencia_individual",
+      "vinculo_confirmado": false,
+      "observacao": "Não há crédito individual de R$ 88,20, nem crédito de R$ 115,20 pela metade dos dois pagamentos juntos."
+    },
+    {
+      "grupo": "Giovann",
+      "debito_id": "EXT-025",
+      "valor_integral": "110.60",
+      "metade_exata": "55.30",
+      "credito_candidato_id": null,
+      "nivel_evidencia": "sem_correspondencia_individual",
+      "vinculo_confirmado": false,
+      "observacao": "Não há crédito individual de R$ 55,30."
+    },
+    {
+      "grupo": "Ana Pau",
+      "debito_id": "EXT-050",
+      "valor_integral": "100.00",
+      "metade_exata": "50.00",
+      "credito_candidato_id": "EXT-053",
+      "nivel_evidencia": "valor_integral_vinculo_a_confirmar",
+      "vinculo_confirmado": false,
+      "observacao": "Crédito igual a 100% do pagamento; não é apenas metade. Pagamento PIX de 08/08 e crédito PIX de 09/08, ambos contabilizados em 10/08; vínculo a confirmar."
+    }
+  ],
+  "creditos_sem_vinculo": [
+    "EXT-048",
+    "EXT-016"
+  ],
+  "par_devolucao_excluido": [
+    "EXT-024",
+    "EXT-026"
+  ],
+  "alterou_resumo_financeiro": false,
+  "provisao_13o": {
+    "debito_id": "EXT-056",
+    "valor_pessoal": "248.45",
+    "ja_e_metade_de_luiz": true,
+    "reembolso_esperado": false,
+    "beneficiaria_agosto": "Ana Vitória",
+    "beneficiaria_proximos_aportes": "Bruna"
+  }
+}
