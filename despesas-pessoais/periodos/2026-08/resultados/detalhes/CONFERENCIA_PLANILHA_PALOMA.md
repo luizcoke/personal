@@ -1,5 +1,11 @@
 # Paloma — confirmação do quadro manual de agosto/2026
 
+## Correção vigente — gestão Magali fora do quadro de Paloma
+
+Luiz retirou Gestão Bruna/Magali, cartão 01/04 de R$ 129,46 (MASTERCARD-026), pois Paloma já pagou sua parte e essa cobrança é integralmente dele. Não cobrar novamente R$ 64,73 nem aplicar novo rateio a essa compra. Nas parcelas seguintes da mesma compra, preservar essa decisão, sem generalizar a todos os serviços/PIX de Magali. Não inventar crédito bancário ou data de recebimento.
+
+Quadro de Paloma atualizado: R$ 4.933,94 integrais e R$ 2.466,97 rateados, substituindo os totais anteriores de R$ 5.063,40 e R$ 2.531,70. O PIX de R$ 221,64 (parte R$ 110,82) continua no quadro. A imagem atual fica em `auditoria/referencias/planilha_paloma_sem_gestao_magali.png`. O informativo calculado de snacks/restaurantes continua R$ 1.420,71; R$ 1.420,00 da imagem é apresentação manual e não altera o cálculo dos documentos. O fechamento pessoal manual de agosto não foi reaberto.
+
 Luiz informou que o valor das babás está correto e que já lançou e conferiu o quadro de Paloma. O resumo reproduz os nove valores da imagem validada: R$ 5.063,40 integrais e R$ 2.531,70 rateados. Manter R$ 4.479,94 na linha 31 e R$ 17.608,97 no resumo pessoal. Esta confirmação substitui a pendência de participação para lançar agosto; não cria créditos bancários nem identifica a finalidade de cada PIX.
 
 ## Conferência e fontes

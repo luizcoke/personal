@@ -124,7 +124,7 @@ Cada linha é o valor a transpor para o mês na planilha. Os 50%/30% são metas 
 
 | ID | Data | Descrição | Original R$ | Motivo |
 | --- | --- | --- | --- | --- |
-| EXT-011 | 2026-08-31 | TED 033.2062.LUIZ C N | 3.086,09 | Transferência entre contas próprias, conforme KB. |
+| EXT-011 | 2026-08-31 | TED 033.2062.LUIZ C N | 3.086,09 | Luiz confirmou em 13/09/2026 que esta TED é portabilidade do salário do Santander ao Itaú (pagamento do fim do mês), já com os descontos aplicáveis. Compor a renda líquida de referência uma única vez; não duplicar com o crédito na conta de origem. Permanece fora das despesas, com valor e data originais preservados. |
 | EXT-013 | 2026-08-31 | PIX TRANSF SP SERV31/08 | -3.000,00 | Tratamento do filho integralmente reembolsado pelo Bradesco Saúde na conta Santander; excluir por instrução de Luiz. PIX de retorno ao Itaú são transferências próprias, também fora dos gastos. |
 | EXT-015 | 2026-08-31 | PIX TRANSF PALOMA 29/08 | 495,06 | Entrada de Paloma: reembolso/transferência conforme KB; vínculo específico não confirmado, sem novo abatimento automático. |
 | EXT-016 | 2026-08-31 | PIX TRANSF PALOMA 29/08 | 250,00 | Entrada de Paloma: reembolso/transferência conforme KB; vínculo específico não confirmado, sem novo abatimento automático. |
@@ -136,7 +136,7 @@ Cada linha é o valor a transpor para o mês na planilha. Os 50%/30% são metas 
 | EXT-034 | 2026-08-19 | PIX TRANSF PALOMA 19/08 | 875,00 | Entrada de Paloma: reembolso/transferência conforme KB; vínculo específico não confirmado, sem novo abatimento automático. |
 | EXT-039 | 2026-08-17 | ITAU BLACK 3104-7969 | -6.215,33 | Pagamento de fatura: excluir do orçamento para não contar compras novamente. |
 | EXT-040 | 2026-08-17 | REND PAGO APLIC AUT MAIS | 0,01 | Rendimento de aplicação: não é despesa. |
-| EXT-042 | 2026-08-14 | TED 033.2062.LUIZ C N | 6.368,79 | Transferência entre contas próprias, conforme KB. |
+| EXT-042 | 2026-08-14 | TED 033.2062.LUIZ C N | 6.368,79 | Luiz confirmou em 13/09/2026 que esta TED é portabilidade do salário do Santander ao Itaú (adiantamento de meados do mês), já com os descontos aplicáveis. Compor a renda líquida de referência uma única vez; não duplicar com o crédito na conta de origem. Permanece fora das despesas, com valor e data originais preservados. |
 | EXT-044 | 2026-08-14 | PIX TRANSF LUIZ CO14/08 | 1.000,00 | Transferência entre contas próprias, conforme KB. |
 | EXT-045 | 2026-08-14 | PIX TRANSF LUIZ CO14/08 | 3.880,00 | Transferência entre contas próprias, conforme KB. |
 | EXT-048 | 2026-08-11 | PIX TRANSF PALOMA 11/08 | 1.875,30 | Entrada de Paloma: reembolso/transferência conforme KB; vínculo específico não confirmado, sem novo abatimento automático. |

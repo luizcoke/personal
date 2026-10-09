@@ -3,8 +3,8 @@
   "data_confirmacao": "2026-09-10",
   "mes_referencia": "2026-08",
   "tipo": "quadro_manual_validado_pelo_usuario",
-  "imagem": "auditoria/referencias/planilha_paloma_confirmada.png",
-  "sha256_imagem": "e04901ef9539f89acd575853bf922fcffec1248c0cbef42aeefdb2a24161710b",
+  "imagem": "auditoria/referencias/planilha_paloma_sem_gestao_magali.png",
+  "sha256_imagem": "d4a27b977343289808011be23b16374f22400d3d47eee86aac6bb1477914f1b5",
   "resumo_pessoal": {
     "linha_31": "4479.94",
     "total": "17608.97",
@@ -115,16 +115,6 @@
       ]
     },
     {
-      "item": "Gestão Bruna / Magali",
-      "forma_planilha": "Cartão",
-      "parcela_planilha": "01/04",
-      "valor_total": "129.46",
-      "valor_rateado_exato": "64.73",
-      "ids_documentos": [
-        "MASTERCARD-026"
-      ]
-    },
-    {
       "item": "Bruna / Magali",
       "forma_planilha": "PIX",
       "parcela_planilha": "À vista",
@@ -167,9 +157,9 @@
       ]
     }
   ],
-  "total_gastos": "5063.40",
-  "total_rateado_exato": "2531.70",
-  "soma_rateados_exibidos": "2531.71",
+  "total_gastos": "4933.94",
+  "total_rateado_exato": "2466.970",
+  "soma_rateados_exibidos": "2466.98",
   "snacks_restaurantes": {
     "linhas": [
       "54",
@@ -179,5 +169,18 @@
     "total": "1420.71",
     "informativo": true,
     "confirmado_usuario": true
-  }
+  },
+  "itens_retirados": [
+    {
+      "item": "Gestão Bruna / Magali",
+      "forma_planilha": "Cartão",
+      "parcela_planilha": "01/04",
+      "valor_total": "129.46",
+      "valor_rateado_exato": "64.73",
+      "ids_documentos": [
+        "MASTERCARD-026"
+      ]
+    }
+  ],
+  "motivo_retirada": "Luiz informou que Paloma já pagou sua parte da gestão Magali e que a cobrança do cartão é integralmente dele; não incluir novamente no quadro de Paloma."
 }

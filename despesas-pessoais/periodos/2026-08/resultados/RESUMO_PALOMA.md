@@ -8,12 +8,11 @@ Valores conferidos por Luiz.
 | Lançamentos no cartão (final 3878) | Cartão | À vista | 2.861,05 | 1.430,53 |
 | Manutenção lava e seca antiga | Cartão | 02/08 | 137,50 | 68,75 |
 | Lava e seca nova (descontados R$ 500 das parcelas) | Cartão | 02/13 | 300,04 | 150,02 |
-| Gestão Bruna / Magali | Cartão | 01/04 | 129,46 | 64,73 |
 | Bruna / Magali | PIX | À vista | 221,64 | 110,82 |
 | Babá Giovann | PIX | À vista | 110,60 | 55,30 |
 | Babá Stefann | PIX | À vista | 176,40 | 88,20 |
 | Babá Ivaneyde | PIX | À vista | 497,71 | 248,86 |
-| **Total** |  |  | **5.063,40** | **2.531,70** |
+| **Total** |  |  | **4.933,94** | **2.466,97** |
 
 *Total rateado calculado com as metades exatas, como no Excel; a soma das linhas arredondadas difere em R$ 0,01.*
 

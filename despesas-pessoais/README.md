@@ -2,6 +2,15 @@
 
 Comece por este arquivo. Você envia os PDFs e informa o mês; o agente lê a base, processa, confere os valores e entrega as tabelas no formato das imagens do Excel.
 
+## Continuar o plano financeiro
+
+O [Planejador-Financeiro](../.github/agents/Planejador-Financeiro.agent.md) segue os cinco roteiros enviados por Luiz e a base já confirmada. Para retomá-lo no Codex, use: **“Use $plano-financeiro e continue pelas próximas ações do plano.”** A skill do projeto fica em `.agents/skills/plano-financeiro` na raiz do repositório; se uma sessão ainda não a descobrir, peça a leitura direta desse `SKILL.md`.
+
+- [Plano atual](planejamento/PLANO_FINANCEIRO_INICIAL.md), [revisão de gastos](planejamento/REVISAO_GASTOS.md) e [ações](planejamento/ACOES.md).
+- [Método dos cinco módulos](planejamento/METODO.md) e [textos originais das imagens](planejamento/referencias/PROMPTS_ORIGINAIS.md).
+
+O perfil `.agent.md` segue a convenção já existente neste repositório. No Codex, a rotina reutilizável fica na skill e nas instruções do projeto; não foi criado serviço em segundo plano. A estrutura usa as [instruções e skills de repositório documentadas pela OpenAI](https://learn.chatgpt.com/pt-BR/docs/customization/overview).
+
 ## Usar no próximo mês
 
 1. Abra este projeto no Codex e anexe o extrato e as faturas originais, ou coloque-os em `periodos/AAAA-MM/entradas/`.
@@ -13,7 +22,7 @@ O formato padrão é Markdown, para transpor à planilha. Não é necessário re
 ## Arquivos que você usa
 
 - [Resumo de agosto/2026](C:/github/personal/despesas-pessoais/periodos/2026-08/resultados/RESUMO_MENSAL.md) — **R$ 15.224,56**, fechamento manual final confirmado por Luiz. Valores por documentos preservados nos detalhes.
-- [Conferência de Paloma](C:/github/personal/despesas-pessoais/periodos/2026-08/resultados/RESUMO_PALOMA.md) — **R$ 2.531,70 rateados**, quadro manual conferido por Luiz; tabela simples e informativo de snacks/restaurantes **R$ 1.420,71**.
+- [Conferência de Paloma](C:/github/personal/despesas-pessoais/periodos/2026-08/resultados/RESUMO_PALOMA.md) — **R$ 2.466,97 rateados**, quadro manual conferido por Luiz; tabela simples e informativo de snacks/restaurantes **R$ 1.420,71**.
 - [Pendências](C:/github/personal/despesas-pessoais/periodos/2026-08/resultados/PENDENCIAS.md) e [créditos por babá](C:/github/personal/despesas-pessoais/periodos/2026-08/resultados/detalhes/CONFERENCIA_REEMBOLSOS_BABAS.md).
 - [Base de conhecimento](C:/github/personal/despesas-pessoais/conhecimento/BASE_CONHECIMENTO.md) — entrada das regras e aprendizados atuais.
 

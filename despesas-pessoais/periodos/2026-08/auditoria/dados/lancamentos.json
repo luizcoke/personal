@@ -508,11 +508,12 @@
       "valor_pessoal_exato": "129.46",
       "linha": "31",
       "status": "confirmada_usuario",
-      "observacao": "Valor integral no resumo pessoal de agosto confirmado por Luiz; quadro de Paloma conferido manualmente em separado.",
+      "observacao": "Gestão de Bruna/Magali: Luiz confirmou que Paloma já pagou sua parte e a cobrança de R$ 129,46 do cartão é integralmente dele. Retirada do quadro de Paloma; não cobrar R$ 64,73 novamente. Sem novo crédito bancário identificado. Fechamento pessoal manual preservado.",
       "rateio_status": "confirmado_manter_integral",
       "tipo": "nacional",
       "fonte_id": "Mastercard",
-      "confirmacao_usuario": "2026-09-10: Luiz confirmou o valor atual das babás e informou que já lançou e conferiu a planilha de Paloma; manter os valores deste resumo."
+      "confirmacao_usuario": "2026-09-10: Luiz confirmou o valor atual das babás e informou que já lançou e conferiu a planilha de Paloma; manter os valores deste resumo.",
+      "cobranca_paloma": "nao_cobrar_usuario_confirmou_parte_ja_paga"
     },
     {
       "id": "MASTERCARD-027",
@@ -2078,10 +2079,12 @@
       "valor_pessoal_exato": "0",
       "linha": null,
       "status": "excluido",
-      "observacao": "Transferência entre contas próprias, conforme KB.",
+      "observacao": "Luiz confirmou em 13/09/2026 que esta TED é portabilidade do salário do Santander ao Itaú (pagamento do fim do mês), já com os descontos aplicáveis. Compor a renda líquida de referência uma única vez; não duplicar com o crédito na conta de origem. Permanece fora das despesas, com valor e data originais preservados.",
       "credito_vinculado": "",
       "rateio_status": "",
-      "fonte_id": "Extrato"
+      "fonte_id": "Extrato",
+      "natureza_receita_confirmada": "salario_liquido_portabilidade",
+      "data_confirmacao_receita": "2026-09-13"
     },
     {
       "id": "EXT-012",
@@ -2617,10 +2620,12 @@
       "valor_pessoal_exato": "0",
       "linha": null,
       "status": "excluido",
-      "observacao": "Transferência entre contas próprias, conforme KB.",
+      "observacao": "Luiz confirmou em 13/09/2026 que esta TED é portabilidade do salário do Santander ao Itaú (adiantamento de meados do mês), já com os descontos aplicáveis. Compor a renda líquida de referência uma única vez; não duplicar com o crédito na conta de origem. Permanece fora das despesas, com valor e data originais preservados.",
       "credito_vinculado": "",
       "rateio_status": "",
-      "fonte_id": "Extrato"
+      "fonte_id": "Extrato",
+      "natureza_receita_confirmada": "salario_liquido_portabilidade",
+      "data_confirmacao_receita": "2026-09-13"
     },
     {
       "id": "EXT-043",

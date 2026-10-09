@@ -1,0 +1,96 @@
+{
+  "versao": 2,
+  "data_leitura": "2026-09-13",
+  "fonte_imagem": "C:/Users/ang-01/.codex/codex-remote-attachments/01a09afc-5a05-75a2-be69-0008f02aa9ec/6D44B1E7-E36C-45CC-A69C-B4B463A97AB0/1-Foto-1.jpg",
+  "confirmacao_usuario": "Em azul os descontos",
+  "escopo": "Transcrição da imagem com correção expressa de Luiz para pensão de agosto. Campos com nome imagem preservam a leitura original; valores vigentes incluem a correção.",
+  "linhas": [
+    {
+      "id": "DESC-INSS",
+      "linha_excel": 12,
+      "nome": "INSS",
+      "meta": "988.07",
+      "2026-07": "988.07",
+      "2026-08": "988.07"
+    },
+    {
+      "id": "DESC-IR",
+      "linha_excel": 13,
+      "nome": "IR",
+      "meta": "2013.88",
+      "2026-07": "2013.87",
+      "2026-08": "2013.87"
+    },
+    {
+      "id": "DESC-PENSAO",
+      "linha_excel": 14,
+      "nome": "Pensão alimentícia",
+      "meta": "4306.24",
+      "2026-07": "4306.25",
+      "2026-08": "4306.25",
+      "valor_original_imagem_2026_08": "2013.87",
+      "confirmacao_correcao": {
+        "data": "2026-09-13",
+        "texto_usuario": "Está errado em agosto, são 4306,25",
+        "escopo": "Pensão alimentícia de agosto/2026"
+      }
+    },
+    {
+      "id": "DESC-COPARTICIPACAO",
+      "linha_excel": 15,
+      "nome": "Co-participação Bradesco Saúde",
+      "meta": "50.00",
+      "2026-07": null,
+      "2026-08": null
+    },
+    {
+      "id": "DESC-DENTAL",
+      "linha_excel": 16,
+      "nome": "Plano de Saúde Dental",
+      "meta": "64.50",
+      "2026-07": "58.90",
+      "2026-08": "58.90"
+    }
+  ],
+  "subtotal_descontos_imagem": {
+    "meta": "7422.69",
+    "2026-07": "7367.09",
+    "2026-08": "5074.71"
+  },
+  "receitas_linha_11": {
+    "meta": "18553.57",
+    "2026-07": "19634.28",
+    "2026-08": "17909.55"
+  },
+  "remuneracao_apos_descontos": {
+    "meta": {
+      "valor": "11130.88",
+      "tipo": "visivel"
+    },
+    "2026-07": {
+      "valor": "12267.19",
+      "tipo": "visivel"
+    },
+    "2026-08": {
+      "valor": "12834.84",
+      "tipo": "calculado; célula parcialmente encoberta"
+    }
+  },
+  "observacoes": [
+    "Campos nulos representam traço na imagem, sem comprovação de desconto zero no holerite.",
+    "Setembro está cortado; não transcrever valores parciais.",
+    "9454.88 por portabilidade já é líquido; não subtrair novamente estes descontos.",
+    "Pensão de agosto corrigida para 4306.25 por Luiz. Total original da imagem 5074.71 e remuneração derivada original 12834.84 são históricos, superados pelos valores vigentes 7367.09 e 10542.46.",
+    "15921.97 da base Meta menos descontos corrigidos de agosto 7367.09 mais 900 coincide com os créditos de 9454.88. Indício de APAE incluído; ainda sem identificação da rubrica e sem conciliação da receita total de agosto 17909.55."
+  ],
+  "subtotal_descontos_vigente": {
+    "meta": "7422.69",
+    "2026-07": "7367.09",
+    "2026-08": "7367.09"
+  },
+  "remuneracao_apos_descontos_vigente": {
+    "meta": "11130.88",
+    "2026-07": "12267.19",
+    "2026-08": "10542.46"
+  }
+}

@@ -1,12 +1,24 @@
 # Extrato e participação pessoal
 
+## Correção vigente — gestão Magali fora do quadro de Paloma
+
+Luiz retirou Gestão Bruna/Magali, cartão 01/04 de R$ 129,46 (MASTERCARD-026), pois Paloma já pagou sua parte e essa cobrança é integralmente dele. Não cobrar novamente R$ 64,73 nem aplicar novo rateio a essa compra. Nas parcelas seguintes da mesma compra, preservar essa decisão, sem generalizar a todos os serviços/PIX de Magali. Não inventar crédito bancário ou data de recebimento.
+
+Quadro de Paloma atualizado: R$ 4.933,94 integrais e R$ 2.466,97 rateados, substituindo os totais anteriores de R$ 5.063,40 e R$ 2.531,70. O PIX de R$ 221,64 (parte R$ 110,82) continua no quadro. A imagem atual fica em `auditoria/referencias/planilha_paloma_sem_gestao_magali.png`. O informativo calculado de snacks/restaurantes continua R$ 1.420,71; R$ 1.420,00 da imagem é apresentação manual e não altera o cálculo dos documentos. O fechamento pessoal manual de agosto não foi reaberto.
+
 As regras confirmadas mais recentes prevalecem sobre exemplos antigos. Os valores da revisão de agosto documentam aquele mês; não são novos lançamentos a criar.
 
 
 > Use esta seção para mapear lançamentos do **extrato bancário** (Itaú Personnalitê) para os itens da planilha.
 > Diferente do cartão, o extrato contém pagamentos de contas fixas, PIX e débitos automáticos.
 
+### Portabilidade salarial — confirmação de Luiz em 13/09/2026
+
+As TEDs `033.2062.LUIZ C N` de 14/08 (EXT-042, R$ 6.368,79) e 31/08 (EXT-011, R$ 3.086,09) são salário por portabilidade Santander → Itaú, confirmado por Luiz após consulta ao extrato. Somar R$ 9.454,88 como referência salarial líquida no planejamento, uma única vez; manter esses créditos fora das despesas e não duplicar com a conta de origem. Valores originais e fechamento de agosto preservados. Essa confirmação específica supera a antiga observação genérica de transferência própria para esses dois IDs, sem reclassificar os demais PIX próprios. Não deduzir novamente pensão de crédito já líquido nem pedir confirmação salarial novamente. A imagem anterior de R$ 15.921,97 deixa de ser a base de renda disponível. Os auxílios continuam discriminados, com inclusão nas TEDs ainda a conferir.
+
 ### Tratamentos do filho — reembolso integral via Bradesco/Santander
+
+**Complemento atualizado em 13/09/2026:** Luiz informa reembolso geralmente integral pelo Bradesco Saúde em cerca de 15 a 20 dias, sem especificar dias úteis/corridos. O adiantamento dos tratamentos e essa espera afetam o caixa e, segundo Luiz, contribuem para o uso recorrente do cheque especial. Os pedidos atuais continuam Em Análise conforme a imagem disponível. Manter a exclusão no orçamento, mas incluir saídas e créditos efetivos no calendário financeiro. Ver [FLUXO_DE_CAIXA.md](FLUXO_DE_CAIXA.md). Não marcar pedidos como pagos ou pendentes só pelo valor/data dos PIX.
 
 **Confirmado por Luiz em 10/09/2026:** pagamentos a SP SERV, NAOMI e Mario Pinheiro são tratamentos do filho, reembolsados integralmente pelo Bradesco Saúde na conta Santander. Luiz costuma transferir esse dinheiro para sua própria conta Itaú por PIX. Por decisão expressa do usuário, esses pagamentos e transferências ficam fora dos gastos da planilha.
 

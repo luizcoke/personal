@@ -18,7 +18,7 @@
 
 | ID | Data contábil | Descrição | Original R$ | Item da planilha | Valor pessoal R$ | Situação |
 | --- | --- | --- | --- | --- | --- | --- |
-| EXT-011 | 31/08/2026 | TED 033.2062.LUIZ C N | 3.086,09 | Fora dos gastos | 0,000 | Transferência entre contas próprias, conforme KB. |
+| EXT-011 | 31/08/2026 | TED 033.2062.LUIZ C N | 3.086,09 | Fora dos gastos | 0,000 | Luiz confirmou em 13/09/2026 que esta TED é portabilidade do salário do Santander ao Itaú (pagamento do fim do mês), já com os descontos aplicáveis. Compor a renda líquida de referência uma única vez; não duplicar com o crédito na conta de origem. Permanece fora das despesas, com valor e data originais preservados. |
 | EXT-012 | 31/08/2026 | PIX TRANSF PALOMA 30/08 | -1.208,00 | Financiamento Apt Lapa * | 1.208,000 | PIX para Paloma destinado ao financiamento do apartamento, confirmado por Luiz. |
 | EXT-013 | 31/08/2026 | PIX TRANSF SP SERV31/08 | -3.000,00 | Fora dos gastos | 0,000 | Tratamento do filho integralmente reembolsado pelo Bradesco Saúde na conta Santander; excluir por instrução de Luiz. PIX de retorno ao Itaú são transferências próprias, também fora dos gastos. |
 | EXT-014 | 31/08/2026 | PIX TRANSF Magali 31/08 | -990,13 | Gastos Babá Isabela * | 990,130 | Empresa de Magali contratada para gerenciar a nova babá Bruna. Valor integral no resumo pessoal de agosto confirmado por Luiz; quadro de Paloma conferido manualmente em separado. |
@@ -49,7 +49,7 @@
 | EXT-039 | 17/08/2026 | ITAU BLACK 3104-7969 | -6.215,33 | Fora dos gastos | 0,000 | Pagamento de fatura: excluir do orçamento para não contar compras novamente. |
 | EXT-040 | 17/08/2026 | REND PAGO APLIC AUT MAIS | 0,01 | Fora dos gastos | 0,000 | Rendimento de aplicação: não é despesa. |
 | EXT-041 | 17/08/2026 | JUROS LIMITE DA CONTA | -127,82 | Juros/IOF | 127,820 | Encargo efetivamente debitado em agosto; usar item Juros/IOF existente na planilha. |
-| EXT-042 | 14/08/2026 | TED 033.2062.LUIZ C N | 6.368,79 | Fora dos gastos | 0,000 | Transferência entre contas próprias, conforme KB. |
+| EXT-042 | 14/08/2026 | TED 033.2062.LUIZ C N | 6.368,79 | Fora dos gastos | 0,000 | Luiz confirmou em 13/09/2026 que esta TED é portabilidade do salário do Santander ao Itaú (adiantamento de meados do mês), já com os descontos aplicáveis. Compor a renda líquida de referência uma única vez; não duplicar com o crédito na conta de origem. Permanece fora das despesas, com valor e data originais preservados. |
 | EXT-043 | 14/08/2026 | PIX TRANSF IVANEYD14/08 | -63,60 | Gastos Babá Isabela * | 63,600 | Ivaneyde: babá temporária que passou e não ficou. Valor integral no resumo pessoal de agosto confirmado por Luiz; quadro de Paloma conferido manualmente em separado. |
 | EXT-044 | 14/08/2026 | PIX TRANSF LUIZ CO14/08 | 1.000,00 | Fora dos gastos | 0,000 | Transferência entre contas próprias, conforme KB. |
 | EXT-045 | 14/08/2026 | PIX TRANSF LUIZ CO14/08 | 3.880,00 | Fora dos gastos | 0,000 | Transferência entre contas próprias, conforme KB. |

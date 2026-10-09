@@ -1,5 +1,56 @@
 # Base de conhecimento — despesas pessoais
 
+## Alimentação prática — confirmação de Luiz, 13/09/2026
+
+- PLANO-JANTAR-PESSOAS: Luiz confirmou que o jantar por delivery atende a ele e à esposa (dois adultos), e pediu usar as faturas já existentes para estimar custos. Não perguntar novamente quantidade de pessoas ou preço médio antes de consultar os lançamentos. A confirmação da rotina não prova que cada compra histórica atendeu exatamente duas pessoas.
+- PLANO-JANTAR-PRATICO: delivery atende principalmente ao jantar. Luiz confirmou que refeições prontas para aquecer seriam aceitáveis para a família. A solução deve preservar praticidade, sem depender de a esposa cozinhar; não inferir que ela aprovou pessoalmente um fornecedor ou cardápio.
+- Teste proposto: substituir dois jantares de delivery por semana durante duas semanas, escolhendo opções em conjunto. Frequência, datas, fornecedor e orçamento do teste ainda não foram confirmados; nenhuma compra realizada.
+- O total de R$ 1.420,71 reúne restaurantes, delivery, snacks e padaria, não apenas jantares. Não usar esse total para estimar preço por pedido nem registrar economia sem medir substituições. Teto anterior de R$ 600,00 permanece hipótese, não decisão.
+
+## Preferências do planejamento — AABB e OpenAI, 13/09/2026
+
+- PLANO-AABB-MANTER: Luiz decidiu manter o clube, pago mensalmente, pois esposa e filha usam bastante. A família frequenta o restaurante praticamente todos os fins de semana. Mensalidade e refeições são componentes separados; manter o clube não define automaticamente teto para consumo. EXT-032 registra mensalidade de R$ 612,00; o fechamento manual da linha 57 de R$ 806,17 permanece preservado. A confirmação de uso não explica a diferença nem reclassifica MASTERCARD-002.
+- PLANO-OPENAI-USO: Luiz confirmou OpenAI como mensal e em uso com Codex. Manter no cenário atual, sem economia presumida. MASTERCARD-105 (R$ 105,74) e MASTERCARD-106 (R$ 457,56) são os valores observados do ciclo; a resposta não confirma que ambas as cobranças se repetirão integralmente todos os meses. Não voltar a perguntar sobre finalidade ou periodicidade do serviço. Não inferir uso profissional ou geração de renda.
+- Nenhuma mudança de categoria, rateio, valor histórico ou aceite dos tetos anteriores decorre dessas confirmações. Próxima discussão: consumo ajustável preservando as prioridades familiares e custo regular de cuidados.
+
+
+## Renda e fluxo de caixa — confirmação vigente de 13/09/2026
+
+Limite e juros atualizados por Luiz: R$ 13.900,00 de limite ainda disponível, além do valor usado, e taxa de 8% ao mês mais IOF. Ele não pretende usar todo o limite e conta com salário no dia 15 e reembolso esperado. Não interpretar limite como dinheiro próprio nem fixar data de crédito do Bradesco sem evidência. Juros são sobre o saldo utilizado, não sobre a disponibilidade. A pergunta sobre taxa mensal está resolvida; detalhes e cenários em FLUXO_DE_CAIXA.md.
+
+RESERVA-DISPONIVEL: R$ 0,00, confirmado por Luiz. Primeira versão do [plano financeiro](../planejamento/PLANO_FINANCEIRO_INICIAL.md) consolidada com cenários, orçamento proposto e limites da informação. O extrato arquivado informa limite contratado de R$ 21.600,00; a taxa de 8% ao mês mais IOF foi informada posteriormente por Luiz. Não confundir limite com patrimônio ou disponibilidade própria.
+
+Luiz informou não possuir patrimônio que gere renda. Registrar renda patrimonial/passiva não existente segundo sua declaração, sem inferir ausência de bens, reservas ou saldos disponíveis. Dados suficientes para diagnóstico inicial. Luiz confirmou posteriormente não ter nenhum valor disponível: reserva e saldos acessíveis fora da conta negativa de R$ 0,00 nesta data. Não perguntar novamente nem supor uso de reserva existente. Ver FLUXO_DE_CAIXA.md; não repetir a pergunta sobre renda patrimonial.
+
+Descontos corrigidos em 13/09/2026: Luiz confirmou pensão de agosto de R$ 4.306,25 (DESC-PENSAO), substituindo R$ 2.013,87 da imagem. Agosto totaliza R$ 7.367,09 de descontos, igual a julho; Meta permanece R$ 7.422,69. Receitas da coluna Ago de R$ 17.909,55 menos descontos corrigidos resultam em R$ 10.542,46, cálculo da planilha ainda não conciliado com todos os créditos e benefícios. A pensão está resolvida; não perguntar novamente nem descontar das TEDs já líquidas. A coincidência 15.921,97 − 7.367,09 + 900,00 = 9.454,88 agora usa os descontos corrigidos de agosto e sugere APAE já incluído, mas ainda usa a base Meta e não identifica a rubrica dentro da portabilidade. Não somar APAE novamente como entrada confirmada nem deduzir descontos dos créditos já líquidos. Os cenários anteriores de renda/deficit continuam condicionais. Ver [CONFERENCIA_DESCONTOS.md](../periodos/2026-08/resultados/detalhes/CONFERENCIA_DESCONTOS.md) e os dados por ID da imagem.
+
+
+
+Luiz confirmou que as TEDs Santander → Itaú de R$ 6.368,79 em 14/08 (EXT-042) e R$ 3.086,09 em 31/08 (EXT-011) são portabilidade do salário, já com os descontos legais. Adotar R$ 9.454,88 líquidos como referência mensal, substituindo os R$ 15.921,97 apresentados na imagem. A confirmação e os registros por ID encerram a dúvida sobre origem salarial. Não pedir novamente os valores nem aplicar nova dedução de pensão. Contar uma única receita, sem duplicar a passagem entre contas próprias.
+
+| ID | Receita / benefício | Valor mensal R$ | Evidência e calendário |
+| --- | --- | --- | --- |
+| RENDA-SALARIO | Salário líquido após descontos aplicáveis | 9.454,88 | Extrato de agosto e confirmação de Luiz. R$ 6.368,79 referentes ao dia 15 e R$ 3.086,09 ao fim do mês. Datas habituais informadas: 15 e 30; em agosto, créditos em 14 e 31. |
+| RENDA-AUXILIO-CRECHE | Auxílio-creche | 720,00 | Valor mensal informado; recebimento variável vinculado à solicitação. |
+| RENDA-AUXILIO-APAE | Auxílio APAE | 900,00 | Diferença entre total de auxílios da imagem (1.620,00) e creche (720,00); demais benefícios no dia 30. |
+| BENEFICIO-ALELO | VA + benefícios Alelo | 1.011,60 | Cartão Alelo, usado por exemplo no mercado; separar do caixa bancário. |
+
+Somando os auxílios por fora do salário: R$ 11.074,88 em dinheiro e R$ 12.086,48 com Alelo. A inclusão dos auxílios nas TEDs deve ser conferida antes de fechar o calendário para evitar duplicidade; não presumir a finalidade das TEDs diretas da Avanade de R$ 790,00 em julho e R$ 895,00 em setembro.
+
+Comparação com as despesas pessoais confirmadas de agosto, R$ 15.224,56: diferença de -R$ 4.149,68 no cenário de auxílios adicionais. Isso substitui a antiga sobra calculada de R$ 2.317,41. Agosto contém gastos anuais e pontuais; separar recorrência antes de projetar meses futuros. Não abater novamente o quadro de Paloma. O fechamento de despesas de agosto permanece inalterado.
+
+Histórico da correção: a imagem foi apresentada como salário líquido de R$ 15.921,97. Luiz escolheu os valores efetivamente creditados para planejamento, por já conterem os descontos legais. Não inferir salário bruto nem decompor a diferença de R$ 6.467,09 sem holerite.
+
+Luiz informou cheque especial de aproximadamente -R$ 7.600,00 e espera habitual de 15 a 20 dias por reembolso geralmente integral do Bradesco Saúde, sem esclarecer dias úteis/corridos. Imagem atual: três pedidos de 10/09, total apresentado de R$ 7.875,00, todos Em Análise, sem data/valor aprovado. Mastercard integral de R$ 7.905,53 vence em 15/09. A exclusão dos tratamentos do orçamento pessoal permanece; saídas e créditos efetivos devem constar no fluxo de caixa por data. Reembolsos repõem dinheiro adiantado, sem gerar nova renda livre.
+
+Consultar [FLUXO_DE_CAIXA.md](FLUXO_DE_CAIXA.md) para pagamentos, protocolos, cálculos e próximos dados. Preservar a classificação dos demais PIX próprios; a confirmação salarial tem escopo nas TEDs identificadas, não em todas as transferências.
+
+## Correção vigente — gestão Magali fora do quadro de Paloma
+
+Luiz retirou Gestão Bruna/Magali, cartão 01/04 de R$ 129,46 (MASTERCARD-026), pois Paloma já pagou sua parte e essa cobrança é integralmente dele. Não cobrar novamente R$ 64,73 nem aplicar novo rateio a essa compra. Nas parcelas seguintes da mesma compra, preservar essa decisão, sem generalizar a todos os serviços/PIX de Magali. Não inventar crédito bancário ou data de recebimento.
+
+Quadro de Paloma atualizado: R$ 4.933,94 integrais e R$ 2.466,97 rateados, substituindo os totais anteriores de R$ 5.063,40 e R$ 2.531,70. O PIX de R$ 221,64 (parte R$ 110,82) continua no quadro. A imagem atual fica em `auditoria/referencias/planilha_paloma_sem_gestao_magali.png`. O informativo calculado de snacks/restaurantes continua R$ 1.420,71; R$ 1.420,00 da imagem é apresentação manual e não altera o cálculo dos documentos. O fechamento pessoal manual de agosto não foi reaberto.
+
 ## Fechamento manual de agosto — confirmação final de Luiz
 
 Após receber a comparação das diferenças, Luiz respondeu “está correto, finalizamos”. A planilha final prevalece para a apresentação de agosto: financiamento R$ 1.219,50; manutenção R$ 435,00; babás R$ 2.239,97; eSocial R$ 209,14; AABB R$ 806,17. Total dos blocos R$ 15.224,56 (R$ 8.220,15 + R$ 7.004,41). As confirmações anteriores de manter R$ 4.479,94 de babás e R$ 17.608,97 no quadro pessoal ficam superadas somente neste fechamento manual. O eSocial menor é ajuste explícito do usuário, não uma regra para dividir novamente o eSocial nos próximos meses.
@@ -85,3 +136,7 @@ A rotina autorizada é processar os arquivos quando enviados, atualizar a base e
 OneDrive anual e OpenAI mensal passaram ao bloco Assinaturas, nas linhas Excel 61 e 62. O modelo usa `linha` como ID estável e `linha_excel` para a posição de exibição; os IDs citados nas regras e lançamentos continuam válidos. Spotify, Apple, Netflix, Lazer, Loterias e Outros aparecem nas linhas Excel 63–68. Fundo de Reserva não está visível no recorte; não inferir a nova posição. Reembolso empresa segue complementar.
 
 A imagem preenchida foi preservada em `periodos/2026-08/auditoria/referencias/planilha_mensal_preenchida.png`. Há diferenças de valores em relação ao resumo (incluindo eSocial já rateado); registradas em `resultados/detalhes/CONFERENCIA_PLANILHA_FINAL.md`. Não transformar essas divergências em novas regras sem esclarecer a intenção.
+
+## Planejador financeiro — criado a pedido de Luiz em 13/09/2026
+
+Luiz pediu criar um agente no projeto baseado nos cinco textos do OCR e seguir com o plano. Perfil: `.github/agents/Planejador-Financeiro.agent.md`; skill do repositório: `.agents/skills/plano-financeiro/SKILL.md`. O método fica em `planejamento/METODO.md`, preserva os cinco roteiros e usa esta base como fonte das confirmações. Retomar o plano e as ações existentes, sem repetir entrevista. A revisão de gastos é proposta e não representa cortes aceitos ou executados. A criação não solicita agendamento, nova conversa, contratação financeira ou mensagens externas.

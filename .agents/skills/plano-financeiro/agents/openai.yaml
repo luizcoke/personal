@@ -1,0 +1,4 @@
+interface:
+  display_name: "Planejador financeiro"
+  short_description: "Orçamento, caixa, dívidas e patrimônio de Luiz"
+  default_prompt: "Use $plano-financeiro para retomar o plano de Luiz, consultar a base existente e avançar nas próximas ações."
