@@ -1,0 +1,180 @@
+{
+  "ciclo_previsto": "2026-11",
+  "incluido_no_resumo_atual": false,
+  "fontes": {
+    "MASTERCARD": [
+      {
+        "data": "10/12",
+        "descricao": "AMAZONMKTPLC*UPTEC",
+        "parcela": "11/12",
+        "valor_original": "160.61",
+        "pagina": 4,
+        "coluna": "esquerda",
+        "linha_extraida": 64,
+        "texto_fonte": "10/12 AMAZONMKTPLC*UPTEC11/12 160,61"
+      },
+      {
+        "data": "28/06",
+        "descricao": "Zara Brasil LTDA",
+        "parcela": "05/05",
+        "valor_original": "317.12",
+        "pagina": 4,
+        "coluna": "esquerda",
+        "linha_extraida": 65,
+        "texto_fonte": "28/06 Zara Brasil LTDA 05/05 317,12"
+      },
+      {
+        "data": "08/07",
+        "descricao": "MP *ASSTECNICAELE",
+        "parcela": "04/08",
+        "valor_original": "137.50",
+        "pagina": 4,
+        "coluna": "esquerda",
+        "linha_extraida": 66,
+        "texto_fonte": "08/07 MP *ASSTECNICAELE 04/08 137,50"
+      },
+      {
+        "data": "25/07",
+        "descricao": "SAMSUNG NO ITAU",
+        "parcela": "04/14",
+        "valor_original": "300.04",
+        "pagina": 4,
+        "coluna": "direita",
+        "linha_extraida": 2,
+        "texto_fonte": "25/07 SAMSUNG NO ITAU 04/14 300,04"
+      },
+      {
+        "data": "21/08",
+        "descricao": "CAASP LAPA",
+        "parcela": "03/03",
+        "valor_original": "33.39",
+        "pagina": 4,
+        "coluna": "direita",
+        "linha_extraida": 3,
+        "texto_fonte": "21/08 CAASP LAPA 03/03 33,39"
+      },
+      {
+        "data": "23/08",
+        "descricao": "JIM.COM* MAGALI DA",
+        "parcela": "03/04",
+        "valor_original": "129.46",
+        "pagina": 4,
+        "coluna": "direita",
+        "linha_extraida": 4,
+        "texto_fonte": "23/08 JIM.COM* MAGALI DA03/04 129,46"
+      },
+      {
+        "data": "28/08",
+        "descricao": "Drogaria_SP drogar",
+        "parcela": "03/03",
+        "valor_original": "92.90",
+        "pagina": 4,
+        "coluna": "direita",
+        "linha_extraida": 5,
+        "texto_fonte": "28/08 Drogaria_SP drogar03/03 92,90"
+      },
+      {
+        "data": "04/09",
+        "descricao": "PORTO SEGURO CIA S",
+        "parcela": "03/10",
+        "valor_original": "230.06",
+        "pagina": 4,
+        "coluna": "direita",
+        "linha_extraida": 6,
+        "texto_fonte": "04/09 PORTO SEGURO CIA S03/10 230,06"
+      },
+      {
+        "data": "04/09",
+        "descricao": "CAASP LAPA",
+        "parcela": "03/03",
+        "valor_original": "28.84",
+        "pagina": 4,
+        "coluna": "direita",
+        "linha_extraida": 7,
+        "texto_fonte": "04/09 CAASP LAPA 03/03 28,84"
+      },
+      {
+        "data": "09/09",
+        "descricao": "Drogaria_SP drogar",
+        "parcela": "02/02",
+        "valor_original": "30.10",
+        "pagina": 4,
+        "coluna": "direita",
+        "linha_extraida": 8,
+        "texto_fonte": "09/09 Drogaria_SP drogar02/02 30,10"
+      },
+      {
+        "data": "10/09",
+        "descricao": "RAIA DROGASIL SA",
+        "parcela": "02/02",
+        "valor_original": "60.24",
+        "pagina": 4,
+        "coluna": "direita",
+        "linha_extraida": 9,
+        "texto_fonte": "10/09 RAIA DROGASIL SA 02/02 60,24"
+      },
+      {
+        "data": "27/09",
+        "descricao": "HAVAN OSASCO",
+        "parcela": "02/02",
+        "valor_original": "135.96",
+        "pagina": 4,
+        "coluna": "direita",
+        "linha_extraida": 10,
+        "texto_fonte": "27/09 HAVAN OSASCO 02/02 135,96"
+      },
+      {
+        "data": "30/09",
+        "descricao": "B LINDA",
+        "parcela": "02/02",
+        "valor_original": "80.00",
+        "pagina": 4,
+        "coluna": "direita",
+        "linha_extraida": 11,
+        "texto_fonte": "30/09 B LINDA 02/02 80,00"
+      },
+      {
+        "data": "05/10",
+        "descricao": "RAIA DROGASIL SA",
+        "parcela": "02/03",
+        "valor_original": "104.99",
+        "pagina": 4,
+        "coluna": "direita",
+        "linha_extraida": 12,
+        "texto_fonte": "05/10 RAIA DROGASIL SA 02/03 104,99"
+      }
+    ],
+    "VISA": [
+      {
+        "data": "26/07",
+        "descricao": "ECOPARQUEECOMMERCE",
+        "parcela": "03/03",
+        "valor_original": "46.60",
+        "pagina": 2,
+        "coluna": "direita",
+        "linha_extraida": 18,
+        "texto_fonte": "26/07 ECOPARQUEECOMMERCE03/03 46,60"
+      },
+      {
+        "data": "06/09",
+        "descricao": "ASSOCIACAO ATLETIC",
+        "parcela": "02/03",
+        "valor_original": "70.00",
+        "pagina": 2,
+        "coluna": "direita",
+        "linha_extraida": 19,
+        "texto_fonte": "06/09 ASSOCIACAO ATLETIC02/03 70,00"
+      },
+      {
+        "data": "10/09",
+        "descricao": "CAASP LAPA",
+        "parcela": "02/04",
+        "valor_original": "26.93",
+        "pagina": 2,
+        "coluna": "direita",
+        "linha_extraida": 20,
+        "texto_fonte": "10/09 CAASP LAPA 02/04 26,93"
+      }
+    ]
+  }
+}

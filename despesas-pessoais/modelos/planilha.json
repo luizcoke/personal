@@ -1,5 +1,6 @@
 {
   "versao": 1,
+  "cartoes_paloma": ["3878", "6553"],
   "origem": "Imagem final da planilha de agosto enviada por Luiz em 10/09/2026; OneDrive e OpenAI incluídos em Assinaturas.",
   "criterio_periodo": "Extrato: datas contábeis dentro do mês de referência; cartões: faturas completas do ciclo enviadas pelo usuário, salvo instrução expressa diferente.",
   "observacoes": [
@@ -231,7 +232,7 @@
     {
       "bloco": "Estilo de Vida e Desejos (30%)",
       "linha": "56",
-      "item": "Lançamentos no cartão (final 3878)",
+      "item": "Lançamentos nos cartões de Paloma (3878 / 6553)",
       "categoria": "Outros",
       "linha_excel": "56"
     },

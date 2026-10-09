@@ -21,6 +21,8 @@ O formato padrão é Markdown, para transpor à planilha. Não é necessário re
 
 ## Arquivos que você usa
 
+- [Resumo de setembro/2026](C:/github/personal/despesas-pessoais/periodos/2026-09/resultados/RESUMO_MENSAL.md) — extrato de setembro e faturas do ciclo outubro conciliados: 168 registros, R$ 12.018,72 pessoais provisórios após reembolsos e compensação AABB confirmados em 09/10. Resta confirmar o condomínio não localizado; Amazon Digital BR confirmado como filme em Lazer/Viagem; gastos não reconhecidos permanecem em Outros.
+- [Pendências de setembro](C:/github/personal/despesas-pessoais/periodos/2026-09/resultados/PENDENCIAS.md) e [comparação parcial de Paloma](C:/github/personal/despesas-pessoais/periodos/2026-09/resultados/RESUMO_PALOMA.md). O quadro de Paloma é conferência, não saldo devido confirmado.
 - [Resumo de agosto/2026](C:/github/personal/despesas-pessoais/periodos/2026-08/resultados/RESUMO_MENSAL.md) — **R$ 15.224,56**, fechamento manual final confirmado por Luiz. Valores por documentos preservados nos detalhes.
 - [Conferência de Paloma](C:/github/personal/despesas-pessoais/periodos/2026-08/resultados/RESUMO_PALOMA.md) — **R$ 2.466,97 rateados**, quadro manual conferido por Luiz; tabela simples e informativo de snacks/restaurantes **R$ 1.420,71**.
 - [Pendências](C:/github/personal/despesas-pessoais/periodos/2026-08/resultados/PENDENCIAS.md) e [créditos por babá](C:/github/personal/despesas-pessoais/periodos/2026-08/resultados/detalhes/CONFERENCIA_REEMBOLSOS_BABAS.md).

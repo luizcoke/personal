@@ -1,0 +1,66 @@
+{
+  "data_confirmacao": "2026-10-09",
+  "mes_referencia": "2026-09",
+  "respostas": [
+    "R$ 1.750,00 de Paloma: confirmação do reembolso integral do pagamento ao advogado da segunda parcela do acordo da ação da babá.",
+    "R$ 1.619,00: pagamento à babá atual já reembolsado por Paloma.",
+    "R$ 2.467,00: confirmado como acerto do quadro de agosto.",
+    "Bruna não tem eSocial. Não guardamos provisão neste mês.",
+    "PIX de R$ 2,00: AABB; houve pagamento duplicado e faltou apenas esse valor. Ao esclarecer o tratamento do boleto de R$ 651,00, Luiz respondeu que foi compensado pela AABB."
+  ],
+  "ausencias_confirmadas": {
+    "esocial_bruna": "Não se aplica à babá atual Bruna, conforme declaração de Luiz; não generalizar a outras babás ou fazer conclusão jurídica.",
+    "provisao_13_setembro": "Nenhum valor guardado em setembro; não lançar aporte presumido nem cobrança a Paloma."
+  },
+  "pendencias": ["Condomínio de setembro: não localizado e sem resposta específica. Não presumir valor zero."],
+  "lancamentos": {
+    "EXT-003": {
+      "linha": "31",
+      "valor_pessoal_exato": "1618.09",
+      "status": "confirmada_usuario",
+      "rateio_status": "confirmado_reembolso",
+      "credito_vinculado": "EXT-004",
+      "observacao": "Pagamento à babá atual de R$ 3.237,09 via Magali, já reembolsado por Paloma em R$ 1.619,00 (EXT-004), confirmado em 09/10/2026. Pessoal líquido R$ 1.618,09; não dividir novamente. O crédito efetivo supera a metade exata em R$ 0,455, sem criar ajuste fictício."
+    },
+    "EXT-004": {
+      "status": "confirmada_usuario",
+      "credito_vinculado": "EXT-003",
+      "observacao": "Reembolso confirmado da babá atual: R$ 1.619,00 aplicados uma única vez a EXT-003. Não é receita livre nem crédito disponível para outra despesa."
+    },
+    "EXT-005": {
+      "linha": "57",
+      "status": "confirmada_usuario",
+      "observacao": "AABB: complemento de R$ 2,00 após pagamento duplicado compensado pelo clube, confirmado por Luiz em 09/10/2026. Única despesa da AABB atribuída a setembro por esta confirmação; sem repetir o boleto compensado."
+    },
+    "EXT-009": {
+      "status": "confirmada_usuario",
+      "credito_vinculado": "EXT-010",
+      "observacao": "Reembolso integral confirmado do advogado WALTER, segunda parcela do acordo da ação da babá. Crédito de R$ 1.750,00 usado uma única vez em EXT-010."
+    },
+    "EXT-010": {
+      "linha": "31",
+      "valor_pessoal_exato": "0.00",
+      "status": "confirmada_usuario",
+      "rateio_status": "confirmado_reembolso_integral",
+      "credito_vinculado": "EXT-009",
+      "observacao": "WALTER: segunda e última parcela (02/02) de R$ 1.750,00 do acordo judicial da ex-babá, com reembolso integral de Paloma EXT-009 confirmado. Valor pessoal líquido zero; preservar o débito na conciliação e não cobrar de novo."
+    },
+    "EXT-022": {
+      "status": "confirmado_acerto_periodo_anterior",
+      "referencia_acerto": {
+        "mes_referencia": "2026-08",
+        "quadro": "periodos/2026-08/resultados/RESUMO_PALOMA.md",
+        "valor_quadro": "2466.97",
+        "valor_recebido": "2467.00",
+        "diferenca": "0.03"
+      },
+      "observacao": "Luiz confirmou R$ 2.467,00 como acerto do quadro de agosto de R$ 2.466,97. Preservar diferença documental de R$ 0,03; não distribuir esse crédito em despesas de setembro, nem reabrir o fechamento anterior."
+    },
+    "EXT-023": {
+      "linha": null,
+      "valor_pessoal_exato": "0.00",
+      "status": "excluido_pagamento_compensado",
+      "observacao": "Boleto AABB de R$ 651,00 informado como duplicado; Luiz confirmou que foi compensado pela AABB. Excluído da despesa de setembro conforme esclarecimento, mantendo só complemento de R$ 2,00 em EXT-005. Débito bancário original preservado; não há estorno bancário criado. Competência/destino da compensação não informado; não gerar lançamento futuro automático."
+    }
+  }
+}

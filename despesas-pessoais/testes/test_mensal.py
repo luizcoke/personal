@@ -34,6 +34,20 @@ class MonthlyValidation(unittest.TestCase):
         row=next(r for r in self.data['lancamentos'] if r.get('cartao')=='3878')
         row['linha']='51'
         with self.assertRaisesRegex(mensal.ValidationError,'uma única metade'):self.validate()
+    def test_second_paloma_card_preserves_single_half(self):
+        # A titularidade, e não a categoria/estabelecimento, determina a metade.
+        for row in self.data['lancamentos']:
+            if row.get('cartao')=='3878':row['cartao']='6553'
+        for source in self.data['fontes']:
+            for subtotal in source.get('subtotais',[]):
+                if subtotal['cartao']=='3878':subtotal['cartao']='6553'
+        self.assertEqual(self.validate()['total'],D('17608.97'))
+        row=next(r for r in self.data['lancamentos'] if r.get('cartao')=='6553')
+        row['valor_pessoal_exato']=str(D(row['valor_original'])/4)
+        with self.assertRaisesRegex(mensal.ValidationError,'uma única metade'):self.validate()
+    def test_luiz_card_cannot_use_paloma_line(self):
+        self.row('MASTERCARD-001')['linha']='56'
+        with self.assertRaisesRegex(mensal.ValidationError,'não identificado como de Paloma'):self.validate()
     def test_same_credit_cannot_be_spent_twice(self):
         row=self.row('EXT-058');row['credito_vinculado']='EXT-019';row['valor_pessoal_exato']='415.25'
         with self.assertRaisesRegex(mensal.ValidationError,'crédito utilizado mais de uma vez'):self.validate()
@@ -54,7 +68,7 @@ class MonthlyValidation(unittest.TestCase):
         result=self.validate()
         with tempfile.TemporaryDirectory(prefix='.verificacao-',dir=ROOT) as temp:
             folder=Path(temp).resolve();self.assertTrue(folder.is_relative_to(ROOT))
-            output=mensal.render(P,result,output=folder)
+            output=mensal.render(folder,result,output=folder)
             text=output.read_text(encoding='utf-8')
             self.assertIn('17.608,97',text)
             for row in result['linhas']:

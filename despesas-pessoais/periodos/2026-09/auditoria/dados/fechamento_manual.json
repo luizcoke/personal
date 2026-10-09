@@ -1,0 +1,22 @@
+{
+  "status": "fechado_confirmado_usuario",
+  "data_confirmacao": "2026-10-09",
+  "fonte": "Confirmação explícita de Luiz na conversa; condomínio conferido no arquivo local.",
+  "mensagem": "atualizei agora, pode deixar que esta certo esses 2 itens",
+  "ajustes_por_id": {
+    "22": "1127.81",
+    "57": "806.17"
+  },
+  "total_original_documentos": "12018.72",
+  "subtotal_basicas": "7531.66",
+  "subtotal_estilo_vida": "6419.04",
+  "total_blocos_planilha": "13950.70",
+  "receitas_apos_descontos_com_alelo": "10445.62",
+  "saldo_orcamentario": "-3505.08",
+  "observacao": "AABB substitui os 2.00 pelo valor confirmado de 806.17, igual a agosto, sem somar o complemento novamente. Condomínio pago segundo Luiz, sem data bancária presumida. Ajustes orçamentários específicos de setembro; extrato e faturas originais preservados. Auxílio-creche 720.00 segue para acompanhamento em outubro, sem receita antecipada.",
+  "conferencia_arquivo_local": {
+    "O22": "1127.81",
+    "O57": "2.00",
+    "observacao": "Última leitura local ainda mostrava O57=2.00; Luiz confirmou atualização e pediu considerar os dois itens corretos. Fechamento baseado nessa confirmação; arquivo Excel não modificado pelo agente."
+  }
+}

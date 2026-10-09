@@ -4,6 +4,22 @@ Aplicar as decisões específicas abaixo antes do catálogo histórico. Comparar
 
 As hipóteses e decisões limitadas ao ciclo de agosto não são fatos permanentes. Estabelecimentos desconhecidos continuam em Outros; pedir apenas o que mudar a classificação ou o valor pessoal.
 
+## Revisão de setembro/ciclo outubro — 09/10/2026
+
+Decisões por ID em `periodos/2026-09/auditoria/dados/revisao_usuario.json`. Respostas “não sei” resolvem a pergunta de reconhecimento, mas não identificam o gasto; manter em Outros sem repetir a pergunta de rotina.
+
+| Descritor | Decisão vigente | Escopo e confiança |
+| --- | --- | --- |
+| `WEI MOTORS` | Concessionária; R$ 140,55 correspondem à troca da lanterna do carro. Manutenção do carro em Outros básicos (46), pois não há linha própria no modelo. Não usar Carro Lavagem ou Gasolina. | Identidade da concessionária confirmada; finalidade limitada a MASTERCARD-021 deste ciclo. |
+| `HAVAN OSASCO` | Compras para casa → Compras / Presentes (51), 01/02 de R$ 135,96. Não inferir reparo ou obra. | Compra confirmada em MASTERCARD-023 e suas parcelas seguintes; não generalizar a qualquer compra na Havan. |
+| `CheiaDeManiasBarE` | Restaurantes (53), R$ 206,11. | Restaurante confirmado; padrão do descritor, respeitando cartão e contexto. |
+| `SAPORE SA` | Almoço no zoológico → Lazer / Viagem (64), R$ 55,00. | Confirmação específica de VISA-009; não generalizar a todo SAPORE. |
+| `Sala15`, `AnaluIntimates`, `CuorDiCrema` | Não reconhecidos por Luiz; manter em Outros (66). | Resposta deste ciclo, sem identificação confirmada. |
+| `AOB UTENSILIOS DOMEST` | Duas compras de R$ 23,98 e R$ 7,98 no Visa de Luiz 2587; manter em Outros (66). | Luiz condicionou a hipótese de gasto para casa a ser cartão de Paloma; condição não atendida. Titular/cartão esclarecidos com a fatura. |
+| `DESC ANTECIPA PARCELAS` | Crédito de R$ 31,48 em Outros (66); origem não reconhecida por Luiz. | MASTERCARD-010: não vincular ao Itaú Shop nem reclassificar por coincidência. |
+
+Amazon Digital BR, R$ 34,90, MASTERCARD-040: Luiz confirmou em 09/10/2026 que foi filme e pediu Lazer/Viagem (64). Confirmação específica de setembro/ciclo outubro; não generalizar para toda cobrança Amazon nem alterar retroativamente a hipótese do ciclo anterior.
+
 ## Respostas dos 22 itens de cartão — 10/09/2026
 
 
@@ -38,7 +54,7 @@ Origem: respostas de Luiz aos 22 itens de revisão das faturas em `2026-08 (fatu
 
 **Pesquisa de MP*DAVIDELIRA:** foram consultadas variações do descritor literal e o contexto de Arapiraca indicado no PDF. Os resultados encontrados não comprovaram a identidade do estabelecimento; nenhuma pessoa ou empresa homônima foi vinculada à compra. Permanecem duas cobranças de R$ 20,00 no cartão 3878, total bruto R$ 40,00 e participação de Luiz R$ 20,00.
 
-**Rateios e reembolsos:** conservar o rateio de 50% exclusivamente conforme as regras aplicáveis ao cartão 3878. Classificar o serviço de gestão da babá não autoriza automaticamente um segundo rateio. Os estacionamentos ACORES passam ao item Reembolso empresa; o relatório de cartão preserva os débitos originais, sem criar lançamentos de recebimento.
+**Rateios e reembolsos:** aplicar 50% a todos os cartões identificados como de Paloma (3878 e 6553 conhecidos), conforme confirmação geral de 09/10/2026, inclusive AABB. Classificar o serviço de gestão da babá no cartão de Luiz não autoriza automaticamente rateio. Os estacionamentos ACORES passam ao item Reembolso empresa; o relatório preserva os débitos originais, sem criar recebimento.
 
 ---
 
@@ -325,7 +341,7 @@ Usar a linha 55 (Mercadão + feira + Bebida + rest. AABB) para as refeições de
 
 - As condições explícitas (como o limite da refeição AABB) fazem parte da regra. Heurísticas de valor baixo, bar, loja genérica ou palavras amplas são indícios, não confirmação universal.
 - 99Food/Kee são delivery; ZUL é estacionamento; CAASP é Drogaria; pediatria é Gastos Isabela; Shopee MeuLar é Compras/Presentes; Porto Seguro é seguro. Estes pontos foram corrigidos no catálogo para eliminar destinos contraditórios.
-- O cartão 3878 preserva estas categorias apenas no detalhamento; no resumo pessoal entra uma única vez na linha 56, com metade do total. Descritor desconhecido nunca é transferido para o cartão da esposa.
+- Os cartões de Paloma preservam estas categorias apenas no detalhamento; no resumo pessoal entram uma única vez na linha 56, com metade do total. A regra vale também para AABB e para o final 6553, conforme confirmação de 09/10/2026. Descritor desconhecido nunca muda o cartão de origem.
 - Aprendizado novo: atualizar esta regra existente, com data, confirmação/hipótese e escopo, em vez de acrescentar uma segunda regra conflitante. Originais históricos ficam em `historico/`.
 
 ## Pistas complementares preservadas do modelo anterior

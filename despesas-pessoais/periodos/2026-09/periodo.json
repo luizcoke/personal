@@ -1,0 +1,39 @@
+{
+  "versao": 1,
+  "mes_referencia": "2026-09",
+  "ciclo_faturas": "2026-10",
+  "extrato_inicio": "2026-09-01",
+  "extrato_fim": "2026-09-30",
+  "criterio_cartoes": "faturas_completas",
+  "arquivos": [
+    {
+      "arquivo": "entradas/Fatura_MASTERCARD_100482751858_10-2026.pdf",
+      "sha256": "54e47bda2fbd514206a90bf8a8dd2327b42545af9e9612db0ba94f03a4678ddf"
+    },
+    {
+      "arquivo": "entradas/Fatura_VISA_100482751883_10-2026.pdf",
+      "sha256": "7e70e4bc3830978f38897616398ebfe8c4ebb3cee60b5bd0648a6ae6e22d4cc1"
+    },
+    {
+      "arquivo": "entradas/itau_extrato_082026.pdf",
+      "sha256": "764a47aa5218c953f62c6bf1a08936314fe138c2be5e260d83706839b49236f7"
+    }
+  ],
+  "status": "fechado_confirmado_usuario",
+  "fontes_ausentes": [],
+  "pasta_recebida": "2026-09-ref_ago",
+  "observacao_referencia": "Mês 2026-09 pelo prefixo da pasta e convenção vigente; ciclo 2026-10 pelos vencimentos. Sufixo ref_ago não usado para reabrir agosto.",
+  "documentos_complementares": [
+    {
+      "tipo": "holerite",
+      "arquivo": "entradas/Payslip_Recibo_para_30_de_set_de_2026.pdf",
+      "sha256": "a8c84f5f3f33b21f2b3246f5cd93cd01015a3a8fc6d6885acbd30a6bba4b1267",
+      "dados": "auditoria/dados/holerite.json"
+    }
+  ],
+  "fechamento_manual": {
+    "arquivo": "auditoria/dados/fechamento_manual.json",
+    "data_confirmacao": "2026-10-09",
+    "preservar": true
+  }
+}

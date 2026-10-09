@@ -1,0 +1,20 @@
+[
+  {
+    "fonte_id": "MASTERCARD",
+    "soma_parcelas_listadas": "1841.21",
+    "proxima_fatura_informada": "2126.67",
+    "diferenca_projecao": "285.46",
+    "demais_faturas_informadas": "6983.18",
+    "total_futuro_informado": "9109.85",
+    "incluido_no_gasto_atual": false
+  },
+  {
+    "fonte_id": "VISA",
+    "soma_parcelas_listadas": "143.53",
+    "proxima_fatura_informada": "143.53",
+    "diferenca_projecao": "0.00",
+    "demais_faturas_informadas": "123.86",
+    "total_futuro_informado": "267.39",
+    "incluido_no_gasto_atual": false
+  }
+]

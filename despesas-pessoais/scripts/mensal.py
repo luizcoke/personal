@@ -105,9 +105,9 @@ def validate(period,model=None,ledger=None,check_files=True):
             require(personal>=0 and personal<=max(-original,D(0)),f'Participação bancária inválida em {r["id"]}.')
         else:
             require(abs(personal)<=abs(original) and original*personal>=0,f'Participação do cartão inválida em {r["id"]}.')
-            if r.get('cartao')=='3878':
-                require(r['linha']=='56' and personal==original/D(2),'Cartão 3878 deve ter uma única metade na linha 56.')
-            elif r['linha']=='56':raise ValidationError('Linha 56 contém cartão diferente de 3878.')
+            if r.get('cartao') in model.get('cartoes_paloma',['3878']):
+                require(r['linha']=='56' and personal==original/D(2),'Cartão de Paloma deve ter uma única metade na linha 56.')
+            elif r['linha']=='56':raise ValidationError('Linha 56 contém cartão não identificado como de Paloma.')
         if r.get('base_participacao')=='ja_parte_pessoal':
             require(personal==abs(original),'Participação já dividida foi rateada novamente.')
             require(not r.get('credito_vinculado') and not r.get('creditos_aplicados'),'Participação já paga não requer reembolso.')

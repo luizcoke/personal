@@ -1,5 +1,38 @@
 # Base de conhecimento — despesas pessoais
 
+## Setembro/2026 — fechamento manual confirmado em 09/10/2026
+
+Luiz confirmou condomínio pago de **R$ 1.127,81** e corrigiu AABB para **R$ 806,17**, igual ao valor de agosto, substituindo os R$ 2,00 da apuração inicial. Correções específicas deste fechamento, não regra geral de valor mensal. Não inventar data de pagamento ou modificar o extrato para ajustar o orçamento.
+
+**Despesas finais R$ 13.950,70**: básicas R$ 7.531,66 e estilo de vida R$ 6.419,04. Receitas após descontos incluindo Alelo R$ 10.445,62; saldo orçamentário **-R$ 3.505,08**. O total documental anterior R$ 12.018,72 fica preservado na auditoria. `periodos/2026-09/periodo.json` possui fechamento manual; não regenerar por cima do relatório final. Última leitura local ainda mostrava AABB R$ 2,00, mas Luiz afirmou ter atualizado e pediu considerar os dois itens corretos: fechamento baseado na confirmação, sem nova edição da planilha.
+
+Condomínio e AABB resolvidos. Auxílio-creche R$ 720,00 permanece em acompanhamento para solicitação em outubro, sem receita antecipada; isso não impede o fechamento de setembro. O quadro de Paloma continua uma comparação, sem nova confirmação de quitação.
+
+## Planilha local — confirmação de Luiz, 09/10/2026
+
+- Auxílio-creche: Luiz reafirmou R$ 720,00 e pediu aviso em todo processamento mensal quando o recebimento não for identificado. Em setembro não consta no holerite nem foi identificado no extrato Itaú recebido; não incluído na receita. Em 09/10/2026 confirmou que esqueceu de solicitar o reembolso de setembro à empresa e pretende solicitá-lo em outubro. Solicitação e recebimento ainda não comprovados; não lançar receita futura nem reabrir setembro automaticamente. Não confundir com APAE/APDEX de R$ 900,00. Créditos Avanade de R$ 895,00 e R$ 35,00 não possuem vínculo confirmado com auxílio-creche.
+
+- Holerite integra a rotina mensal: gerar `resultados/HOLERITE.md` e atualizar receitas/descontos de `Gastos`. Setembro/2026: salário bruto R$ 15.921,97 + APAE/APDEX R$ 900,00; descontos efetivos R$ 7.387,17; líquido mensal R$ 9.434,80 (adiantamento R$ 6.368,79 + saldo R$ 3.066,01). Não descontar o adiantamento novamente. FGTS informativo, sem entrada disponível.
+- VA/Alelo: Luiz pediu perguntar o valor efetivamente recebido mês a mês; não assumir o valor habitual. Setembro confirmado em 09/10/2026: R$ 910,82 + R$ 100,00 = R$ 1.010,82. A soma de folha líquida e benefício é R$ 10.445,62, com Alelo separado de dinheiro em conta.
+
+- Arquivo de trabalho: `planilhas/Despesas dia a dia - 2026.xlsx`; a pasta permanece fora do Git.
+- Ao transpor o fechamento mensal para o Excel, atualizar a coluna do mês em `Gastos` e o quadro corrente de `Gastos Apartamento` a partir de `RESUMO_PALOMA.md`, incluindo o histórico de snacks e restaurantes (53+54+55). Luiz utiliza essa aba para enviar a Paloma. A atualização não autoriza enviar mensagens nem confirma saldo devido ou quitação.
+- Preservar os meses anteriores, demais abas, fórmulas e recursos nativos. Mostrar referência e pendências do quadro. Setembro foi transposto com R$ 5.568,11 totais, R$ 2.784,06 rateados e R$ 1.254,09 no informativo de alimentação.
+- Os R$ 2.000,00 no Fundo de Reserva de setembro eram previsão, não aporte realizado, conforme confirmação de Luiz. Retirados de setembro; valores futuros não comprovam poupança realizada.
+
+## Setembro/2026 — extrato e confirmações de 09/10/2026
+
+Extrato recebido cobre 10/08–09/10; setembro usa somente 01–30/09, com 32 movimentos e 15 saldos diários conciliados. Saldo inicial -R$ 3.887,74; final -R$ 2.084,82. Relatórios em `periodos/2026-09/resultados/` e respostas por ID em `auditoria/dados/revisao_extrato_usuario.json` do mesmo período.
+
+- WALTER, EXT-010: segunda e última parcela do acordo da ex-babá, R$ 1.750,00 em 21/09; reembolso integral de Paloma EXT-009 confirmado. Pessoal zero, sem terceira parcela ou nova cobrança.
+- Babá atual via Magali, EXT-003: R$ 3.237,09 em 30/09; reembolso confirmado de Paloma EXT-004 de R$ 1.619,00. Pessoal líquido R$ 1.618,09, sem dividir novamente. Não confundir com a parcela de gestão no cartão, que permanece integral de Luiz.
+- EXT-022: R$ 2.467,00 recebidos de Paloma em 10/09 são o acerto do quadro de agosto (R$ 2.466,97), confirmado por Luiz. Diferença documental R$ 0,03; não usar como abatimento adicional de setembro nem reabrir o fechamento de agosto.
+- Bruna não tem eSocial, segundo declaração de Luiz; não buscar pagamento de eSocial dela como pendência recorrente. Essa declaração não é uma conclusão jurídica nem regra para outras babás. Em setembro não houve aporte à provisão do 13º; não copiar R$ 248,45 de outro mês.
+- AABB: EXT-023, boleto de R$ 651,00, foi duplicado e compensado pelo clube, conforme esclarecimento de Luiz. Manter na conciliação, excluído das despesas de setembro; nenhum estorno bancário foi criado. EXT-005, PIX de R$ 2,00, é o complemento e a despesa da AABB atribuída ao mês. Destino/competência da compensação não informado; não criar despesa futura automaticamente.
+- Condomínio de setembro permanece sem lançamento localizado e sem confirmação de pagamento/ausência. Amazon Digital BR de R$ 34,90 (MASTERCARD-040) foi confirmado como filme em 09/10/2026 e classificado em Lazer/Viagem (64). Os gastos que Luiz não reconheceu ficam em Outros, sem repetir a pergunta.
+
+Total pessoal provisório atualizado: R$ 12.018,72; fontes conciliadas. O mês não recebeu confirmação de fechamento final.
+
 ## Alimentação prática — confirmação de Luiz, 13/09/2026
 
 - PLANO-JANTAR-PESSOAS: Luiz confirmou que o jantar por delivery atende a ele e à esposa (dois adultos), e pediu usar as faturas já existentes para estimar custos. Não perguntar novamente quantidade de pessoas ou preço médio antes de consultar os lançamentos. A confirmação da rotina não prova que cada compra histórica atendeu exatamente duas pessoas.
@@ -83,7 +116,7 @@ Respostas com “acho” permanecem hipóteses do ciclo. “Deixe em Outros” r
 - Pasta pelo **mês de referência das despesas**: `periodos/2026-08`. O ciclo das faturas é registrado separadamente em `periodo.json` (neste primeiro caso, 2026-09).
 - **Extrato:** primeiro ao último dia do mês, inclusive, pela data contábil da primeira coluna. Nome do PDF e data abreviada no PIX não definem o filtro. O PDF `itau_extrato_072026.pdf` contém julho a setembro, mas agosto usa somente 01–31/08.
 - **Cartões:** convenção adotada é usar as faturas completas do ciclo enviadas, preservando parcelas atuais de compras antigas; suas datas ficam no detalhe. Uma instrução de Luiz para filtrar compras por data prevalece. Não alterar silenciosamente o critério.
-- Identificar cada documento, total, vencimento e todos os cartões pelos cabeçalhos. Os finais conhecidos são Mastercard 0539, 1929, 9871 e 3878; Visa 2587 e 7396. A lista não substitui o PDF.
+- Identificar cada documento, total, vencimento e todos os cartões pelos cabeçalhos. Os finais conhecidos são Mastercard de Luiz 0539, 1929 e 9871, Mastercard de Paloma 3878 e 6553; Visa de Luiz 2587 e 7396. A lista não substitui o PDF.
 - Preservar originais. Desbloquear cópias quando necessário e guardar extrações na auditoria. Os utilitários existentes ficam em `C:/github/personal/.core/tools/`. A senha já configurada fica em `config.local.json` (campo `pdf_password`, arquivo local fora do Git); usar sem pedir novamente ou expô-la nos relatórios.
 - Antes de importar, comparar SHA-256: um arquivo repetido não cria novas despesas. Transações legítimas iguais dentro da fonte permanecem separadas por ID/localização. `_unlocked`, textos, resumos e imagens de referência não são novas entradas.
 
@@ -92,7 +125,7 @@ Respostas com “acho” permanecem hipóteses do ciclo. “Deixe em Outros” r
 - Preservar valor e sinal originais do documento; guardar participação pessoal em campo separado. Dinheiro é Decimal, não ponto flutuante.
 - Usar somente a parcela cobrada agora. Próximas parcelas são acompanhamento, não gastos atuais. OneDrive anual entra pela cobrança integral, sem inventar 12 parcelas. As duas cobranças reais de OpenAI são preservadas até evidência de duplicidade.
 - Estornos identificáveis reduzem a linha da compra original; Samsung → manutenção, Levi’s → compras. Compras internacionais usam BRL efetivo e cada IOF real uma única vez. Limites, CET, juros de simulação e totais futuros não são despesas.
-- **Cartão 3878:** metade de todos os lançamentos, com precisão integral; no quadro principal uma única linha 56. Não redistribuir categorias nem dividir novamente. Cartões de Luiz não são rateados por essa regra.
+- **Todos os cartões de Paloma — confirmação de 09/10/2026:** metade de todos os lançamentos, independentemente do estabelecimento, inclusive AABB. Finais identificados: 3878 e 6553; cadastrar outros finais somente quando a titularidade estiver identificada. Preservar precisão integral e consolidar uma única vez na linha 56, sem redistribuir por categoria nem dividir novamente. Esta confirmação amplia a regra antes restrita ao 3878; cartões de Luiz não são rateados por ela.
 - Arredondar para centavos uma vez por item/fonte. Em agosto, metade do cartão 3878 = R$ 1.430,525 → R$ 1.430,53. No quadro para Paloma, somar participações exatas e arredondar somente o total, como no Excel validado por Luiz. Se a soma das linhas exibidas divergir em centavos, informar em uma nota curta; não criar gasto de ajuste.
 - Os 50%/30% dos blocos do Excel são metas de orçamento, não fatores de rateio. Não importar saldos, metas ou histórico de snacks das imagens. Um quadro atual preenchido e expressamente validado por Luiz pode definir a apresentação de Paloma; guardar essa confirmação separada e preservar os dados originais dos PDFs.
 - Manter Outros básicos (46) e Outros de estilo de vida (66) separados. OneDrive e OpenAI ficam em Assinaturas nas linhas Excel 61 e 62; Reembolso empresa permanece complementar. Ausência de lançamento é `—`, não comprovação de gasto zero.
@@ -118,7 +151,7 @@ Ao receber uma resposta nova: atualizar a regra existente com escopo/confiança,
 ## Quadro simples de Paloma — confirmado em 10/09/2026
 
 - Entregar tabela principal com gastos, forma, parcela, valor total e valor rateado; total ao final. Análises de PIX, textos de cobrança, histórico e fontes detalhadas ficam fora do resumo para copiar.
-- Segundo quadro: **Snacks e restaurantes — informativo**. Luiz confirmou somar apenas **Ifood + snacks + Padaria (54) + Restaurantes (53)** pelos valores do resumo pessoal. Agosto: R$ 1.100,39 + R$ 320,32 = **R$ 1.420,71**. Não incluir 55 (Mercadão/feira/bebidas/AABB), trabalho (42), novo rateio ou duplicação das categorias do 3878. Não somar esse informativo ao acerto.
+- Segundo quadro: **Snacks e restaurantes — informativo**. Regra corrigida por Luiz em 09/10/2026, vigente para setembro e próximos meses: somar **Ifood + snacks + Padaria (54) + Mercadão + feira + Bebida + rest. AABB (55) + Restaurantes (53)** pelos valores pessoais do resumo, sem novo rateio. Setembro: R$ 703,75 + R$ 344,23 + R$ 206,11 = **R$ 1.254,09**. Não incluir trabalho (42), nem duplicar categorias dos cartões de Paloma. Informativo fora do acerto. A regra anterior excluía 55; agosto permanece como fechamento histórico confirmado, sem recálculo retroativo.
 - Quadro manual de agosto validado: R$ 5.063,40 integrais e R$ 2.531,70 rateados. As linhas exibidas somam R$ 2.531,71; a diferença de R$ 0,01 é arredondamento de exibição, pois o Excel soma as metades exatas.
 - A imagem atual, IDs e particularidades ficam em `periodos/2026-08/auditoria/dados/confirmacao_paloma.json` e `resultados/detalhes/CONFERENCIA_PLANILHA_PALOMA.md`. Campos Forma/parcela do controle manual não alteram os registros originais do extrato/fatura.
 - Luiz continuará preenchendo o Excel manualmente para conferir; atualização direta da planilha fica para um pedido futuro.

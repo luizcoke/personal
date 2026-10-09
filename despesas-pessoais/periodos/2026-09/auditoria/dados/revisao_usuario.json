@@ -1,0 +1,76 @@
+{
+  "data_confirmacao": "2026-10-09",
+  "mes_referencia": "2026-09",
+  "regras_confirmadas": [
+    "Todo gasto em cartão de Paloma é dividido 50%, inclusive AABB; regra geral por titular, não restrita ao final 3878.",
+    "WEI MOTORS é a concessionária; neste lançamento, troca da lanterna do carro.",
+    "HAVAN OSASCO: compras para casa neste ciclo; finalidade específica não informada.",
+    "CheiaDeManiasBarE: restaurante.",
+    "SAPORE SA: almoço no zoológico, classificado em Lazer/Viagem neste lançamento."
+  ],
+  "esclarecimento_aob": "VISA-002 e VISA-003 constam no Visa de Luiz final 2587, página 2. A hipótese de gasto para casa foi condicionada pelo usuário a ser cartão de Paloma; condição não atendida. Não classificar por essa hipótese.",
+  "lancamentos": {
+    "MASTERCARD-040": {
+      "linha": "64",
+      "status": "confirmada_usuario",
+      "observacao": "Amazon Digital BR, R$ 34,90: filme, confirmado por Luiz em 09/10/2026. Classificar em Lazer/Viagem. Confirmação deste lançamento; não generalizar a toda cobrança Amazon."
+    },
+    "MASTERCARD-010": {
+      "linha": "66",
+      "status": "nao_identificado",
+      "observacao": "Luiz não sabe a origem do desconto de antecipação (09/10/2026). Preservar crédito de R$ 31,48 em Outros, sem vincular ao Itaú Shop por suposição; não repetir a pergunta sem nova evidência."
+    },
+    "MASTERCARD-012": {
+      "linha": "66",
+      "status": "nao_identificado",
+      "observacao": "CuorDiCrema: Luiz não reconheceu a finalidade em 09/10/2026. Manter em Outros; sem nova pergunta de rotina."
+    },
+    "MASTERCARD-013": {
+      "linha": "66",
+      "status": "nao_identificado",
+      "observacao": "Sala15: Luiz não reconheceu a finalidade em 09/10/2026. Manter em Outros; sem inferir atividade pela categoria VEÍCULOS do PDF."
+    },
+    "MASTERCARD-021": {
+      "linha": "46",
+      "status": "confirmada_usuario",
+      "observacao": "WEI MOTORS: concessionária, troca da lanterna do carro, confirmada em 09/10/2026. Manutenção do carro em Outros básicos (46), pois o modelo não possui linha própria de manutenção; não é lavagem nem combustível. Valor pessoal integral R$ 140,55."
+    },
+    "MASTERCARD-023": {
+      "linha": "51",
+      "status": "confirmada_usuario",
+      "observacao": "HAVAN OSASCO: compras para casa, confirmadas em 09/10/2026. Compras / Presentes; parcela atual 01/02 de R$ 135,96. Não inferir obra, reparo ou eletrodoméstico. Manter nas parcelas seguintes desta compra."
+    },
+    "MASTERCARD-032": {
+      "linha": "53",
+      "status": "confirmada_usuario",
+      "observacao": "CheiaDeManiasBarE identificado como restaurante por Luiz em 09/10/2026."
+    },
+    "MASTERCARD-115": {
+      "linha": "56",
+      "valor_pessoal_exato": "25.00",
+      "status": "confirmada_usuario",
+      "rateio_status": "confirmado_50_porcento",
+      "observacao": "AABB SP no cartão de Paloma 6553: metade de R$ 50,00 = R$ 25,00. Luiz confirmou em 09/10/2026 que todo gasto dos cartões de Paloma é dividido, inclusive AABB; única inclusão na linha 56."
+    },
+    "VISA-002": {
+      "linha": "66",
+      "status": "nao_identificado",
+      "observacao": "AOB UTENSILIOS DOMEST no Visa de Luiz 2587 (página 2), R$ 23,98. Luiz não reconheceu; hipótese de compra para casa condicionada a ser cartão de Paloma não se aplica. Manter em Outros."
+    },
+    "VISA-003": {
+      "linha": "66",
+      "status": "nao_identificado",
+      "observacao": "AOB UTENSILIOS DOMEST no Visa de Luiz 2587 (página 2), R$ 7,98. Luiz não reconheceu; hipótese de compra para casa condicionada a ser cartão de Paloma não se aplica. Manter em Outros."
+    },
+    "VISA-007": {
+      "linha": "66",
+      "status": "nao_identificado",
+      "observacao": "AnaluIntimates: Luiz não reconheceu a finalidade em 09/10/2026. Manter em Outros, sem inferir produto ou destinatário."
+    },
+    "VISA-009": {
+      "linha": "64",
+      "status": "confirmada_usuario",
+      "observacao": "SAPORE SA: almoço no zoológico; Luiz confirmou Lazer/Viagem em 09/10/2026. Decisão específica deste passeio, não regra para toda compra SAPORE."
+    }
+  }
+}

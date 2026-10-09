@@ -22,6 +22,7 @@ Cada fonte contém:
 
 - `id`, `nome`, `tipo` (`cartao` ou `extrato`), `arquivo` relativo ao período e `sha256` igual ao manifesto.
 - Cartão: `total_integral`, `vencimento`, `subtotais` com `cartao`, `tipo` (`nacional` ou `internacional`, incluindo IOF real) e `valor`.
+- O modelo `planilha.json` cadastra `cartoes_paloma` (3878 e 6553, identificados pelos cabeçalhos). Por confirmação de 09/10/2026, todo gasto desses cartões, inclusive AABB, entra a 50% na linha 56; estornos seguem o mesmo fator. O validador impede segundo rateio e entrada de cartão de Luiz nessa linha. Novos finais requerem identificação do titular.
 - Extrato: `saldo_inicial`, `saldo_final`, `saldos_diarios` como objeto de data ISO para saldo. Só incluir controles da janela do mês; verificar também o saldo anterior no PDF.
 
 Cada lançamento contém:
@@ -56,7 +57,17 @@ Guardar também os dados extraídos integrais e as respostas do usuário na audi
 
 O agente prepara o `RESUMO_PALOMA.md` com `modelos/resumo_paloma.md` e o registro dos vínculos daquele período. O CLI atual não adivinha esses vínculos nem monta uma cobrança automaticamente. Se a divisão não estiver confirmada, apresentar como comparação para conferência e não saldo devido. A versão de agosto serve como exemplo real.
 
-## Limites conhecidos
+## Holerites
+
+Incluir o recibo mensal em `documentos_complementares` de `periodo.json` e em `entradas/`, com tipo `holerite`, SHA-256 e caminho dos dados, sem sobrescrever originais. A lista `arquivos` permanece destinada às fontes do validador de despesas. Manter `auditoria/dados/holerite.json` separado do contrato de despesas: competência, pagamento, fonte/hash/página, rubricas com código/descrição/tipo/valor decimal, totais, bases informativas, vínculo bancário e células de destino. Não adicionar proventos ou descontos de folha ao total de despesas dos cartões/extrato. O validador `mensal.py` não valida holerites; executar separadamente as conferências a seguir e verificar seu hash.
+
+Conferir com Decimal: proventos menos todos os descontos do recibo = líquido do pagamento; líquido + adiantamento já pago = líquido recebido no mês; proventos menos descontos efetivos (excluindo adiantamento) = esse mesmo líquido mensal. Conciliar depósitos/portabilidade sem contar a transferência novamente como receita. Tratar divergências como pendência, não ajuste forçado.
+
+Produzir `resultados/HOLERITE.md` com tabelas de rubricas, conciliação e mapa da planilha. Ao lançar salário bruto e reembolsos em receitas, lançar INSS, IRRF, pensão e demais descontos efetivos uma vez; não lançar o adiantamento como despesa. FGTS/base IR/base INSS não são receitas disponíveis. VA/Alelo e benefícios ausentes do recibo não estão validados por ele. Preservar valores já confirmados, apontar previsões e pedir apenas a informação nova necessária.
+
+O Excel pode ter rótulo legado de salário “líquido” numa estrutura que subtrai descontos. Explicitar a base bruta da célula do mês e evitar dupla dedução; não alterar silenciosamente todos os meses anteriores por causa desse rótulo.
+
+## Limites conhecidos do processador
 
 - Leitor PDF universal, OCR genérico e sincronização com Excel não estão implementados. O agente adapta a extração ao documento recebido.
 - Os scripts antigos de agosto estão arquivados porque usam IDs, páginas, datas e valores daquele ciclo. As regras atuais são as referências da base, não comentários desses scripts.

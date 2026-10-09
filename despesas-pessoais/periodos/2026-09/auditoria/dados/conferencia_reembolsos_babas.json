@@ -1,0 +1,43 @@
+{
+  "mes_referencia": "2026-09",
+  "vinculos_confirmados": [
+    {
+      "credito_id": "EXT-009",
+      "despesa_id": "EXT-010",
+      "valor_credito": "1750.00",
+      "valor_despesa": "1750.00",
+      "hipotese": "Reembolso integral de WALTER 02/02 confirmado por Luiz; R$ 1.750,00 aplicados a EXT-010, pessoal zero.",
+      "status": "confirmado_usuario"
+    },
+    {
+      "credito_id": "EXT-004",
+      "despesa_id": "EXT-003",
+      "valor_credito": "1619.00",
+      "valor_despesa": "3237.09",
+      "hipotese": "Reembolso da babá atual confirmado. Débito R$ 3.237,09 menos R$ 1.619,00 = R$ 1.618,09 pessoais. Preservar crédito efetivo, sem impor metade exata nem novo rateio.",
+      "status": "confirmado_usuario"
+    },
+    {
+      "credito_id": "EXT-022",
+      "despesa_id": null,
+      "valor_credito": "2467.00",
+      "valor_despesa": null,
+      "hipotese": "Acerto de agosto confirmado por Luiz. Diferença documental de R$ 0,03; crédito não aplicado às despesas de setembro.",
+      "status": "confirmado_acerto_agosto"
+    }
+  ],
+  "creditos_aplicados": {
+    "EXT-004": {
+      "valor_utilizado": "1619.00",
+      "despesas": [
+        "EXT-003"
+      ]
+    },
+    "EXT-009": {
+      "valor_utilizado": "1750.00",
+      "despesas": [
+        "EXT-010"
+      ]
+    }
+  }
+}

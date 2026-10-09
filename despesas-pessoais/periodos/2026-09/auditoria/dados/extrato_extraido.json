@@ -1,0 +1,1075 @@
+{
+  "arquivo": "entradas/itau_extrato_082026.pdf",
+  "sha256": "764a47aa5218c953f62c6bf1a08936314fe138c2be5e260d83706839b49236f7",
+  "periodo_documento": [
+    "2026-08-10",
+    "2026-10-09"
+  ],
+  "movimentos_todos": [
+    {
+      "data": "2026-10-08",
+      "descricao": "PIX TRANSF SOS DIA08/10",
+      "valor_original": "-199.00",
+      "pagina": 1,
+      "linha_extraida": 9,
+      "texto_fonte": "08/10/2026 PIX TRANSF SOS DIA08/10 -199,00",
+      "id_extracao": "BANCO-P1-L9"
+    },
+    {
+      "data": "2026-10-08",
+      "descricao": "PIX TRANSF LUIZ CO08/10",
+      "valor_original": "-1050.00",
+      "pagina": 1,
+      "linha_extraida": 10,
+      "texto_fonte": "08/10/2026 PIX TRANSF LUIZ CO08/10 -1.050,00",
+      "id_extracao": "BANCO-P1-L10"
+    },
+    {
+      "data": "2026-10-07",
+      "descricao": "PIX TRANSF TANKO O07/10",
+      "valor_original": "-50.00",
+      "pagina": 1,
+      "linha_extraida": 12,
+      "texto_fonte": "07/10/2026 PIX TRANSF TANKO O07/10 -50,00",
+      "id_extracao": "BANCO-P1-L12"
+    },
+    {
+      "data": "2026-10-05",
+      "descricao": "PIX TRANSF NAOMI Y04/10",
+      "valor_original": "-2125.00",
+      "pagina": 1,
+      "linha_extraida": 14,
+      "texto_fonte": "05/10/2026 PIX TRANSF NAOMI Y04/10 -2.125,00",
+      "id_extracao": "BANCO-P1-L14"
+    },
+    {
+      "data": "2026-10-02",
+      "descricao": "PIX QRS PAGSEGURO I02/10",
+      "valor_original": "-57.59",
+      "pagina": 1,
+      "linha_extraida": 16,
+      "texto_fonte": "02/10/2026 PIX QRS PAGSEGURO I02/10 -57,59",
+      "id_extracao": "BANCO-P1-L16"
+    },
+    {
+      "data": "2026-10-02",
+      "descricao": "IOF",
+      "valor_original": "-45.24",
+      "pagina": 1,
+      "linha_extraida": 18,
+      "texto_fonte": "02/10/2026 IOF -45,24",
+      "id_extracao": "BANCO-P1-L18"
+    },
+    {
+      "data": "2026-10-02",
+      "descricao": "PIX TRANSF PALOMA 02/10",
+      "valor_original": "-220.00",
+      "pagina": 1,
+      "linha_extraida": 19,
+      "texto_fonte": "02/10/2026 PIX TRANSF PALOMA 02/10 -220,00",
+      "id_extracao": "BANCO-P1-L19"
+    },
+    {
+      "data": "2026-10-01",
+      "descricao": "PIX TRANSF MARIO P01/10",
+      "valor_original": "-1750.00",
+      "pagina": 1,
+      "linha_extraida": 20,
+      "texto_fonte": "01/10/2026 PIX TRANSF MARIO P01/10 -1.750,00",
+      "id_extracao": "BANCO-P1-L20"
+    },
+    {
+      "data": "2026-10-01",
+      "descricao": "PIX TRANSF SP SERV01/10",
+      "valor_original": "-3000.00",
+      "pagina": 1,
+      "linha_extraida": 21,
+      "texto_fonte": "01/10/2026 PIX TRANSF SP SERV01/10 -3.000,00",
+      "id_extracao": "BANCO-P1-L21"
+    },
+    {
+      "data": "2026-10-01",
+      "descricao": "PERS INFINIT 7609-0717",
+      "valor_original": "-653.42",
+      "pagina": 1,
+      "linha_extraida": 23,
+      "texto_fonte": "01/10/2026 PERS INFINIT 7609-0717 -653,42",
+      "id_extracao": "BANCO-P1-L23"
+    },
+    {
+      "data": "2026-09-30",
+      "descricao": "PIX TRANSF PALOMA 30/09",
+      "valor_original": "-1208.00",
+      "pagina": 1,
+      "linha_extraida": 24,
+      "texto_fonte": "30/09/2026 PIX TRANSF PALOMA 30/09 -1.208,00",
+      "id_extracao": "BANCO-P1-L24"
+    },
+    {
+      "data": "2026-09-30",
+      "descricao": "TED 033.2062.LUIZ C N",
+      "valor_original": "3066.01",
+      "pagina": 1,
+      "linha_extraida": 25,
+      "texto_fonte": "30/09/2026 TED 033.2062.LUIZ C N 3.066,01",
+      "id_extracao": "BANCO-P1-L25"
+    },
+    {
+      "data": "2026-09-30",
+      "descricao": "PIX TRANSF Magali 30/09",
+      "valor_original": "-3237.09",
+      "pagina": 1,
+      "linha_extraida": 26,
+      "texto_fonte": "30/09/2026 PIX TRANSF Magali 30/09 -3.237,09",
+      "id_extracao": "BANCO-P1-L26"
+    },
+    {
+      "data": "2026-09-30",
+      "descricao": "PIX TRANSF PALOMA 30/09",
+      "valor_original": "1619.00",
+      "pagina": 1,
+      "linha_extraida": 27,
+      "texto_fonte": "30/09/2026 PIX TRANSF PALOMA 30/09 1.619,00",
+      "id_extracao": "BANCO-P1-L27"
+    },
+    {
+      "data": "2026-09-29",
+      "descricao": "PIX TRANSF ASSOCIA29/09",
+      "valor_original": "-2.00",
+      "pagina": 1,
+      "linha_extraida": 29,
+      "texto_fonte": "29/09/2026 PIX TRANSF ASSOCIA29/09 -2,00",
+      "id_extracao": "BANCO-P1-L29"
+    },
+    {
+      "data": "2026-09-29",
+      "descricao": "PIX TRANSF Sonia p29/09",
+      "valor_original": "-160.00",
+      "pagina": 1,
+      "linha_extraida": 30,
+      "texto_fonte": "29/09/2026 PIX TRANSF Sonia p29/09 -160,00",
+      "id_extracao": "BANCO-P1-L30"
+    },
+    {
+      "data": "2026-09-28",
+      "descricao": "DA VIVO-SP 11280214",
+      "valor_original": "-64.00",
+      "pagina": 1,
+      "linha_extraida": 33,
+      "texto_fonte": "28/09/2026 DA VIVO-SP 11280214 -64,00",
+      "id_extracao": "BANCO-P1-L33"
+    },
+    {
+      "data": "2026-09-25",
+      "descricao": "PIX TRANSF PALOMA 25/09",
+      "valor_original": "-220.00",
+      "pagina": 1,
+      "linha_extraida": 34,
+      "texto_fonte": "25/09/2026 PIX TRANSF PALOMA 25/09 -220,00",
+      "id_extracao": "BANCO-P1-L34"
+    },
+    {
+      "data": "2026-09-21",
+      "descricao": "PIX TRANSF PALOMA 20/09",
+      "valor_original": "1750.00",
+      "pagina": 1,
+      "linha_extraida": 36,
+      "texto_fonte": "21/09/2026 PIX TRANSF PALOMA 20/09 1.750,00",
+      "id_extracao": "BANCO-P1-L36"
+    },
+    {
+      "data": "2026-09-21",
+      "descricao": "PIX TRANSF WALTER 21/09",
+      "valor_original": "-1750.00",
+      "pagina": 1,
+      "linha_extraida": 37,
+      "texto_fonte": "21/09/2026 PIX TRANSF WALTER 21/09 -1.750,00",
+      "id_extracao": "BANCO-P1-L37"
+    },
+    {
+      "data": "2026-09-18",
+      "descricao": "TED 745.0001.AVANADE D B",
+      "valor_original": "35.00",
+      "pagina": 2,
+      "linha_extraida": 3,
+      "texto_fonte": "18/09/2026 TED 745.0001.AVANADE D B 35,00",
+      "id_extracao": "BANCO-P2-L3"
+    },
+    {
+      "data": "2026-09-18",
+      "descricao": "PIX TRANSF PALOMA 18/09",
+      "valor_original": "-220.00",
+      "pagina": 2,
+      "linha_extraida": 4,
+      "texto_fonte": "18/09/2026 PIX TRANSF PALOMA 18/09 -220,00",
+      "id_extracao": "BANCO-P2-L4"
+    },
+    {
+      "data": "2026-09-18",
+      "descricao": "PIX TRANSF LUIZ CO18/09",
+      "valor_original": "8800.00",
+      "pagina": 2,
+      "linha_extraida": 5,
+      "texto_fonte": "18/09/2026 PIX TRANSF LUIZ CO18/09 8.800,00",
+      "id_extracao": "BANCO-P2-L5"
+    },
+    {
+      "data": "2026-09-18",
+      "descricao": "DA ELETROPAULO 1372",
+      "valor_original": "-447.94",
+      "pagina": 2,
+      "linha_extraida": 6,
+      "texto_fonte": "18/09/2026 DA ELETROPAULO 1372 -447,94",
+      "id_extracao": "BANCO-P2-L6"
+    },
+    {
+      "data": "2026-09-15",
+      "descricao": "PIX AUT CLARO 15/09",
+      "valor_original": "-94.90",
+      "pagina": 2,
+      "linha_extraida": 8,
+      "texto_fonte": "15/09/2026 PIX AUT CLARO 15/09 -94,90",
+      "id_extracao": "BANCO-P2-L8"
+    },
+    {
+      "data": "2026-09-15",
+      "descricao": "TED 033.2062.LUIZ C N",
+      "valor_original": "6368.79",
+      "pagina": 2,
+      "linha_extraida": 9,
+      "texto_fonte": "15/09/2026 TED 033.2062.LUIZ C N 6.368,79",
+      "id_extracao": "BANCO-P2-L9"
+    },
+    {
+      "data": "2026-09-15",
+      "descricao": "PIX TRANSF LUIZ FE15/09",
+      "valor_original": "-50.00",
+      "pagina": 2,
+      "linha_extraida": 10,
+      "texto_fonte": "15/09/2026 PIX TRANSF LUIZ FE15/09 -50,00",
+      "id_extracao": "BANCO-P2-L10"
+    },
+    {
+      "data": "2026-09-15",
+      "descricao": "ITAU BLACK 3104-7969",
+      "valor_original": "-7905.53",
+      "pagina": 2,
+      "linha_extraida": 11,
+      "texto_fonte": "15/09/2026 ITAU BLACK 3104-7969 -7.905,53",
+      "id_extracao": "BANCO-P2-L11"
+    },
+    {
+      "data": "2026-09-15",
+      "descricao": "JUROS LIMITE DA CONTA",
+      "valor_original": "-324.27",
+      "pagina": 2,
+      "linha_extraida": 12,
+      "texto_fonte": "15/09/2026 JUROS LIMITE DA CONTA -324,27",
+      "id_extracao": "BANCO-P2-L12"
+    },
+    {
+      "data": "2026-09-14",
+      "descricao": "DA PMSP 09525000000",
+      "valor_original": "-418.87",
+      "pagina": 2,
+      "linha_extraida": 14,
+      "texto_fonte": "14/09/2026 DA PMSP 09525000000 -418,87",
+      "id_extracao": "BANCO-P2-L14"
+    },
+    {
+      "data": "2026-09-11",
+      "descricao": "PIX TRANSF PALOMA 11/09",
+      "valor_original": "-220.00",
+      "pagina": 2,
+      "linha_extraida": 16,
+      "texto_fonte": "11/09/2026 PIX TRANSF PALOMA 11/09 -220,00",
+      "id_extracao": "BANCO-P2-L16"
+    },
+    {
+      "data": "2026-09-10",
+      "descricao": "PIX TRANSF PALOMA 10/09",
+      "valor_original": "2467.00",
+      "pagina": 2,
+      "linha_extraida": 18,
+      "texto_fonte": "10/09/2026 PIX TRANSF PALOMA 10/09 2.467,00",
+      "id_extracao": "BANCO-P2-L18"
+    },
+    {
+      "data": "2026-09-10",
+      "descricao": "PAG BOLETO ASSOCIACAO ATLETICA BANCO DO",
+      "valor_original": "-651.00",
+      "pagina": 2,
+      "linha_extraida": 19,
+      "texto_fonte": "10/09/2026 PAG BOLETO ASSOCIACAO ATLETICA BANCO DO -651,00",
+      "id_extracao": "BANCO-P2-L19"
+    },
+    {
+      "data": "2026-09-08",
+      "descricao": "PIX TRANSF Sonia p08/09",
+      "valor_original": "-80.00",
+      "pagina": 2,
+      "linha_extraida": 21,
+      "texto_fonte": "08/09/2026 PIX TRANSF Sonia p08/09 -80,00",
+      "id_extracao": "BANCO-P2-L21"
+    },
+    {
+      "data": "2026-09-04",
+      "descricao": "PIX TRANSF PALOMA 04/09",
+      "valor_original": "-220.00",
+      "pagina": 2,
+      "linha_extraida": 23,
+      "texto_fonte": "04/09/2026 PIX TRANSF PALOMA 04/09 -220,00",
+      "id_extracao": "BANCO-P2-L23"
+    },
+    {
+      "data": "2026-09-04",
+      "descricao": "PIX TRANSF MARIO P04/09",
+      "valor_original": "-2000.00",
+      "pagina": 2,
+      "linha_extraida": 24,
+      "texto_fonte": "04/09/2026 PIX TRANSF MARIO P04/09 -2.000,00",
+      "id_extracao": "BANCO-P2-L24"
+    },
+    {
+      "data": "2026-09-04",
+      "descricao": "PIX TRANSF NAOMI Y04/09",
+      "valor_original": "-2875.00",
+      "pagina": 2,
+      "linha_extraida": 25,
+      "texto_fonte": "04/09/2026 PIX TRANSF NAOMI Y04/09 -2.875,00",
+      "id_extracao": "BANCO-P2-L25"
+    },
+    {
+      "data": "2026-09-03",
+      "descricao": "TED 745.0001.AVANADE D B",
+      "valor_original": "895.00",
+      "pagina": 2,
+      "linha_extraida": 27,
+      "texto_fonte": "03/09/2026 TED 745.0001.AVANADE D B 895,00",
+      "id_extracao": "BANCO-P2-L27"
+    },
+    {
+      "data": "2026-09-03",
+      "descricao": "PIX TRANSF LUIZ CO03/09",
+      "valor_original": "-1020.27",
+      "pagina": 2,
+      "linha_extraida": 28,
+      "texto_fonte": "03/09/2026 PIX TRANSF LUIZ CO03/09 -1.020,27",
+      "id_extracao": "BANCO-P2-L28"
+    },
+    {
+      "data": "2026-09-02",
+      "descricao": "IOF",
+      "valor_original": "-40.35",
+      "pagina": 2,
+      "linha_extraida": 30,
+      "texto_fonte": "02/09/2026 IOF -40,35",
+      "id_extracao": "BANCO-P2-L30"
+    },
+    {
+      "data": "2026-09-01",
+      "descricao": "PIX TRANSF LUIZ CO01/09",
+      "valor_original": "947.95",
+      "pagina": 2,
+      "linha_extraida": 32,
+      "texto_fonte": "01/09/2026 PIX TRANSF LUIZ CO01/09 947,95",
+      "id_extracao": "BANCO-P2-L32"
+    },
+    {
+      "data": "2026-09-01",
+      "descricao": "PERS INFINIT 7609-0717",
+      "valor_original": "-936.61",
+      "pagina": 2,
+      "linha_extraida": 33,
+      "texto_fonte": "01/09/2026 PERS INFINIT 7609-0717 -936,61",
+      "id_extracao": "BANCO-P2-L33"
+    },
+    {
+      "data": "2026-08-31",
+      "descricao": "TED 033.2062.LUIZ C N",
+      "valor_original": "3086.09",
+      "pagina": 2,
+      "linha_extraida": 35,
+      "texto_fonte": "31/08/2026 TED 033.2062.LUIZ C N 3.086,09",
+      "id_extracao": "BANCO-P2-L35"
+    },
+    {
+      "data": "2026-08-31",
+      "descricao": "PIX TRANSF PALOMA 30/08",
+      "valor_original": "-1208.00",
+      "pagina": 2,
+      "linha_extraida": 36,
+      "texto_fonte": "31/08/2026 PIX TRANSF PALOMA 30/08 -1.208,00",
+      "id_extracao": "BANCO-P2-L36"
+    },
+    {
+      "data": "2026-08-31",
+      "descricao": "PIX TRANSF SP SERV31/08",
+      "valor_original": "-3000.00",
+      "pagina": 2,
+      "linha_extraida": 37,
+      "texto_fonte": "31/08/2026 PIX TRANSF SP SERV31/08 -3.000,00",
+      "id_extracao": "BANCO-P2-L37"
+    },
+    {
+      "data": "2026-08-31",
+      "descricao": "PIX TRANSF Magali 31/08",
+      "valor_original": "-990.13",
+      "pagina": 2,
+      "linha_extraida": 38,
+      "texto_fonte": "31/08/2026 PIX TRANSF Magali 31/08 -990,13",
+      "id_extracao": "BANCO-P2-L38"
+    },
+    {
+      "data": "2026-08-31",
+      "descricao": "PIX TRANSF PALOMA 29/08",
+      "valor_original": "495.06",
+      "pagina": 2,
+      "linha_extraida": 39,
+      "texto_fonte": "31/08/2026 PIX TRANSF PALOMA 29/08 495,06",
+      "id_extracao": "BANCO-P2-L39"
+    },
+    {
+      "data": "2026-08-31",
+      "descricao": "PIX TRANSF PALOMA 29/08",
+      "valor_original": "250.00",
+      "pagina": 2,
+      "linha_extraida": 40,
+      "texto_fonte": "31/08/2026 PIX TRANSF PALOMA 29/08 250,00",
+      "id_extracao": "BANCO-P2-L40"
+    },
+    {
+      "data": "2026-08-28",
+      "descricao": "PIX TRANSF PALOMA 28/08",
+      "valor_original": "-220.00",
+      "pagina": 2,
+      "linha_extraida": 42,
+      "texto_fonte": "28/08/2026 PIX TRANSF PALOMA 28/08 -220,00",
+      "id_extracao": "BANCO-P2-L42"
+    },
+    {
+      "data": "2026-08-26",
+      "descricao": "PIX QRS RECEITA FED26/08",
+      "valor_original": "-280.86",
+      "pagina": 3,
+      "linha_extraida": 2,
+      "texto_fonte": "26/08/2026 PIX QRS RECEITA FED26/08 -280,86",
+      "id_extracao": "BANCO-P3-L2"
+    },
+    {
+      "data": "2026-08-26",
+      "descricao": "PIX TRANSF PALOMA 26/08",
+      "valor_original": "140.43",
+      "pagina": 3,
+      "linha_extraida": 3,
+      "texto_fonte": "26/08/2026 PIX TRANSF PALOMA 26/08 140,43",
+      "id_extracao": "BANCO-P3-L3"
+    },
+    {
+      "data": "2026-08-26",
+      "descricao": "DA VIVO-SP 11280214",
+      "valor_original": "-64.00",
+      "pagina": 3,
+      "linha_extraida": 4,
+      "texto_fonte": "26/08/2026 DA VIVO-SP 11280214 -64,00",
+      "id_extracao": "BANCO-P3-L4"
+    },
+    {
+      "data": "2026-08-25",
+      "descricao": "PIX TRANSF Magali 25/08",
+      "valor_original": "-221.64",
+      "pagina": 3,
+      "linha_extraida": 6,
+      "texto_fonte": "25/08/2026 PIX TRANSF Magali 25/08 -221,64",
+      "id_extracao": "BANCO-P3-L6"
+    },
+    {
+      "data": "2026-08-24",
+      "descricao": "PIX TRANSF Magali 23/08",
+      "valor_original": "-450.00",
+      "pagina": 3,
+      "linha_extraida": 8,
+      "texto_fonte": "24/08/2026 PIX TRANSF Magali 23/08 -450,00",
+      "id_extracao": "BANCO-P3-L8"
+    },
+    {
+      "data": "2026-08-24",
+      "descricao": "PIX TRANSF PALOMA 23/08",
+      "valor_original": "450.00",
+      "pagina": 3,
+      "linha_extraida": 9,
+      "texto_fonte": "24/08/2026 PIX TRANSF PALOMA 23/08 450,00",
+      "id_extracao": "BANCO-P3-L9"
+    },
+    {
+      "data": "2026-08-21",
+      "descricao": "PIX TRANSF PALOMA 21/08",
+      "valor_original": "-875.00",
+      "pagina": 3,
+      "linha_extraida": 11,
+      "texto_fonte": "21/08/2026 PIX TRANSF PALOMA 21/08 -875,00",
+      "id_extracao": "BANCO-P3-L11"
+    },
+    {
+      "data": "2026-08-21",
+      "descricao": "PIX TRANSF Giovann21/08",
+      "valor_original": "-110.60",
+      "pagina": 3,
+      "linha_extraida": 12,
+      "texto_fonte": "21/08/2026 PIX TRANSF Giovann21/08 -110,60",
+      "id_extracao": "BANCO-P3-L12"
+    },
+    {
+      "data": "2026-08-21",
+      "descricao": "PIX TRANSF PALOMA 21/08",
+      "valor_original": "875.00",
+      "pagina": 3,
+      "linha_extraida": 13,
+      "texto_fonte": "21/08/2026 PIX TRANSF PALOMA 21/08 875,00",
+      "id_extracao": "BANCO-P3-L13"
+    },
+    {
+      "data": "2026-08-20",
+      "descricao": "PIX TRANSF LUIS CA20/08",
+      "valor_original": "-70.00",
+      "pagina": 3,
+      "linha_extraida": 15,
+      "texto_fonte": "20/08/2026 PIX TRANSF LUIS CA20/08 -70,00",
+      "id_extracao": "BANCO-P3-L15"
+    },
+    {
+      "data": "2026-08-20",
+      "descricao": "PIX TRANSF SOS DIA20/08",
+      "valor_original": "-199.00",
+      "pagina": 3,
+      "linha_extraida": 16,
+      "texto_fonte": "20/08/2026 PIX TRANSF SOS DIA20/08 -199,00",
+      "id_extracao": "BANCO-P3-L16"
+    },
+    {
+      "data": "2026-08-20",
+      "descricao": "PIX TRANSF WALTER 20/08",
+      "valor_original": "-1750.00",
+      "pagina": 3,
+      "linha_extraida": 17,
+      "texto_fonte": "20/08/2026 PIX TRANSF WALTER 20/08 -1.750,00",
+      "id_extracao": "BANCO-P3-L17"
+    },
+    {
+      "data": "2026-08-20",
+      "descricao": "PIX TRANSF IVANEYD20/08",
+      "valor_original": "-246.61",
+      "pagina": 3,
+      "linha_extraida": 18,
+      "texto_fonte": "20/08/2026 PIX TRANSF IVANEYD20/08 -246,61",
+      "id_extracao": "BANCO-P3-L18"
+    },
+    {
+      "data": "2026-08-20",
+      "descricao": "PIX TRANSF Sonia p20/08",
+      "valor_original": "-80.00",
+      "pagina": 3,
+      "linha_extraida": 19,
+      "texto_fonte": "20/08/2026 PIX TRANSF Sonia p20/08 -80,00",
+      "id_extracao": "BANCO-P3-L19"
+    },
+    {
+      "data": "2026-08-20",
+      "descricao": "PAG TIT INT 001",
+      "valor_original": "-612.00",
+      "pagina": 3,
+      "linha_extraida": 20,
+      "texto_fonte": "20/08/2026 PAG TIT INT 001 -612,00",
+      "id_extracao": "BANCO-P3-L20"
+    },
+    {
+      "data": "2026-08-20",
+      "descricao": "REND PAGO APLIC AUT MAIS",
+      "valor_original": "0.01",
+      "pagina": 3,
+      "linha_extraida": 21,
+      "texto_fonte": "20/08/2026 REND PAGO APLIC AUT MAIS 0,01",
+      "id_extracao": "BANCO-P3-L21"
+    },
+    {
+      "data": "2026-08-19",
+      "descricao": "PIX TRANSF PALOMA 19/08",
+      "valor_original": "875.00",
+      "pagina": 3,
+      "linha_extraida": 23,
+      "texto_fonte": "19/08/2026 PIX TRANSF PALOMA 19/08 875,00",
+      "id_extracao": "BANCO-P3-L23"
+    },
+    {
+      "data": "2026-08-18",
+      "descricao": "DA ELETROPAULO 1372",
+      "valor_original": "-394.72",
+      "pagina": 3,
+      "linha_extraida": 25,
+      "texto_fonte": "18/08/2026 DA ELETROPAULO 1372 -394,72",
+      "id_extracao": "BANCO-P3-L25"
+    },
+    {
+      "data": "2026-08-17",
+      "descricao": "PIX TRANSF LUIZ FE15/08",
+      "valor_original": "-50.00",
+      "pagina": 3,
+      "linha_extraida": 26,
+      "texto_fonte": "17/08/2026 PIX TRANSF LUIZ FE15/08 -50,00",
+      "id_extracao": "BANCO-P3-L26"
+    },
+    {
+      "data": "2026-08-17",
+      "descricao": "ITAU BLACK 3104-7969",
+      "valor_original": "-6215.33",
+      "pagina": 3,
+      "linha_extraida": 27,
+      "texto_fonte": "17/08/2026 ITAU BLACK 3104-7969 -6.215,33",
+      "id_extracao": "BANCO-P3-L27"
+    },
+    {
+      "data": "2026-08-17",
+      "descricao": "REND PAGO APLIC AUT MAIS",
+      "valor_original": "0.01",
+      "pagina": 3,
+      "linha_extraida": 28,
+      "texto_fonte": "17/08/2026 REND PAGO APLIC AUT MAIS 0,01",
+      "id_extracao": "BANCO-P3-L28"
+    },
+    {
+      "data": "2026-08-17",
+      "descricao": "JUROS LIMITE DA CONTA",
+      "valor_original": "-127.82",
+      "pagina": 3,
+      "linha_extraida": 29,
+      "texto_fonte": "17/08/2026 JUROS LIMITE DA CONTA -127,82",
+      "id_extracao": "BANCO-P3-L29"
+    },
+    {
+      "data": "2026-08-17",
+      "descricao": "PIX AUT CLARO 15/08",
+      "valor_original": "-94.90",
+      "pagina": 3,
+      "linha_extraida": 31,
+      "texto_fonte": "17/08/2026 PIX AUT CLARO 15/08 -94,90",
+      "id_extracao": "BANCO-P3-L31"
+    },
+    {
+      "data": "2026-08-17",
+      "descricao": "PIX TRANSF IVANEYD17/08",
+      "valor_original": "-187.50",
+      "pagina": 3,
+      "linha_extraida": 32,
+      "texto_fonte": "17/08/2026 PIX TRANSF IVANEYD17/08 -187,50",
+      "id_extracao": "BANCO-P3-L32"
+    },
+    {
+      "data": "2026-08-14",
+      "descricao": "TED 033.2062.LUIZ C N",
+      "valor_original": "6368.79",
+      "pagina": 3,
+      "linha_extraida": 34,
+      "texto_fonte": "14/08/2026 TED 033.2062.LUIZ C N 6.368,79",
+      "id_extracao": "BANCO-P3-L34"
+    },
+    {
+      "data": "2026-08-14",
+      "descricao": "PIX TRANSF IVANEYD14/08",
+      "valor_original": "-63.60",
+      "pagina": 3,
+      "linha_extraida": 35,
+      "texto_fonte": "14/08/2026 PIX TRANSF IVANEYD14/08 -63,60",
+      "id_extracao": "BANCO-P3-L35"
+    },
+    {
+      "data": "2026-08-14",
+      "descricao": "PIX TRANSF LUIZ CO14/08",
+      "valor_original": "1000.00",
+      "pagina": 3,
+      "linha_extraida": 36,
+      "texto_fonte": "14/08/2026 PIX TRANSF LUIZ CO14/08 1.000,00",
+      "id_extracao": "BANCO-P3-L36"
+    },
+    {
+      "data": "2026-08-14",
+      "descricao": "PIX TRANSF LUIZ CO14/08",
+      "valor_original": "3880.00",
+      "pagina": 3,
+      "linha_extraida": 37,
+      "texto_fonte": "14/08/2026 PIX TRANSF LUIZ CO14/08 3.880,00",
+      "id_extracao": "BANCO-P3-L37"
+    },
+    {
+      "data": "2026-08-14",
+      "descricao": "DA PMSP 09525000000",
+      "valor_original": "-418.87",
+      "pagina": 3,
+      "linha_extraida": 38,
+      "texto_fonte": "14/08/2026 DA PMSP 09525000000 -418,87",
+      "id_extracao": "BANCO-P3-L38"
+    },
+    {
+      "data": "2026-08-13",
+      "descricao": "PIX TRANSF STEFANN13/08",
+      "valor_original": "-176.40",
+      "pagina": 3,
+      "linha_extraida": 40,
+      "texto_fonte": "13/08/2026 PIX TRANSF STEFANN13/08 -176,40",
+      "id_extracao": "BANCO-P3-L40"
+    },
+    {
+      "data": "2026-08-11",
+      "descricao": "PIX TRANSF PALOMA 11/08",
+      "valor_original": "1875.30",
+      "pagina": 3,
+      "linha_extraida": 42,
+      "texto_fonte": "11/08/2026 PIX TRANSF PALOMA 11/08 1.875,30",
+      "id_extracao": "BANCO-P3-L42"
+    },
+    {
+      "data": "2026-08-10",
+      "descricao": "PIX TRANSF PALOMA 10/08",
+      "valor_original": "-210.00",
+      "pagina": 4,
+      "linha_extraida": 2,
+      "texto_fonte": "10/08/2026 PIX TRANSF PALOMA 10/08 -210,00",
+      "id_extracao": "BANCO-P4-L2"
+    },
+    {
+      "data": "2026-08-10",
+      "descricao": "PIX TRANSF ANA PAU08/08",
+      "valor_original": "-100.00",
+      "pagina": 4,
+      "linha_extraida": 3,
+      "texto_fonte": "10/08/2026 PIX TRANSF ANA PAU08/08 -100,00",
+      "id_extracao": "BANCO-P4-L3"
+    },
+    {
+      "data": "2026-08-10",
+      "descricao": "PIX TRANSF STEFANN10/08",
+      "valor_original": "-54.00",
+      "pagina": 4,
+      "linha_extraida": 4,
+      "texto_fonte": "10/08/2026 PIX TRANSF STEFANN10/08 -54,00",
+      "id_extracao": "BANCO-P4-L4"
+    },
+    {
+      "data": "2026-08-10",
+      "descricao": "PIX TRANSF PALOMA 10/08",
+      "valor_original": "27.00",
+      "pagina": 4,
+      "linha_extraida": 5,
+      "texto_fonte": "10/08/2026 PIX TRANSF PALOMA 10/08 27,00",
+      "id_extracao": "BANCO-P4-L5"
+    },
+    {
+      "data": "2026-08-10",
+      "descricao": "PIX TRANSF PALOMA 09/08",
+      "valor_original": "100.00",
+      "pagina": 4,
+      "linha_extraida": 6,
+      "texto_fonte": "10/08/2026 PIX TRANSF PALOMA 09/08 100,00",
+      "id_extracao": "BANCO-P4-L6"
+    },
+    {
+      "data": "2026-08-10",
+      "descricao": "PAG TIT INT 782995528000",
+      "valor_original": "-1127.81",
+      "pagina": 4,
+      "linha_extraida": 7,
+      "texto_fonte": "10/08/2026 PAG TIT INT 782995528000 -1.127,81",
+      "id_extracao": "BANCO-P4-L7"
+    }
+  ],
+  "saldos_todos": {
+    "2026-10-09": {
+      "data": "2026-10-09",
+      "descricao": "SALDO DO DIA",
+      "valor_original": "-11235.07",
+      "pagina": 1,
+      "linha_extraida": 8,
+      "texto_fonte": "09/10/2026 SALDO DO DIA -11.235,07"
+    },
+    "2026-10-08": {
+      "data": "2026-10-08",
+      "descricao": "SALDO DO DIA",
+      "valor_original": "-11235.07",
+      "pagina": 1,
+      "linha_extraida": 11,
+      "texto_fonte": "08/10/2026 SALDO DO DIA -11.235,07"
+    },
+    "2026-10-07": {
+      "data": "2026-10-07",
+      "descricao": "SALDO DO DIA",
+      "valor_original": "-9986.07",
+      "pagina": 1,
+      "linha_extraida": 13,
+      "texto_fonte": "07/10/2026 SALDO DO DIA -9.986,07"
+    },
+    "2026-10-05": {
+      "data": "2026-10-05",
+      "descricao": "SALDO DO DIA",
+      "valor_original": "-9936.07",
+      "pagina": 1,
+      "linha_extraida": 15,
+      "texto_fonte": "05/10/2026 SALDO DO DIA -9.936,07"
+    },
+    "2026-10-02": {
+      "data": "2026-10-02",
+      "descricao": "SALDO DO DIA",
+      "valor_original": "-7811.07",
+      "pagina": 1,
+      "linha_extraida": 17,
+      "texto_fonte": "02/10/2026 SALDO DO DIA -7.811,07"
+    },
+    "2026-10-01": {
+      "data": "2026-10-01",
+      "descricao": "SALDO DO DIA",
+      "valor_original": "-7488.24",
+      "pagina": 1,
+      "linha_extraida": 22,
+      "texto_fonte": "01/10/2026 SALDO DO DIA -7.488,24"
+    },
+    "2026-09-30": {
+      "data": "2026-09-30",
+      "descricao": "SALDO DO DIA",
+      "valor_original": "-2084.82",
+      "pagina": 1,
+      "linha_extraida": 28,
+      "texto_fonte": "30/09/2026 SALDO DO DIA -2.084,82"
+    },
+    "2026-09-29": {
+      "data": "2026-09-29",
+      "descricao": "SALDO DO DIA",
+      "valor_original": "-2324.74",
+      "pagina": 1,
+      "linha_extraida": 31,
+      "texto_fonte": "29/09/2026 SALDO DO DIA -2.324,74"
+    },
+    "2026-09-28": {
+      "data": "2026-09-28",
+      "descricao": "SALDO DO DIA",
+      "valor_original": "-2162.74",
+      "pagina": 1,
+      "linha_extraida": 32,
+      "texto_fonte": "28/09/2026 SALDO DO DIA -2.162,74"
+    },
+    "2026-09-25": {
+      "data": "2026-09-25",
+      "descricao": "SALDO DO DIA",
+      "valor_original": "-2098.74",
+      "pagina": 1,
+      "linha_extraida": 35,
+      "texto_fonte": "25/09/2026 SALDO DO DIA -2.098,74"
+    },
+    "2026-09-21": {
+      "data": "2026-09-21",
+      "descricao": "SALDO DO DIA",
+      "valor_original": "-1878.74",
+      "pagina": 2,
+      "linha_extraida": 1,
+      "texto_fonte": "21/09/2026 SALDO DO DIA -1.878,74"
+    },
+    "2026-09-18": {
+      "data": "2026-09-18",
+      "descricao": "SALDO DO DIA",
+      "valor_original": "-1878.74",
+      "pagina": 2,
+      "linha_extraida": 2,
+      "texto_fonte": "18/09/2026 SALDO DO DIA -1.878,74"
+    },
+    "2026-09-15": {
+      "data": "2026-09-15",
+      "descricao": "SALDO DO DIA",
+      "valor_original": "-10045.80",
+      "pagina": 2,
+      "linha_extraida": 7,
+      "texto_fonte": "15/09/2026 SALDO DO DIA -10.045,80"
+    },
+    "2026-09-14": {
+      "data": "2026-09-14",
+      "descricao": "SALDO DO DIA",
+      "valor_original": "-8039.89",
+      "pagina": 2,
+      "linha_extraida": 13,
+      "texto_fonte": "14/09/2026 SALDO DO DIA -8.039,89"
+    },
+    "2026-09-11": {
+      "data": "2026-09-11",
+      "descricao": "SALDO DO DIA",
+      "valor_original": "-7621.02",
+      "pagina": 2,
+      "linha_extraida": 15,
+      "texto_fonte": "11/09/2026 SALDO DO DIA -7.621,02"
+    },
+    "2026-09-10": {
+      "data": "2026-09-10",
+      "descricao": "SALDO DO DIA",
+      "valor_original": "-7401.02",
+      "pagina": 2,
+      "linha_extraida": 17,
+      "texto_fonte": "10/09/2026 SALDO DO DIA -7.401,02"
+    },
+    "2026-09-08": {
+      "data": "2026-09-08",
+      "descricao": "SALDO DO DIA",
+      "valor_original": "-9217.02",
+      "pagina": 2,
+      "linha_extraida": 20,
+      "texto_fonte": "08/09/2026 SALDO DO DIA -9.217,02"
+    },
+    "2026-09-04": {
+      "data": "2026-09-04",
+      "descricao": "SALDO DO DIA",
+      "valor_original": "-9137.02",
+      "pagina": 2,
+      "linha_extraida": 22,
+      "texto_fonte": "04/09/2026 SALDO DO DIA -9.137,02"
+    },
+    "2026-09-03": {
+      "data": "2026-09-03",
+      "descricao": "SALDO DO DIA",
+      "valor_original": "-4042.02",
+      "pagina": 2,
+      "linha_extraida": 26,
+      "texto_fonte": "03/09/2026 SALDO DO DIA -4.042,02"
+    },
+    "2026-09-02": {
+      "data": "2026-09-02",
+      "descricao": "SALDO DO DIA",
+      "valor_original": "-3916.75",
+      "pagina": 2,
+      "linha_extraida": 29,
+      "texto_fonte": "02/09/2026 SALDO DO DIA -3.916,75"
+    },
+    "2026-09-01": {
+      "data": "2026-09-01",
+      "descricao": "SALDO DO DIA",
+      "valor_original": "-3876.40",
+      "pagina": 2,
+      "linha_extraida": 31,
+      "texto_fonte": "01/09/2026 SALDO DO DIA -3.876,40"
+    },
+    "2026-08-31": {
+      "data": "2026-08-31",
+      "descricao": "SALDO DO DIA",
+      "valor_original": "-3887.74",
+      "pagina": 2,
+      "linha_extraida": 34,
+      "texto_fonte": "31/08/2026 SALDO DO DIA -3.887,74"
+    },
+    "2026-08-28": {
+      "data": "2026-08-28",
+      "descricao": "SALDO DO DIA",
+      "valor_original": "-2520.76",
+      "pagina": 2,
+      "linha_extraida": 41,
+      "texto_fonte": "28/08/2026 SALDO DO DIA -2.520,76"
+    },
+    "2026-08-26": {
+      "data": "2026-08-26",
+      "descricao": "SALDO DO DIA",
+      "valor_original": "-2300.76",
+      "pagina": 3,
+      "linha_extraida": 1,
+      "texto_fonte": "26/08/2026 SALDO DO DIA -2.300,76"
+    },
+    "2026-08-25": {
+      "data": "2026-08-25",
+      "descricao": "SALDO DO DIA",
+      "valor_original": "-2096.33",
+      "pagina": 3,
+      "linha_extraida": 5,
+      "texto_fonte": "25/08/2026 SALDO DO DIA -2.096,33"
+    },
+    "2026-08-24": {
+      "data": "2026-08-24",
+      "descricao": "SALDO DO DIA",
+      "valor_original": "-1874.69",
+      "pagina": 3,
+      "linha_extraida": 7,
+      "texto_fonte": "24/08/2026 SALDO DO DIA -1.874,69"
+    },
+    "2026-08-21": {
+      "data": "2026-08-21",
+      "descricao": "SALDO DO DIA",
+      "valor_original": "-1874.69",
+      "pagina": 3,
+      "linha_extraida": 10,
+      "texto_fonte": "21/08/2026 SALDO DO DIA -1.874,69"
+    },
+    "2026-08-20": {
+      "data": "2026-08-20",
+      "descricao": "SALDO DO DIA",
+      "valor_original": "-1764.09",
+      "pagina": 3,
+      "linha_extraida": 14,
+      "texto_fonte": "20/08/2026 SALDO DO DIA -1.764,09"
+    },
+    "2026-08-19": {
+      "data": "2026-08-19",
+      "descricao": "SALDO DO DIA",
+      "valor_original": "1193.51",
+      "pagina": 3,
+      "linha_extraida": 22,
+      "texto_fonte": "19/08/2026 SALDO DO DIA 1.193,51"
+    },
+    "2026-08-18": {
+      "data": "2026-08-18",
+      "descricao": "SALDO DO DIA",
+      "valor_original": "318.51",
+      "pagina": 3,
+      "linha_extraida": 24,
+      "texto_fonte": "18/08/2026 SALDO DO DIA 318,51"
+    },
+    "2026-08-17": {
+      "data": "2026-08-17",
+      "descricao": "SALDO DO DIA",
+      "valor_original": "713.23",
+      "pagina": 3,
+      "linha_extraida": 30,
+      "texto_fonte": "17/08/2026 SALDO DO DIA 713,23"
+    },
+    "2026-08-14": {
+      "data": "2026-08-14",
+      "descricao": "SALDO DO DIA",
+      "valor_original": "7388.77",
+      "pagina": 3,
+      "linha_extraida": 33,
+      "texto_fonte": "14/08/2026 SALDO DO DIA 7.388,77"
+    },
+    "2026-08-13": {
+      "data": "2026-08-13",
+      "descricao": "SALDO DO DIA",
+      "valor_original": "-3377.55",
+      "pagina": 3,
+      "linha_extraida": 39,
+      "texto_fonte": "13/08/2026 SALDO DO DIA -3.377,55"
+    },
+    "2026-08-11": {
+      "data": "2026-08-11",
+      "descricao": "SALDO DO DIA",
+      "valor_original": "-3201.15",
+      "pagina": 3,
+      "linha_extraida": 41,
+      "texto_fonte": "11/08/2026 SALDO DO DIA -3.201,15"
+    },
+    "2026-08-10": {
+      "data": "2026-08-10",
+      "descricao": "SALDO DO DIA",
+      "valor_original": "-5076.45",
+      "pagina": 4,
+      "linha_extraida": 1,
+      "texto_fonte": "10/08/2026 SALDO DO DIA -5.076,45"
+    },
+    "2026-08-09": {
+      "data": "2026-08-09",
+      "descricao": "SALDO DO DIA",
+      "valor_original": "-3711.64",
+      "pagina": 4,
+      "linha_extraida": 8,
+      "texto_fonte": "09/08/2026 SALDO DO DIA -3.711,64"
+    }
+  },
+  "criterio": "Datas contábeis na primeira coluna; só 01 a 30/09 integram lancamentos.json."
+}

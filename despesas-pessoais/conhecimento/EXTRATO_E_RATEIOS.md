@@ -1,5 +1,25 @@
 # Extrato e participação pessoal
 
+## Confirmações bancárias — setembro/2026, recebidas em 09/10/2026
+
+As confirmações abaixo encerram as dúvidas dos vínculos deste período. Originais e respostas ficam em `periodos/2026-09/auditoria/dados/revisao_extrato_usuario.json`.
+
+| Movimento | Tratamento confirmado |
+| --- | --- |
+| WALTER R$ 1.750,00, EXT-010, 21/09, 02/02 | Advogado do acordo judicial da ex-babá. Paloma reembolsou integralmente via EXT-009; pessoal zero. Segunda parcela concluída, sem projetar terceira. |
+| Magali R$ 3.237,09, EXT-003, 30/09 | Pagamento à babá atual. Crédito de Paloma EXT-004 de R$ 1.619,00 confirmado: pessoal R$ 1.618,09. Não aplicar outra metade nem estender a decisão da gestão no cartão a este PIX. |
+| Paloma R$ 2.467,00, EXT-022, 10/09 | Acerto de agosto confirmado; diferença de R$ 0,03 para o quadro de R$ 2.466,97 preservada. Não distribuir por despesas de setembro nem marcar como crédito disponível. |
+| AABB R$ 651,00, EXT-023, 10/09 | Duplicado e compensado pelo clube, conforme Luiz. Excluir da despesa de setembro, mantendo o débito bancário original; não inventar estorno ou despesa de outra competência. |
+| ASSOCIA R$ 2,00, EXT-005, 29/09 | Complemento AABB confirmado. Linha 57, R$ 2,00 pessoais. Classificação deste PIX identificado, não regra para toda associação. |
+
+Bruna não tem eSocial segundo Luiz; não tratar ausência de eSocial dela como pendência. Não generalizar a outras babás. Em setembro não foi guardada a provisão do 13º: nenhum aporte realizado nesse mês. Condomínio segue sem confirmação; não interpretar omissão da resposta como pagamento ou gasto zero.
+
+## Cartões de Paloma — confirmação geral em 09/10/2026
+
+Todo gasto nos cartões de Paloma é dividido 50%, inclusive AABB. Os cabeçalhos atuais identificam os finais 3878 e 6553. A regra depende da titularidade e tem precedência sobre a categoria do estabelecimento. Consolidar na linha 56, uma única metade, incluindo estornos com seus sinais; não lançar a mesma participação também em restaurantes, clube ou outra categoria. O modelo cadastra os finais conhecidos em `cartoes_paloma`; identificar o titular antes de acrescentar um novo cartão. Esta confirmação substitui a antiga restrição ao final 3878, sem reabrir agosto.
+
+Setembro/ciclo outubro: MASTERCARD-115, AABB SP, R$ 50,00 no 6553 → R$ 25,00 pessoais. Demais lançamentos do 3878 já estavam divididos. Rateio confirmado não prova recebimento nem saldo devido.
+
 ## Correção vigente — gestão Magali fora do quadro de Paloma
 
 Luiz retirou Gestão Bruna/Magali, cartão 01/04 de R$ 129,46 (MASTERCARD-026), pois Paloma já pagou sua parte e essa cobrança é integralmente dele. Não cobrar novamente R$ 64,73 nem aplicar novo rateio a essa compra. Nas parcelas seguintes da mesma compra, preservar essa decisão, sem generalizar a todos os serviços/PIX de Magali. Não inventar crédito bancário ou data de recebimento.

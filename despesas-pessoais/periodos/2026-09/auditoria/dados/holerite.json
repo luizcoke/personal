@@ -1,0 +1,122 @@
+{
+  "mes_referencia": "2026-09",
+  "data_pagamento": "2026-09-30",
+  "fonte": {
+    "arquivo": "entradas/Payslip_Recibo_para_30_de_set_de_2026.pdf",
+    "sha256": "a8c84f5f3f33b21f2b3246f5cd93cd01015a3a8fc6d6885acbd30a6bba4b1267",
+    "pagina": 1
+  },
+  "rubricas": [
+    {
+      "codigo": "1000",
+      "descricao": "Salário",
+      "tipo": "provento",
+      "valor": "15921.97",
+      "celula_excel": "O3",
+      "pagina": 1
+    },
+    {
+      "codigo": "315A",
+      "descricao": "Reemb. APAE/APDEX",
+      "tipo": "provento",
+      "valor": "900.00",
+      "celula_excel": "O4",
+      "pagina": 1
+    },
+    {
+      "codigo": "/314",
+      "descricao": "Contr. INSS Remuneração",
+      "tipo": "desconto",
+      "valor": "988.07",
+      "celula_excel": "O12",
+      "pagina": 1
+    },
+    {
+      "codigo": "/401",
+      "descricao": "Tributo IRRF",
+      "tipo": "desconto",
+      "valor": "2013.87",
+      "celula_excel": "O13",
+      "pagina": 1
+    },
+    {
+      "codigo": "/B02",
+      "descricao": "Adiantamento pago",
+      "tipo": "adiantamento",
+      "valor": "6368.79",
+      "celula_excel": null,
+      "pagina": 1
+    },
+    {
+      "codigo": "71B0",
+      "descricao": "Plano bradesco dental",
+      "tipo": "desconto",
+      "valor": "58.90",
+      "celula_excel": "O16",
+      "pagina": 1
+    },
+    {
+      "codigo": "72B0",
+      "descricao": "Copart bradesco dental",
+      "tipo": "desconto",
+      "valor": "20.08",
+      "celula_excel": "O17",
+      "pagina": 1
+    },
+    {
+      "codigo": "MG11",
+      "descricao": "Pagamento Pensão Reg.",
+      "tipo": "desconto",
+      "valor": "4306.25",
+      "celula_excel": "O14",
+      "pagina": 1
+    }
+  ],
+  "totais": {
+    "proventos": "16821.97",
+    "descontos_recibo": "13755.96",
+    "descontos_efetivos": "7387.17",
+    "adiantamento": "6368.79",
+    "liquido_pagamento": "3066.01",
+    "liquido_mensal": "9434.80"
+  },
+  "informativos": {
+    "base_ir": "10627.65",
+    "base_inss": "15921.97",
+    "base_fgts": "15921.97",
+    "fgts_mes": "1273.75"
+  },
+  "conferencia_extrato": {
+    "ids": [
+      "EXT-016",
+      "EXT-002"
+    ],
+    "soma": "9434.80",
+    "diferenca": "0.00"
+  },
+  "beneficios_fora_holerite": {
+    "alelo": "1010.82",
+    "componentes": [
+      "910.82",
+      "100.00"
+    ],
+    "fonte": "Confirmação de Luiz em 09/10/2026",
+    "celula_excel": "O5"
+  },
+  "auxilio_creche": {
+    "valor_esperado": "720.00",
+    "status": "recebimento_nao_identificado",
+    "fontes_verificadas": [
+      "holerite",
+      "extrato_itau_setembro"
+    ],
+    "incluir_receita": false,
+    "acao": "Avisar Luiz e conferir solicitação/comprovante; não presumir vínculo dos créditos Avanade de 895.00 e 35.00."
+  },
+  "confirmacao_auxilio_creche": {
+    "data": "2026-10-09",
+    "solicitacao_setembro": "Luiz esqueceu de solicitar",
+    "intencao": "Solicitar em outubro/2026",
+    "recebimento_confirmado": false
+  }
+}

@@ -5,6 +5,9 @@ __pycache__/
 # Credenciais e configuração exclusiva desta máquina.
 despesas-pessoais/config.local.json
 
+# Planilhas pessoais mantidas apenas nesta máquina.
+despesas-pessoais/planilhas/
+
 # Documentos originais, imagens e arquivos derivados volumosos ficam locais.
 despesas-pessoais/periodos/*/entradas/
 despesas-pessoais/periodos/*/auditoria/extracao/
