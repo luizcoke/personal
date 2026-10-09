@@ -1,5 +1,6 @@
 # Plano financeiro inicial — 13/09/2026
 
+> Análise datada: os números e cenários abaixo pertencem às datas indicadas. Para valores posteriores, consultar o fechamento e o holerite do mês antes de reutilizar projeções.
 Versão para discutir e ajustar. Base: extrato, fechamento confirmado de agosto e declarações de Luiz. Não é projeção de caixa fechada, aprovação bancária nem compromisso de novas despesas.
 
 ## Condução pelo agente financeiro
@@ -87,11 +88,11 @@ Conferir quando cada prestador emite os documentos e quando o pedido pode ser su
 
 Luiz informou juros de 8% ao mês mais IOF. Para um saldo constante de R$ 7.600,00 durante um mês, seriam R$ 608,00 de juros antes do IOF. Se o saldo constante fosse R$ 1.261,74, seriam aproximadamente R$ 100,94. São referências mensais de escala, não cobrança prevista: os saldos e dias efetivos precisam ser considerados. Não aplicar essa taxa sobre os R$ 13.900,00 de limite não utilizado.
 
-A informação resolve a pergunta sobre a taxa mensal. Continuar a análise de despesas recorrentes e das entradas/saídas efetivas até o próximo pagamento; detalhes de CET e propostas alternativas serão necessários apenas para comparar eventual contratação. Não assumir que todo o saldo usado tenha de virar empréstimo longo, nem contratar crédito sem decisão explícita de Luiz.
+A informação resolve a pergunta sobre a taxa mensal. Continuar a análise de despesas recorrentes e das input/saídas efetivas até o próximo pagamento; detalhes de CET e propostas alternativas serão necessários apenas para comparar eventual contratação. Não assumir que todo o saldo usado tenha de virar empréstimo longo, nem contratar crédito sem decisão explícita de Luiz.
 
 A reserva zero e a ausência de renda patrimonial estão confirmadas: não repetir essas perguntas. Para finalizar o calendário, restam composição dos benefícios, datas de créditos de Paloma e compromissos atuais ainda não identificados. Nenhum pagamento, cancelamento, mensagem a terceiros ou contratação foi realizado.
 
-Fontes locais: [fluxo e confirmações](../conhecimento/FLUXO_DE_CAIXA.md), [despesas de agosto](../periodos/2026-08/resultados/RESUMO_MENSAL.md), [descontos corrigidos](../periodos/2026-08/resultados/detalhes/CONFERENCIA_DESCONTOS.md) e extração do extrato em `periodos/2026-08/auditoria/extracao/itau_extrato_072026_unlocked.txt`.
+Fontes locais: [fluxo e confirmações](../.core/conhecimento/FLUXO_DE_CAIXA.md), [despesas de agosto](../periodos/2026-08/output/RESUMO_MENSAL.md), [descontos corrigidos](../periodos/2026-08/output/detalhes/CONFERENCIA_DESCONTOS.md) e extração do extrato em `periodos/2026-08/output/.auditoria/extracao/itau_extrato_072026_unlocked.txt`.
 
 
 ## Avanço da revisão — 13/09/2026

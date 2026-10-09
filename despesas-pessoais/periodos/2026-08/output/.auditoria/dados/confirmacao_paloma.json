@@ -1,0 +1,186 @@
+{
+  "versao": 1,
+  "data_confirmacao": "2026-09-10",
+  "mes_referencia": "2026-08",
+  "tipo": "quadro_manual_validado_pelo_usuario",
+  "imagem": "output/.auditoria/referencias/planilha_paloma_sem_gestao_magali.png",
+  "sha256_imagem": "d4a27b977343289808011be23b16374f22400d3d47eee86aac6bb1477914f1b5",
+  "resumo_pessoal": {
+    "linha_31": "4479.94",
+    "total": "17608.97",
+    "decisao": "manter valores atuais confirmados; não aplicar segunda redução pelo quadro Paloma",
+    "ids_confirmados": [
+      "MASTERCARD-026",
+      "EXT-014",
+      "EXT-021",
+      "EXT-022",
+      "EXT-025",
+      "EXT-029",
+      "EXT-030",
+      "EXT-037",
+      "EXT-043",
+      "EXT-047",
+      "EXT-050",
+      "EXT-051"
+    ]
+  },
+  "linhas": [
+    {
+      "item": "Empregada / Faxina",
+      "forma_planilha": "Cartão",
+      "parcela_planilha": "À vista",
+      "valor_total": "629.00",
+      "valor_rateado_exato": "314.50",
+      "ids_documentos": [
+        "EXT-017",
+        "EXT-049",
+        "EXT-028"
+      ]
+    },
+    {
+      "item": "Lançamentos no cartão (final 3878)",
+      "forma_planilha": "Cartão",
+      "parcela_planilha": "À vista",
+      "valor_total": "2861.05",
+      "valor_rateado_exato": "1430.525",
+      "ids_documentos": [
+        "MASTERCARD-055",
+        "MASTERCARD-056",
+        "MASTERCARD-057",
+        "MASTERCARD-058",
+        "MASTERCARD-059",
+        "MASTERCARD-060",
+        "MASTERCARD-061",
+        "MASTERCARD-062",
+        "MASTERCARD-063",
+        "MASTERCARD-064",
+        "MASTERCARD-065",
+        "MASTERCARD-066",
+        "MASTERCARD-067",
+        "MASTERCARD-068",
+        "MASTERCARD-069",
+        "MASTERCARD-070",
+        "MASTERCARD-071",
+        "MASTERCARD-072",
+        "MASTERCARD-073",
+        "MASTERCARD-074",
+        "MASTERCARD-075",
+        "MASTERCARD-076",
+        "MASTERCARD-077",
+        "MASTERCARD-078",
+        "MASTERCARD-079",
+        "MASTERCARD-080",
+        "MASTERCARD-081",
+        "MASTERCARD-082",
+        "MASTERCARD-083",
+        "MASTERCARD-084",
+        "MASTERCARD-085",
+        "MASTERCARD-086",
+        "MASTERCARD-087",
+        "MASTERCARD-088",
+        "MASTERCARD-089",
+        "MASTERCARD-090",
+        "MASTERCARD-091",
+        "MASTERCARD-092",
+        "MASTERCARD-093",
+        "MASTERCARD-094",
+        "MASTERCARD-095",
+        "MASTERCARD-096",
+        "MASTERCARD-097",
+        "MASTERCARD-098",
+        "MASTERCARD-099",
+        "MASTERCARD-100",
+        "MASTERCARD-101",
+        "MASTERCARD-102"
+      ]
+    },
+    {
+      "item": "Manutenção lava e seca antiga",
+      "forma_planilha": "Cartão",
+      "parcela_planilha": "02/08",
+      "valor_total": "137.50",
+      "valor_rateado_exato": "68.75",
+      "ids_documentos": [
+        "MASTERCARD-003"
+      ]
+    },
+    {
+      "item": "Lava e seca nova (descontados R$ 500 das parcelas)",
+      "forma_planilha": "Cartão",
+      "parcela_planilha": "02/13",
+      "valor_total": "300.04",
+      "valor_rateado_exato": "150.02",
+      "ids_documentos": [
+        "MASTERCARD-006"
+      ]
+    },
+    {
+      "item": "Bruna / Magali",
+      "forma_planilha": "PIX",
+      "parcela_planilha": "À vista",
+      "valor_total": "221.64",
+      "valor_rateado_exato": "110.82",
+      "ids_documentos": [
+        "EXT-021"
+      ]
+    },
+    {
+      "item": "Babá Giovann",
+      "forma_planilha": "PIX",
+      "parcela_planilha": "À vista",
+      "valor_total": "110.60",
+      "valor_rateado_exato": "55.30",
+      "ids_documentos": [
+        "EXT-025"
+      ]
+    },
+    {
+      "item": "Babá Stefann",
+      "forma_planilha": "PIX",
+      "parcela_planilha": "À vista",
+      "valor_total": "176.40",
+      "valor_rateado_exato": "88.20",
+      "ids_documentos": [
+        "EXT-047"
+      ]
+    },
+    {
+      "item": "Babá Ivaneyde",
+      "forma_planilha": "PIX",
+      "parcela_planilha": "À vista",
+      "valor_total": "497.71",
+      "valor_rateado_exato": "248.855",
+      "ids_documentos": [
+        "EXT-043",
+        "EXT-037",
+        "EXT-030"
+      ]
+    }
+  ],
+  "total_gastos": "4933.94",
+  "total_rateado_exato": "2466.970",
+  "soma_rateados_exibidos": "2466.98",
+  "snacks_restaurantes": {
+    "linhas": [
+      "54",
+      "53"
+    ],
+    "base": "valores pessoais do resumo mensal, sem novo rateio",
+    "total": "1420.71",
+    "informativo": true,
+    "confirmado_usuario": true
+  },
+  "itens_retirados": [
+    {
+      "item": "Gestão Bruna / Magali",
+      "forma_planilha": "Cartão",
+      "parcela_planilha": "01/04",
+      "valor_total": "129.46",
+      "valor_rateado_exato": "64.73",
+      "ids_documentos": [
+        "MASTERCARD-026"
+      ]
+    }
+  ],
+  "motivo_retirada": "Luiz informou que Paloma já pagou sua parte da gestão Magali e que a cobrança do cartão é integralmente dele; não incluir novamente no quadro de Paloma."
+}

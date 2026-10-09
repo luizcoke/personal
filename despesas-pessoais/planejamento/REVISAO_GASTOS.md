@@ -1,5 +1,6 @@
 # Revisão dos gastos — primeira aplicação do agente, 13/09/2026
 
+> Análise datada: os números e cenários abaixo pertencem às datas indicadas. Para valores posteriores, consultar o fechamento e o holerite do mês antes de reutilizar projeções.
 Base: fechamento pessoal de agosto de R$ 15.224,56, preservado. Classificações abaixo orientam a análise de recorrência; não modificam os lançamentos nem significam decisões de corte aceitas.
 
 ## Recorrência e possibilidade de ajuste
@@ -83,7 +84,7 @@ Alelo continua separado. A composição do APAE ainda não permite escolher defi
 
 O pagamento integral ao advogado WALTER foi R$ 1.750,00, parcela 01/02, em agosto. A participação desse item dentro do ajuste manual não deve ser inferida como nova dedução; setembro ainda exige identificar a 02/02. Assim, não contabilizar economia automática de R$ 1.750,00 ou R$ 875,00 no próximo mês. O término só entra na projeção após confirmar o ciclo e o custo regular substituto.
 
-Ver [plano](PLANO_FINANCEIRO_INICIAL.md) e [ações](ACOES.md). Fontes: [fechamento](../periodos/2026-08/resultados/RESUMO_MENSAL.md), [acompanhamentos](../conhecimento/ACOMPANHAMENTOS.md), [comparação do fechamento manual](../periodos/2026-08/resultados/detalhes/CONFERENCIA_PLANILHA_FINAL.md). A base vigente prevalece sobre observações antigas de auditoria.
+Ver [plano](PLANO_FINANCEIRO_INICIAL.md) e [ações](ACOES.md). Fontes: [fechamento](../periodos/2026-08/output/RESUMO_MENSAL.md), [acompanhamentos](../.core/conhecimento/ACOMPANHAMENTOS.md), [comparação do fechamento manual](../periodos/2026-08/output/detalhes/CONFERENCIA_PLANILHA_FINAL.md). A base vigente prevalece sobre observações antigas de auditoria.
 
 
 ## Segunda revisão documental — 13/09/2026

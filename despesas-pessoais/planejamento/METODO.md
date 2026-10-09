@@ -16,12 +16,12 @@ O agente aplica os cinco roteiros enviados por Luiz, preservados em [PROMPTS_ORI
 
 A base, o fluxo e o plano já contêm uma entrevista extensa. Começar da ação em andamento. Usar a renda efetivamente creditada e os cenários de benefícios; conter o uso recorrente do limite, apurar gasto mensal sustentável e então construir um saldo para os tratamentos. A falta de um detalhe de rubrica não bloqueia a análise de assinaturas ou de gasto pontual.
 
-Antes de perguntar, procurar o fato em `conhecimento/`, nos resultados do período e nos dados de auditoria. Distinguir dúvida documental de preferência: a primeira pode ser resolvida com fontes; a segunda precisa de decisão do usuário. Não presumir que criar este agente aceite os tetos já propostos.
+Antes de perguntar, procurar o fato em `.core/conhecimento/`, nos resultados do período e nos dados de auditoria. Distinguir dúvida documental de preferência: a primeira pode ser resolvida com fontes; a segunda precisa de decisão do usuário. Não presumir que criar este agente aceite os tetos já propostos.
 
 ## Onde manter o estado
 
-- `conhecimento/BASE_CONHECIMENTO.md`: confirmações e precedência de regras.
-- `conhecimento/FLUXO_DE_CAIXA.md`: calendário, saldos, protocolos e hipóteses por evento.
+- `.core/conhecimento/BASE_CONHECIMENTO.md`: confirmações e precedência de regras.
+- `.core/conhecimento/FLUXO_DE_CAIXA.md`: calendário, saldos, protocolos e hipóteses por evento.
 - `periodos/AAAA-MM/`: fontes, classificações, confirmações, fechamento e auditoria.
 - `planejamento/PLANO_FINANCEIRO_INICIAL.md`: plano vivo, usando o mesmo arquivo enquanto não houver razão para versionar outra fase.
 - `planejamento/REVISAO_GASTOS.md`: análise atual de recorrência, propostas e lacuna restante.

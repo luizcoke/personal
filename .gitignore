@@ -9,18 +9,18 @@ despesas-pessoais/config.local.json
 despesas-pessoais/planilhas/
 
 # Documentos originais, imagens e arquivos derivados volumosos ficam locais.
-despesas-pessoais/periodos/*/entradas/
-despesas-pessoais/periodos/*/auditoria/extracao/
-despesas-pessoais/periodos/*/auditoria/referencias/
-despesas-pessoais/modelos/referencias/
+despesas-pessoais/periodos/*/input/
+despesas-pessoais/periodos/*/output/.auditoria/extracao/
+despesas-pessoais/periodos/*/output/.auditoria/referencias/
+despesas-pessoais/.core/modelos/referencias/
 despesas-pessoais/**/*.pdf
 despesas-pessoais/**/*.png
 despesas-pessoais/**/*.jpg
 despesas-pessoais/**/*.jpeg
 
 # Cópias antigas e arquivos temporários, sem apagar os originais locais.
-despesas-pessoais/historico/
-despesas-pessoais/periodos/*/auditoria/historico/
+despesas-pessoais/arquivo/historico/
+despesas-pessoais/periodos/*/output/.auditoria/historico/
 despesas-pessoais/.verificacao-*/
 despesas-pessoais/**/*.tmp
 

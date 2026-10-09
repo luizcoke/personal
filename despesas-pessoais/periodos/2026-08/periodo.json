@@ -7,18 +7,18 @@
   "criterio_cartoes": "faturas_completas",
   "arquivos": [
     {
-      "arquivo": "entradas/Fatura_MASTERCARD_100482751858_09-2026.pdf",
+      "arquivo": "input/Fatura_MASTERCARD_100482751858_09-2026.pdf",
       "sha256": "16e981fc9962ed5b6ed63b1075b2a987d89b827ae7d289112e5aa00c715bdcff"
     },
     {
-      "arquivo": "entradas/Fatura_VISA_100482751883_09-2026.pdf",
+      "arquivo": "input/Fatura_VISA_100482751883_09-2026.pdf",
       "sha256": "afe7c2edbfab5ebbfa0b45c9d3391fe2a01a2c541d5951ba1a92603b4c216adf"
     },
     {
-      "arquivo": "entradas/itau_extrato_072026.pdf",
+      "arquivo": "input/itau_extrato_072026.pdf",
       "sha256": "c26457cb43038832c8aeb6acfa85723ed0cb68ae150e9651fcbaa82fd104f1f9"
     }
   ],
-  "fechamento_manual": "auditoria/dados/fechamento_manual.json",
+  "fechamento_manual": "output/.auditoria/dados/fechamento_manual.json",
   "status": "fechado_confirmado_usuario"
 }
