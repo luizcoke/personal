@@ -191,6 +191,8 @@ Participações preservam três casas quando necessário. O subtotal é arredond
 
 ### 28 — Casa Faxina semanal * — R$ 539,50
 
+Em 16/11/2026, após conferir os cinco lançamentos de faxina de outubro (quatro PIX de R$ 220 para Paloma e R$ 199 para SOS Diaristas), Luiz confirmou que estão corretos e informou a concordância de Paloma. Total R$ 1.079,00; metade R$ 539,50. Esta confirmação não informa recebimento.
+
 | ID | Fonte / cartão | Data | Lançamento | Parcela | Original R$ | Pessoal exato R$ | Página | Observação |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | EXT-001 | Itaú — extrato outubro | 2026-10-30 | PIX ENVIADO PALOMA PAIXAO COKE |  | -220,00 | 110,000 | 1 | Luiz confirmou divisão de 50% com Paloma e inclusão no quadro para a aba da planilha. Participação pessoal calculada uma vez; recebimento não confirmado, sem crédito inventado. |

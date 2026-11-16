@@ -1,0 +1,452 @@
+[
+  {
+    "id": "sheet-21",
+    "label": "Financiamento Apt Lapa",
+    "group": "Casa / Moradia",
+    "food": false,
+    "sheetLine": "21",
+    "excelRow": 21,
+    "legacy": false
+  },
+  {
+    "id": "sheet-22",
+    "label": "Condomínio",
+    "group": "Casa / Moradia",
+    "food": false,
+    "sheetLine": "22",
+    "excelRow": 22,
+    "legacy": false
+  },
+  {
+    "id": "sheet-23",
+    "label": "IPTU",
+    "group": "Casa / Moradia",
+    "food": false,
+    "sheetLine": "23",
+    "excelRow": 23,
+    "legacy": false
+  },
+  {
+    "id": "sheet-24",
+    "label": "Luz",
+    "group": "Casa / Moradia",
+    "food": false,
+    "sheetLine": "24",
+    "excelRow": 24,
+    "legacy": false
+  },
+  {
+    "id": "sheet-25",
+    "label": "Conta Celular",
+    "group": "Pessoal / Vestuário / Beleza",
+    "food": false,
+    "sheetLine": "25",
+    "excelRow": 25,
+    "legacy": false
+  },
+  {
+    "id": "sheet-26",
+    "label": "Conta Internet + TV",
+    "group": "Casa / Moradia",
+    "food": false,
+    "sheetLine": "26",
+    "excelRow": 26,
+    "legacy": false
+  },
+  {
+    "id": "maintenance",
+    "label": "Casa Manutenção Apartamento",
+    "group": "Casa / Moradia",
+    "food": false,
+    "sheetLine": "27",
+    "excelRow": 27,
+    "legacy": false
+  },
+  {
+    "id": "sheet-28",
+    "label": "Casa Faxina semanal",
+    "group": "Casa / Moradia",
+    "food": false,
+    "sheetLine": "28",
+    "excelRow": 28,
+    "legacy": false
+  },
+  {
+    "id": "sheet-29",
+    "label": "Gastos Meninos",
+    "group": "Filhos / Educação / Cuidados",
+    "food": false,
+    "sheetLine": "29",
+    "excelRow": 29,
+    "legacy": false
+  },
+  {
+    "id": "sheet-30",
+    "label": "Gastos Isabela",
+    "group": "Filhos / Educação / Cuidados",
+    "food": false,
+    "sheetLine": "30",
+    "excelRow": 30,
+    "legacy": false
+  },
+  {
+    "id": "sheet-31",
+    "label": "Gastos Babá Isabela",
+    "group": "Filhos / Educação / Cuidados",
+    "food": false,
+    "sheetLine": "31",
+    "excelRow": 31,
+    "legacy": false
+  },
+  {
+    "id": "sheet-32",
+    "label": "Gastos Babá Isabela Esocial",
+    "group": "Filhos / Educação / Cuidados",
+    "food": false,
+    "sheetLine": "32",
+    "excelRow": 32,
+    "legacy": false
+  },
+  {
+    "id": "sheet-33",
+    "label": "Gastos Babá Isabela férias",
+    "group": "Filhos / Educação / Cuidados",
+    "food": false,
+    "sheetLine": "33",
+    "excelRow": 33,
+    "legacy": false
+  },
+  {
+    "id": "sheet-34",
+    "label": "Carro IPVA + Licenciamento + Multa",
+    "group": "Veículo / Transporte",
+    "food": false,
+    "sheetLine": "34",
+    "excelRow": 34,
+    "legacy": false
+  },
+  {
+    "id": "sheet-35",
+    "label": "Carro Seguro - Porto Seguro",
+    "group": "Veículo / Transporte",
+    "food": false,
+    "sheetLine": "35",
+    "excelRow": 35,
+    "legacy": false
+  },
+  {
+    "id": "sheet-36",
+    "label": "Carro Lavagem",
+    "group": "Veículo / Transporte",
+    "food": false,
+    "sheetLine": "36",
+    "excelRow": 36,
+    "legacy": false
+  },
+  {
+    "id": "fuel",
+    "label": "Carro Gasolina",
+    "group": "Veículo / Transporte",
+    "food": false,
+    "sheetLine": "37",
+    "excelRow": 37,
+    "legacy": false
+  },
+  {
+    "id": "parking",
+    "label": "Carro Estacionamento",
+    "group": "Veículo / Transporte",
+    "food": false,
+    "sheetLine": "38",
+    "excelRow": 38,
+    "legacy": false
+  },
+  {
+    "id": "groceries",
+    "label": "HiperMercado",
+    "group": "Alimentação",
+    "food": true,
+    "sheetLine": "39",
+    "excelRow": 39,
+    "legacy": false
+  },
+  {
+    "id": "sheet-40",
+    "label": "Marmitas",
+    "group": "Alimentação",
+    "food": true,
+    "sheetLine": "40",
+    "excelRow": 40,
+    "legacy": false
+  },
+  {
+    "id": "pharmacy",
+    "label": "Drogaria",
+    "group": "Saúde",
+    "food": false,
+    "sheetLine": "41",
+    "excelRow": 41,
+    "legacy": false
+  },
+  {
+    "id": "sheet-42",
+    "label": "Trabalho - Restaurantes",
+    "group": "Alimentação",
+    "food": true,
+    "sheetLine": "42",
+    "excelRow": 42,
+    "legacy": false
+  },
+  {
+    "id": "sheet-45",
+    "label": "Juros/IOF",
+    "group": "Cartões e Dívidas",
+    "food": false,
+    "sheetLine": "45",
+    "excelRow": 45,
+    "legacy": false
+  },
+  {
+    "id": "sheet-46",
+    "label": "Outros — despesas básicas",
+    "group": "Outros",
+    "food": false,
+    "sheetLine": "46",
+    "excelRow": 46,
+    "legacy": false
+  },
+  {
+    "id": "sheet-49",
+    "label": "Finan. Adiantamento de parcela",
+    "group": "Casa / Moradia",
+    "food": false,
+    "sheetLine": "49",
+    "excelRow": 49,
+    "legacy": false
+  },
+  {
+    "id": "sheet-50",
+    "label": "Corte Cabelo",
+    "group": "Pessoal / Vestuário / Beleza",
+    "food": false,
+    "sheetLine": "50",
+    "excelRow": 50,
+    "legacy": false
+  },
+  {
+    "id": "shopping",
+    "label": "Compras / Presentes",
+    "group": "Pessoal / Vestuário / Beleza",
+    "food": false,
+    "sheetLine": "51",
+    "excelRow": 51,
+    "legacy": false
+  },
+  {
+    "id": "rides",
+    "label": "Uber - 99 / Estac / ConectCar",
+    "group": "Veículo / Transporte",
+    "food": false,
+    "sheetLine": "52",
+    "excelRow": 52,
+    "legacy": false
+  },
+  {
+    "id": "restaurants",
+    "label": "Restaurantes",
+    "group": "Alimentação",
+    "food": true,
+    "sheetLine": "53",
+    "excelRow": 53,
+    "legacy": false
+  },
+  {
+    "id": "delivery",
+    "label": "Ifood + snacks + Padaria",
+    "group": "Alimentação",
+    "food": true,
+    "sheetLine": "54",
+    "excelRow": 54,
+    "legacy": false
+  },
+  {
+    "id": "sheet-55",
+    "label": "Mercadão + feira + Bebida + rest. AABB",
+    "group": "Alimentação",
+    "food": true,
+    "sheetLine": "55",
+    "excelRow": 55,
+    "legacy": false
+  },
+  {
+    "id": "sheet-57",
+    "label": "CLUBE AABB",
+    "group": "Lazer / Viagens",
+    "food": false,
+    "sheetLine": "57",
+    "excelRow": 57,
+    "legacy": false
+  },
+  {
+    "id": "sheet-58",
+    "label": "Projetos Pessoais",
+    "group": "Pessoal / Vestuário / Beleza",
+    "food": false,
+    "sheetLine": "58",
+    "excelRow": 58,
+    "legacy": false
+  },
+  {
+    "id": "projects-business",
+    "label": "Projetos/Empresa",
+    "group": "Projetos/Empresa",
+    "food": false,
+    "sheetLine": "novo-projetos-empresa",
+    "excelRow": 59,
+    "legacy": false
+  },
+  {
+    "id": "amazon-prime",
+    "label": "AMAZON PRIME BR - 12/12",
+    "group": "Assinaturas",
+    "food": false,
+    "sheetLine": "60",
+    "excelRow": 60,
+    "legacy": false
+  },
+  {
+    "id": "onedrive",
+    "label": "OneDrive — anual",
+    "group": "Assinaturas",
+    "food": false,
+    "sheetLine": "novo-onedrive",
+    "excelRow": 61,
+    "legacy": false
+  },
+  {
+    "id": "openai",
+    "label": "OpenAI — mensal",
+    "group": "Assinaturas",
+    "food": false,
+    "sheetLine": "novo-openai",
+    "excelRow": 62,
+    "legacy": false
+  },
+  {
+    "id": "spotify",
+    "label": "Spotify",
+    "group": "Assinaturas",
+    "food": false,
+    "sheetLine": "61",
+    "excelRow": 63,
+    "legacy": false
+  },
+  {
+    "id": "apple",
+    "label": "APPLE COM/BILL Cloud",
+    "group": "Assinaturas",
+    "food": false,
+    "sheetLine": "62",
+    "excelRow": 64,
+    "legacy": false
+  },
+  {
+    "id": "streaming",
+    "label": "Netflix + Disney+",
+    "group": "Assinaturas",
+    "food": false,
+    "sheetLine": "63",
+    "excelRow": 65,
+    "legacy": false
+  },
+  {
+    "id": "travel",
+    "label": "Lazer / Viagem",
+    "group": "Lazer / Viagens",
+    "food": false,
+    "sheetLine": "64",
+    "excelRow": 66,
+    "legacy": false
+  },
+  {
+    "id": "sheet-65",
+    "label": "Loterias",
+    "group": "Outros",
+    "food": false,
+    "sheetLine": "65",
+    "excelRow": 67,
+    "legacy": false
+  },
+  {
+    "id": "other",
+    "label": "Outros — estilo de vida",
+    "group": "Outros",
+    "food": false,
+    "sheetLine": "66",
+    "excelRow": 68,
+    "legacy": false
+  },
+  {
+    "id": "snacks",
+    "label": "Padaria e snacks (anterior)",
+    "group": "Categorias anteriores",
+    "food": true,
+    "sheetLine": "54",
+    "excelRow": 54,
+    "legacy": true
+  },
+  {
+    "id": "leisure",
+    "label": "Lazer (anterior)",
+    "group": "Categorias anteriores",
+    "food": false,
+    "sheetLine": "64",
+    "excelRow": 66,
+    "legacy": true
+  },
+  {
+    "id": "transport",
+    "label": "Transporte (anterior)",
+    "group": "Categorias anteriores",
+    "food": false,
+    "sheetLine": null,
+    "excelRow": null,
+    "legacy": true
+  },
+  {
+    "id": "health",
+    "label": "Saúde (anterior)",
+    "group": "Categorias anteriores",
+    "food": false,
+    "sheetLine": null,
+    "excelRow": null,
+    "legacy": true
+  },
+  {
+    "id": "subscriptions",
+    "label": "Assinaturas e serviços digitais (anterior)",
+    "group": "Categorias anteriores",
+    "food": false,
+    "sheetLine": null,
+    "excelRow": null,
+    "legacy": true
+  },
+  {
+    "id": "home",
+    "label": "Casa (anterior)",
+    "group": "Categorias anteriores",
+    "food": false,
+    "sheetLine": null,
+    "excelRow": null,
+    "legacy": true
+  },
+  {
+    "id": "unclassified",
+    "label": "A classificar",
+    "group": "Conferência",
+    "food": false,
+    "sheetLine": null,
+    "excelRow": null,
+    "legacy": false
+  }
+]

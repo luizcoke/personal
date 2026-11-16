@@ -5,24 +5,51 @@ __pycache__/
 # Credenciais e configuração exclusiva desta máquina.
 despesas-pessoais/config.local.json
 
-# Planilhas pessoais mantidas apenas nesta máquina.
+# Dados financeiros pessoais mantidos apenas nesta máquina.
+despesas-pessoais/periodos/
+despesas-pessoais/.core/conhecimento/
 despesas-pessoais/planilhas/
+despesas-pessoais/**/.auditoria/
+despesas-pessoais/**/auditoria/
 
-# Documentos originais, imagens e arquivos derivados volumosos ficam locais.
-despesas-pessoais/periodos/*/input/
-despesas-pessoais/periodos/*/output/.auditoria/extracao/
-despesas-pessoais/periodos/*/output/.auditoria/referencias/
+# Planejamento pessoal fica local; o método e os roteiros são genéricos.
+despesas-pessoais/planejamento/*
+!despesas-pessoais/planejamento/METODO.md
+!despesas-pessoais/planejamento/referencias/
+despesas-pessoais/planejamento/referencias/*
+!despesas-pessoais/planejamento/referencias/PROMPTS_ORIGINAIS.md
+
+# Arquivos técnicos com valores reais já rastreados; ignorar não os remove do Git.
+.agents/skills/despesas-mensais/SKILL.md
+despesas-pessoais/README.md
+despesas-pessoais/.core/PROCESSAMENTO.md
+despesas-pessoais/.core/modelos/planilha.json
+despesas-pessoais/.core/testes/test_mensal.py
+sites/gastos-dia/drizzle/0006_reconcile_sms_history.sql
+sites/gastos-dia/tests/api-smoke.mjs
+sites/gastos-dia/tests/domain.test.ts
+
+# Documentos e exportações financeiras ficam locais.
 despesas-pessoais/.core/modelos/referencias/
 despesas-pessoais/**/*.pdf
 despesas-pessoais/**/*.png
 despesas-pessoais/**/*.jpg
 despesas-pessoais/**/*.jpeg
+despesas-pessoais/**/*.xls
+despesas-pessoais/**/*.xlsx
+despesas-pessoais/**/*.ods
+despesas-pessoais/**/*.csv
+despesas-pessoais/**/*.tsv
+despesas-pessoais/**/*.ofx
+despesas-pessoais/**/*.qif
+
+# Dados e pacotes locais do site podem conter lançamentos.
+sites/gastos-dia/dados-privados/
+sites/gastos-dia/**/*.db
+sites/gastos-dia/**/*.sqlite*
+sites/gastos-dia-categorias/*.tar.gz
 
 # Cópias antigas e arquivos temporários, sem apagar os originais locais.
 despesas-pessoais/arquivo/historico/
-despesas-pessoais/periodos/*/output/.auditoria/historico/
 despesas-pessoais/.verificacao-*/
 despesas-pessoais/**/*.tmp
-
-# Versionar conhecimento, modelos, código, periodo.json,
-# resultados mensais e auditoria/dados (incluindo fechamento_manual.json).

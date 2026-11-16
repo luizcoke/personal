@@ -12,6 +12,8 @@
 
 Metade do cartão de Paloma confirmada pela regra vigente; inclui todos os gastos e estornos, sem novo rateio. Faxina e manutenção: divisão de 50% confirmada por Luiz; orçamento pessoal já contém somente sua metade. Quadro para conferência/aba de Paloma, sem recebimento confirmado. Gestão Magali 03/04 não é cobrada novamente: parte de Paloma já paga conforme regra. Viagem Rio integralmente de Luiz, fora do rateio com Paloma. Não somar este total novamente às despesas.
 
+Em 16/11/2026, após conferir os cinco lançamentos de faxina de outubro (quatro PIX de R$ 220 para Paloma e R$ 199 para SOS Diaristas), Luiz confirmou que estão corretos e informou a concordância de Paloma. Total R$ 1.079,00; metade R$ 539,50. Esta confirmação não informa recebimento.
+
 ## Recebimentos confirmados, fora do acerto atual
 
 - R$ 2.784,06 recebidos em 09/10: acerto do quadro de setembro, confirmado por Luiz. Sem novo abatimento de outubro.
