@@ -1,27 +1,23 @@
-# Ações do plano financeiro — 13/09/2026
+# Ações do plano financeiro — consolidado em 10/10/2026
 
-Status distinguem análise, proposta, decisão e realização. Criar o agente não aceita automaticamente os cortes propostos. Não há tarefas agendadas ou operações financeiras executadas.
+Plano vigente: [PLANO_FINANCEIRO_INICIAL.md](PLANO_FINANCEIRO_INICIAL.md). Propostas não são economias realizadas. Fechamentos preservados.
 
-| ID | Prioridade / módulo | Ação | Situação | Responsável / evidência para conclusão |
-| --- | --- | --- | --- | --- |
-| FIN-01 | Imediata / auditoria | Consolidar portabilidade, descontos, reserva, limite e juros | Concluída para os dados confirmados; composição dos benefícios permanece cenário | Agente; base e IDs no fluxo; evitar repetir a entrevista |
-| FIN-02 | Imediata / fluxo | Conferir o salário, fatura e crédito dos reembolsos quando ocorrerem e atualizar o saldo | Cenário pronto; aguardando movimentos efetivos | Agente ao receber dados; extratos/comprovantes, sem supor crédito no dia 15 |
-| FIN-03 | Alta / gastos | Separar recorrência e testar redução inicial | Primeira análise concluída; propostas não aceitas | Agente; REVISAO_GASTOS.md, reduções brutas e lacuna restante |
-| FIN-04 | Alta / gastos e orçamento | Revisar AABB, OpenAI, cartão familiar e custos temporários de babás, a partir dos documentos já disponíveis | AABB mantida por decisão; OpenAI mensal em uso, mantida no cenário. Próximo: limites de consumo e custo estável de cuidados; nenhuma economia confirmada | Agente pesquisa a base; Luiz decide uso/preferências e esclarece apenas o que não estiver documentado |
-| FIN-08 | Alta / alimentação | Testar refeições prontas em substituição ao delivery no jantar | Alternativa viável para dois adultos; faturas analisadas, amostra selecionada média 62,64. Alvo de 40,00 por jantar e piloto de quatro substituições propostos, sem cotação/aceite de teto | Luiz escolhe com a família; agente compara custo completo, aceitação e economia sem duplicar cortes |
-| FIN-05 | Alta / dívida | Reduzir uso e dias no cheque especial, sem consumir todo o limite disponível | Diretriz confirmada; quitação ainda não realizada | Luiz decide ações; agente compara custos de alternativas se houver propostas reais |
-| FIN-06 | Após orçamento sustentável / caixa | Dimensionar saldo próprio para cobrir adiantamentos de tratamentos | Planejada; reserva atual zero | Maior exposição simultânea e duração observadas, com orçamento que permita formar o saldo |
-| FIN-07 | Depois de estabilizar / patrimônio | Definir metas de patrimônio e avaliar opções de aumento de renda | Planejada; metas e disponibilidade ainda não fornecidas | Preferências, prazos e capacidade de poupança; não presumir renda extra ou vender bens |
+| ID | Quando / prioridade | Ação | Estado e conclusão |
+| --- | --- | --- | --- |
+| FIN-01 | Concluída / diagnóstico | Consolidar renda, descontos, dívida e compromissos | Setembro conciliado; saldo de 09/10 identificado; fontes no fluxo |
+| FIN-02 | 15–26/10 / caixa | Conciliar adiantamento, Mastercard, reembolso e férias sem duplicar salário | Reembolsos 6.875 solicitados, não recebidos, espera de cerca de 10 dias a partir de 10/10. Férias 5+15 e venda de 10 confirmadas; recibo define abono/terços |
+| FIN-03 | Próximo ciclo / orçamento | Acompanhar metas revistas sem duplicar parcelas e alimentação | Meta principal de redução 822,78, incluindo GitHub quando cessar cobrança; gastos de referência 13.127,92, déficit 2.682,30. Faxina é opção pendente de 220, não economia assumida; com ela, déficit 2.462,30. OpenAI novo valor pendente |
+| FIN-04 | Cartão familiar / meta | Trabalhar meta do restante 1.000 familiar / 500 pessoal, incluindo até 400 de parcelas e 600 de consumo | Comparação agosto/setembro concluída. Manter mercado, farmácia/CAASP, gasolina, seguro, natação/Wellhub e Uber/99. Após fim Zara/B Linda, resto-meta 600 familiar / 300 pessoal. Substitui alvo geral anterior de 3.000/1.500; combinar com Paloma, sem mensagem enviada ou aceite presumido |
+| FIN-05 | Cada recebimento / dívida | Cobrir contas essenciais e reduzir cheque com restante; comparar CET de propostas reais se necessário | Cheque 11.235,07 em 09/10, quitação não observada; nenhuma operação executada |
+| FIN-06 | Após dívida/equilíbrio / caixa | Acumular caixa próprio para intervalo dos tratamentos | Outubro mostra exposição 6.875; referência, não reserva constituída |
+| FIN-07 | Após estabilizar / poupança | Criar sobra recorrente de 500/mês com provisões | Despesas máximas 9.945,62 na base atual; melhoria total exigida 4.005,08 |
+| FIN-08 | Dentro do teto alimentar | Substituir delivery se refeição pronta for mais econômica e adequada | Piloto proposto anteriormente; não somar economia duas vezes |
+| FIN-09 | Dezembro / extras | Conferir bônus/13º; cobrir contas/provisões, zerar cheque, manter sobra própria | Bônus mais provável 18 mil bruto sem pensão; extras centrais 16.050, histórico 19.054, teste menor 13.875. Restante 13º 3 mil é hipótese |
+| FIN-10 | Assinatura OpenAI | Conferir novo valor e vigência na próxima cobrança | Luiz confirmou em 10/10 que alterou o plano. Novo nome/preço ainda não especificados; mudança feita pelo usuário, economia não realizada no fechamento anterior |
+| FIN-11 | Assinaturas / pausa | Conferir cobranças após mudanças, sem ampliar revisão por ora | Luiz encerrou revisão de assinaturas em 10/10; OpenAI alterada e GitHub cancelado. Nenhum outro corte decidido |
+| FIN-12 | Cartões próprios / proposta | Aplicar alimentação 900, compras novas zero, lazer novo 50 mais parcelas e outros 50 | Decomposição agosto/setembro concluída: próprios atuais 4.505,01, parcelas 1.977,63. Corte comparativo 484,47 + GitHub 54,50; referência 3.966,04 antes do efeito OpenAI. Corrige lazer antigo 100 que não comportava parcelas. Sem corte realizado; conferir Zoo/Raia e antecipações Itaú na próxima fatura |
+| FIN-13 | Semanal / acompanhamento manual | Revisar por 10 minutos saldo do cheque, consumo próprio, restante familiar e reembolsos pendentes | Registrar realizado versus meta; nenhuma automação criada |
+| FIN-14 | Até 31/10 e fechamento de novembro | Conferir novas cobranças, auxílio-creche e parcelas encerradas; recalcular lacuna | Meta de equilíbrio 10.445,62 em despesas totais, respeitando Alelo; economia OpenAI e fim de parcelas só entram após conferência; auxílio adicional só entra se comprovado, recorrência separada de crédito isolado |
+| FIN-15 | Proposta intensiva por 60 dias | Avaliar faxina duas visitas, alimentação própria 600, consumo familiar novo 300 integral, pausa de lazer/outros novos e luz-alvo 350 | Potencial adicional bruto 1.087,94, lacuna 1.594,36 antes de substituições. Não adotado; preserva compromissos e necessidades. Detalhes na revisão; não somar faxina de duas e três visitas |
 
-## Retomada
-
-Continuar por FIN-04 enquanto não houver novos movimentos para FIN-02. Os cenários de benefícios não impedem a revisão dos grupos de gasto. Levar primeiro uma análise documental e perguntas específicas sobre itens que dependam de preferência; não pedir novamente salário, taxa, reserva, pensão ou documentos já existentes.
-
-## Marcos para avançar de fase
-
-1. Orçamento recorrente compatível com a receita efetivamente disponível, com tetos decididos e custos transitórios identificados.
-2. Uso do cheque especial reduzido e depois zerado em movimentos observados, não apenas na projeção de reembolso.
-3. Saldo próprio para o intervalo de tratamentos calculado e acumulado com sobras efetivas.
-4. Metas patrimoniais e aportes definidos com horizonte e capacidade comprovada.
-
-Não prometer datas de quitação ou formação de reserva antes de fechar a capacidade mensal. A revisão acontece ao receber dados ou quando Luiz pedir, sem agendamento implícito.
+Próximas evidências: crédito dos reembolsos, recibo de férias e próxima fatura. Não repetir perguntas já respondidas sobre salário, taxa, bônus ou pensão. Meta até 31/12: zerar cheque se entradas/gastos permitirem; equilibrar orçamento para começar caixa próprio e poupança. Sem promessa de quitação ou saldo final exato; sem agendamentos/operações externas. Calendário e tetos no resumo de execução do plano vigente.

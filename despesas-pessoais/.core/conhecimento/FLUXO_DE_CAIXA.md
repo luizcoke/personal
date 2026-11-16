@@ -1,5 +1,25 @@
 # Fluxo de caixa — tratamentos, reembolsos e cheque especial
 
+## Posição vigente — consolidada em 10/10/2026
+
+Calendário completo, cenários de férias/bônus, tetos e alocação no [plano consolidado](../../planejamento/PLANO_FINANCEIRO_INICIAL.md). Esta seção substitui previsões intermediárias; histórico datado abaixo não é posição atual.
+
+| ID / fonte | Fato e controle |
+| --- | --- |
+| CAIXA-SALDO-20261009 | Extrato emitido 09/10, página 1, linha de extração 8: saldo -11.235,07, limite total 21.600 e disponível 10.364,93. Fonte: periodos/2026-09/output/.auditoria/dados/extrato_extraido.json, saldos_todos[2026-10-09]. Original itau_extrato_082026.pdf também cobre outubro. |
+| CAIXA-TRATAMENTOS-20261010 | SP SERV 3.000 em 01/10, Mario 1.750 em 01/10, Naomi 2.125 em 05/10; total 6.875 já no saldo devedor. IDs BANCO-P1-L21/L20/L14. Luiz confirmou em 10/10: solicitados e não recebidos; espera em cerca de 10 dias. Cerca de 20/10 é expectativa, sem data/valor aprovado documental. Crédito no Santander precisa ficar disponível para abater cheque; não renda nova. |
+| CAIXA-FATURAS-20261010 | Mastercard 8.102,16 integral em 15/10; parte pessoal 5.976,88 já no orçamento. Visa 653,42 já paga 01/10, BANCO-P1-L23. Futuras integrais 9.109,85 + 267,39 = 9.377,24, incluem terceiros; próxima referência de parcelas 2.270,20, antes de novas compras; divergência Mastercard 285,46 permanece a conferir. |
+| CAIXA-FOLHA-202609 | Líquido 9.434,80 = adiantamento 6.368,79 + saldo 3.066,01, APAE incluído e pensão descontada. Alelo 1.010,82 separado. Setembro é referência, não recibo de outubro. |
+| FERIAS-CALENDARIO-20261010 | Confirmadas 5 dias outubro, 15 fevereiro/2027, abono 10 dias; nenhuma férias recebida ainda em 2026. Gastos!G7:O7 zerada, evidência/hash em planejamento/referencias/2026-conferencia-ferias.json. Colunas futuras com IR/pensão zerados não são previsão de líquido. |
+| CAIXA-CENARIO-PENSAO-20261010 | Pedido de Luiz: 1/3 sobre todo bruto férias/abono/terços, somente hipótese. A: 2.653,66 + 884,55 + 5.307,32 + 1.769,11 = 10.614,64 bruto; após pensão 7.076,43 antes de outros descontos. Acréscimo real comparativo 5.307,32 antes de outros descontos; salário antecipado compensado na folha. B: terço inteiro em outubro, 13.268,30 bruto e 8.845,53 após pensão. Sem abono neste recibo: 2.358,81 após pensão antes de outros descontos. Distribuição depende do recibo. |
+| BONUS-BRUTO-20261010 / PENSAO-BONUS-20261010 | 18 mil brutos mais prováveis, 15 mil cenário menor; sem pensão. Natureza/tributos pendentes. Extras com 13º hipotético 3 mil: 16.050 salarial, 19.054 histórico; cenário menor salarial 13.875. Não crédito/recibo ou piso. |
+| CAIXA-13-BONUS-202612 | Metade do 13º já recebida. Restante hipotético 3 mil pelo histórico. Gastos!L8/M8 agregam rubricas, sem composição; não somar primeira metade outra vez ou repetir desconto. Foto de 2025 e contas na revisão. |
+| TAXA-CHEQUE-ESPECIAL | 8% mensais + IOF declarados anteriormente; CET não apresentado. Sobre saldo constante 11.235,07: 898,81/mês ilustrativos só de juros. Não cobrança exata nem nova despesa para somar à linha já registrada. |
+
+Ponte isolada: -11.235,07 + salário de referência 6.368,79 - Mastercard 8.102,16 = -12.968,44; se reembolso integral disponível +6.875, saldo -6.093,44, antes de outras contas. Tratamentos já pagos, Visa e IOF já debitados não devem ser descontados outra vez. Transferência própria de 1.050 em outubro não é renda/despesa pessoal; saldo de outras contas não demonstrado.
+
+Não somar déficit econômico de setembro à ponte bancária como saída nova: fatura já compõe orçamento, saldo inicial inclui outubro e reembolso repõe adiantamento. Previsão de saldo exato em 31/12 exige conciliar competências, contas a pagar e créditos efetivos. Sensibilidades do plano mostram capacidade sem fingir essa precisão.
+
 > Análise datada: os números e cenários abaixo pertencem às datas indicadas. Para valores posteriores, consultar o fechamento e o holerite do mês antes de reutilizar projeções.
 ## Confirmações de Luiz em 13/09/2026
 

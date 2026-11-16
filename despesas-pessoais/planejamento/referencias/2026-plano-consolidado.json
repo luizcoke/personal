@@ -1,0 +1,74 @@
+{
+  "id": "PLANO-CONSOLIDADO-20261010",
+  "data": "2026-10-10",
+  "reembolso": {
+    "id": "CAIXA-TRATAMENTOS-20261010",
+    "valor_solicitado": "6875.00",
+    "recebido": false,
+    "solicitado": true,
+    "prazo_usuario": "cerca de 10 dias a partir de 10/10/2026",
+    "credito_confirmado": null,
+    "valor_aprovado_documental": null,
+    "movimentos": [
+      "BANCO-P1-L21",
+      "BANCO-P1-L20",
+      "BANCO-P1-L14"
+    ]
+  },
+  "calculos_centavos": {
+    "salario_liquido": 943480,
+    "alelo": 101082,
+    "receita_orcamentaria": 1044562,
+    "despesas_setembro": 1395070,
+    "deficit": 350508,
+    "saldo_20261009": -1123507,
+    "ponte_salario_mc": -1296844,
+    "ponte_com_reembolso_integral": -609344,
+    "economia_proposta": 98828,
+    "despesas_propostas": 1296242,
+    "deficit_proposto": 251680,
+    "extras_dezembro_central": 1605000,
+    "deficit_com_fim_cobranca_github": 246230
+  },
+  "tetos": [
+    {
+      "grupo": "Alimentação — linhas 53+54+55",
+      "base": "1254.09",
+      "teto": "900.00",
+      "reducao": "354.09",
+      "status": "proposta"
+    },
+    {
+      "grupo": "Cartões familiares — sua parte, linha 56",
+      "base": "2125.29",
+      "teto": "1841.48",
+      "reducao": "283.81",
+      "status": "referência condicional: despesas mantidas iguais setembro + meta restante familiar 1000"
+    },
+    {
+      "grupo": "Faxina — 3 visitas de R$ 220, se viável",
+      "base": "880.00",
+      "teto": "660.00",
+      "reducao": "220.00",
+      "status": "proposta"
+    },
+    {
+      "grupo": "Lazer — linha 66",
+      "base": "208.66",
+      "teto": "168.76",
+      "reducao": "39.90",
+      "status": "proposta: lazer novo 50 mais parcelas devidas (118.76 na base setembro)"
+    },
+    {
+      "grupo": "Outros pessoais — linha 68",
+      "base": "140.48",
+      "teto": "50.00",
+      "reducao": "90.48",
+      "status": "proposta"
+    }
+  ],
+  "nao_e_saldo_final_projetado": true,
+  "fechamentos_e_workbook_inalterados": true,
+  "atualizacao_meta_familiar": "META-FAMILIA-20261010; substitui hipótese anterior de teto pessoal 1500; ver 2026-cartao-familia-decomposicao.json",
+  "atualizacao_cartoes_proprios": "CARTOES-LUIZ-20261010: propostas não duplicam família/alimentação; lazer respeita parcelas; ver 2026-cartoes-luiz-decomposicao.json"
+}

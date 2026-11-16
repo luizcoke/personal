@@ -1,0 +1,125 @@
+{
+  "id": "HIST-RECEITAS-2025-20261010",
+  "data_recebimento": "2026-10-10",
+  "fonte_original": "C:\\Users\\ang-01\\.codex\\codex-remote-attachments\\01a1257e-62c2-7793-bcfa-4cc900c4c083\\EE5DC3C4-0891-4B5E-B02A-66C6FE320C44\\1-Foto-1.jpg",
+  "fonte_preservada": "referencias/2025-receitas-descontos-foto.jpg",
+  "sha256": "D916FAB12887E3E7CAC7B381909D595F4B20EF2F4B5EF995E53329A0CD70E9FF",
+  "tipo": "captura_planilha_historica",
+  "pagina": 1,
+  "ano": 2025,
+  "observacao": "Transcrição visual parcial das células legíveis; não é holerite/extrato nem fechamento mensal. Linha 8 agrega 13º/PRP/IR; composição e líquido não conciliados. Não usar totais obscurecidos.",
+  "celulas": [
+    {
+      "descricao": "Pensão",
+      "celula": "K14",
+      "linha": 14,
+      "valor": "4138.49",
+      "id": "HIST2025-K14",
+      "mes": "2025-05"
+    },
+    {
+      "descricao": "13º salário + PRP + IR",
+      "celula": "L8",
+      "linha": 8,
+      "valor": "7627.44",
+      "id": "HIST2025-L8",
+      "mes": "2025-06"
+    },
+    {
+      "descricao": "Pensão",
+      "celula": "L14",
+      "linha": 14,
+      "valor": "6680.71",
+      "id": "HIST2025-L14",
+      "mes": "2025-06"
+    },
+    {
+      "descricao": "Férias",
+      "celula": "M7",
+      "linha": 7,
+      "valor": "21278.93",
+      "id": "HIST2025-M7",
+      "mes": "2025-07"
+    },
+    {
+      "descricao": "IR",
+      "celula": "M13",
+      "linha": 13,
+      "valor": "3557.41",
+      "id": "HIST2025-M13",
+      "mes": "2025-07"
+    },
+    {
+      "descricao": "Pensão",
+      "celula": "M14",
+      "linha": 14,
+      "valor": "10534.82",
+      "id": "HIST2025-M14",
+      "mes": "2025-07"
+    },
+    {
+      "descricao": "IR",
+      "celula": "P13",
+      "linha": 13,
+      "valor": "1886.58",
+      "id": "HIST2025-P13",
+      "mes": "2025-10"
+    },
+    {
+      "descricao": "Pensão",
+      "celula": "P14",
+      "linha": 14,
+      "valor": "4138.48",
+      "id": "HIST2025-P14",
+      "mes": "2025-10"
+    },
+    {
+      "descricao": "13º salário + PRP + IR",
+      "celula": "Q8",
+      "linha": 8,
+      "valor": "18783.00",
+      "id": "HIST2025-Q8",
+      "mes": "2025-11"
+    },
+    {
+      "descricao": "IR",
+      "celula": "Q13",
+      "linha": 13,
+      "valor": "3917.23",
+      "id": "HIST2025-Q13",
+      "mes": "2025-11"
+    },
+    {
+      "descricao": "Pensão",
+      "celula": "Q14",
+      "linha": 14,
+      "valor": "4180.81",
+      "id": "HIST2025-Q14",
+      "mes": "2025-11"
+    },
+    {
+      "descricao": "13º salário + PRP + IR",
+      "celula": "R8",
+      "linha": 8,
+      "valor": "4898.12",
+      "id": "HIST2025-R8",
+      "mes": "2025-12"
+    },
+    {
+      "descricao": "IR",
+      "celula": "R13",
+      "linha": 13,
+      "valor": "1886.58",
+      "id": "HIST2025-R13",
+      "mes": "2025-12"
+    },
+    {
+      "descricao": "Pensão",
+      "celula": "R14",
+      "linha": 14,
+      "valor": "5771.02",
+      "id": "HIST2025-R14",
+      "mes": "2025-12"
+    }
+  ]
+}

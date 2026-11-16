@@ -1,0 +1,117 @@
+{
+  "id": "FERIAS-CALENDARIO-20261010",
+  "data": "2026-10-10",
+  "fonte": "despesas-pessoais\\planilhas\\Despesas dia a dia - 2026.xlsx",
+  "sha256": "ea87cadae215224cfa4f7accae74ccfe4a1a9d2fc1ce86dfd9057bb2de7f3789",
+  "aba": "Gastos",
+  "modo": "somente_leitura_sem_exportar",
+  "confirmacao_usuario": "Nenhuma ferias recebida em 2026; pagamento agora no gozo, diferente de calendario anual de junho relatado para 2025",
+  "celulas": [
+    {
+      "id": "XLS2026-G7",
+      "celula": "G7",
+      "valor": 0
+    },
+    {
+      "id": "XLS2026-H7",
+      "celula": "H7",
+      "valor": 0
+    },
+    {
+      "id": "XLS2026-I7",
+      "celula": "I7",
+      "valor": 0
+    },
+    {
+      "id": "XLS2026-J7",
+      "celula": "J7",
+      "valor": 0
+    },
+    {
+      "id": "XLS2026-K7",
+      "celula": "K7",
+      "valor": 0
+    },
+    {
+      "id": "XLS2026-L7",
+      "celula": "L7",
+      "valor": 0
+    },
+    {
+      "id": "XLS2026-M7",
+      "celula": "M7",
+      "valor": 0
+    },
+    {
+      "id": "XLS2026-N7",
+      "celula": "N7",
+      "valor": 0
+    },
+    {
+      "id": "XLS2026-O7",
+      "celula": "O7",
+      "valor": 0
+    },
+    {
+      "id": "XLS2026-P7",
+      "celula": "P7",
+      "valor": 0
+    },
+    {
+      "id": "XLS2026-Q7",
+      "celula": "Q7",
+      "valor": 0
+    },
+    {
+      "id": "XLS2026-R7",
+      "celula": "R7",
+      "valor": 0
+    },
+    {
+      "id": "XLS2026-L8",
+      "celula": "L8",
+      "valor": 5307.59
+    },
+    {
+      "id": "XLS2026-M8",
+      "celula": "M8",
+      "valor": 1076.71
+    },
+    {
+      "id": "XLS2026-L14",
+      "celula": "L14",
+      "valor": 4306.25
+    },
+    {
+      "id": "XLS2026-P13",
+      "celula": "P13",
+      "valor": 0
+    },
+    {
+      "id": "XLS2026-P14",
+      "celula": "P14",
+      "valor": 0
+    },
+    {
+      "id": "XLS2026-Q13",
+      "celula": "Q13",
+      "valor": 0
+    },
+    {
+      "id": "XLS2026-Q14",
+      "celula": "Q14",
+      "valor": 0
+    },
+    {
+      "id": "XLS2026-R13",
+      "celula": "R13",
+      "valor": 0
+    },
+    {
+      "id": "XLS2026-R14",
+      "celula": "R14",
+      "valor": 0
+    }
+  ],
+  "observacao": "Linha 8 agregada 13/PPR/IR, nao comprova composicao. Colunas futuras com descontos zerados nao sao realizados."
+}

@@ -4,6 +4,8 @@ Consulta por assunto/beneficiário. Valores e recebimentos vêm dos documentos e
 
 ## Cartões e Paloma
 
+**Planejamento familiar — confirmação de 10/10/2026:** manter mercado, farmácia, gasolina, seguro, natação da Isabela e transporte por aplicativo da natação. Wellhub corresponde à atividade da Isabela e CAASP já é Drogaria conforme ESTABELECIMENTOS; não voltar a tratá-los como despesas desconhecidas ou candidatos a corte. Metas do restante no plano, sem mudar o rateio, redistribuir a linha 56 ou alterar fechamentos. Valores de referência não são teto fixo para necessidades. Assinaturas encerradas em revisão por ora.
+
 Todos os gastos de cartões de Paloma (3878/6553 conhecidos), inclusive AABB, recebem uma única metade na linha 56, preservando sinais dos estornos. Identificar novos titulares. Não redistribuir pelas categorias nem dividir novamente. Rateio não comprova recebimento.
 
 **Gestão Bruna/Magali no cartão de Luiz:** compra de R$ 129,46, agosto 01/04 e setembro 02/04, é integralmente de Luiz porque Paloma já pagou sua parte. Preservar nas parcelas da mesma compra, incluindo crédito de R$ 0,06 em setembro. Não cobrar novamente R$ 64,73 nem generalizar a outros PIX/serviços Magali.
@@ -11,6 +13,14 @@ Todos os gastos de cartões de Paloma (3878/6553 conhecidos), inclusive AABB, re
 **Porto Seguro:** rateio antigo de 50% confirmado; usar parcela/valor da fatura atual. No cartão de Paloma, linha 56 já contém a única metade. Conferir mudança de contrato/titular.
 
 ## Exclusões, renda e tratamentos
+
+**Calendário de férias de Luiz — FERIAS-CALENDARIO-20261010:** Luiz confirmou que em 2025 recebia férias em junho e em 2026 passou a receber quando goza; ainda não recebeu férias neste ano. Conferência somente de leitura da planilha de 2026: Gastos!G7:O7 contém zeros de janeiro a setembro. Ausência de lançamento corrobora declaração, não substitui extrato. Prever férias antes dos períodos confirmados de 26/10/2026 e 22/02/2027; data efetiva e mês do abono/terço dependem do recibo. Não importar automaticamente o pagamento anual de 2025, nem supor férias ou terço já recebidos em junho/2026. A foto de 2025 mostra a rubrica em julho (M7), embora Luiz relate calendário de junho; preservar ambas as referências sem reclassificar o histórico e sem bloquear a previsão de 2026. Férias e 13º têm controles separados.
+
+**Bônus — BONUS-BRUTO-20261010:** última atualização de Luiz em 10/10: R$ 15.000,00 era estimativa inicial; **R$ 18.000,00 brutos são o valor mais provável**, ainda estimado e não aprovado/recebido. Manter 15 mil como cenário conservador, não confirmação de valor fixo. Além do restante do 13º, com descontos e pensão zero confirmada em PENSAO-BONUS-20261010. Não perguntar novamente bruto/líquido ou incidência de pensão. Natureza salarial/PLR, imposto efetivo, aprovação e data de crédito ainda não demonstrados. Usar histórico de 2025 somente como comparação com origem identificada, sem converter diferença mensal de IR em tributo exato do bônus.
+
+**Pensão sobre bônus — PENSAO-BONUS-20261010:** Luiz confirmou em 10/10/2026 que **não há desconto de pensão no bônus**. Aplicar à previsão de bônus de dezembro e substituir a reserva hipotética de 1/3 usada anteriormente. Não generalizar a férias, terço ou 13º; ausência de pensão não comprova isenção tributária nem que o valor informado seja líquido.
+
+**Pensão — PENSAO-REGRA-20261010:** Luiz confirmou em 10/10/2026: acordo de **1/3 sobre salário**. Percentual confirmado; não perguntar novamente. Expressão ainda não esclarece salário bruto/líquido, deduções admitidas ou tratamento de férias, terço e abono pecuniário. Não inferir essas cláusulas. O desconto de setembro (MG11, R$ 4.306,25) não corresponde a um terço do salário bruto de R$ 15.921,97 (R$ 5.307,32); a base implícita de R$ 12.918,75 é indício de ajustes, não comprovação de sua composição. Manter valores mensais nos holerites e créditos de portabilidade já líquidos sem nova dedução. Para férias, conferir redação da base no acordo/ofício ou recibo antes de estimar líquido e compensações da folha.
 
 | Descritor/contexto | Tratamento |
 | --- | --- |
