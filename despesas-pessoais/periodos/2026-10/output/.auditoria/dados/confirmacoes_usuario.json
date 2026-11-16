@@ -1,0 +1,242 @@
+{
+  "data_confirmacao": "2026-11-16",
+  "origem": "respostas de Luiz nesta conversa",
+  "VA_alimentacao": "910.82",
+  "beneficios": "100.00",
+  "auxilio_creche": {
+    "valor": "720.00",
+    "natureza": "confirmada_usuario",
+    "competencia": "2026-10"
+  },
+  "lancamentos": {
+    "EXT-002": {
+      "valor_pessoal_exato": "1219.27",
+      "status": "confirmada_usuario",
+      "rateio_status": "confirmado_reembolso",
+      "credito_vinculado": "EXT-006",
+      "observacao": "Luiz confirmou crédito de Paloma EXT-006 de R$ 1.219,26 como reembolso de Magali. Pessoal = 2.438,53 − 1.219,26 = 1.219,27; não dividir novamente."
+    },
+    "EXT-006": {
+      "status": "confirmada_usuario",
+      "credito_vinculado": "EXT-002",
+      "observacao": "Luiz confirmou reembolso da babá/Magali EXT-002; crédito utilizado uma única vez."
+    },
+    "EXT-007": {
+      "status": "confirmada_usuario",
+      "credito_vinculado": "EXT-008",
+      "tipo_recebimento": "estorno_do_proprio_debito",
+      "observacao": "Luiz confirmou devolução integral do PIX AABB de R$ 130, EXT-008. Não alocar a outra despesa."
+    },
+    "EXT-009": {
+      "status": "confirmada_usuario",
+      "linha": "64",
+      "rateio_status": "confirmado_manter_integral",
+      "observacao": "Luiz confirmou em 16/11/2026: ingresso para a festa de Réveillon na AABB. Categoria Lazer / Viagem confirmada; Luiz confirmou que os R$ 270 ficam integralmente com ele, sem divisão ou reembolso de Paloma."
+    },
+    "EXT-008": {
+      "status": "confirmada_usuario",
+      "linha": "64",
+      "valor_pessoal_exato": "0.00",
+      "credito_vinculado": "EXT-007",
+      "observacao": "Ingresso AABB de R$ 130, conforme Luiz; integralmente devolvido por Paloma, vínculo já confirmado. Efeito pessoal zero. Não é refeição."
+    },
+    "EXT-019": {
+      "status": "confirmada_usuario",
+      "observacao": "Auxílio-creche de R$ 720 da Avanade recebido em 20/10: competência outubro confirmada por Luiz em 16/11. Separado de APAE/APDEX."
+    },
+    "EXT-031": {
+      "status": "excluido_competencia_anterior",
+      "linha": null,
+      "valor_pessoal_exato": "0.00",
+      "observacao": "Luiz confirmou condomínio de setembro, já incluído no fechamento manual. Mantido no caixa de outubro, sem repetir no orçamento."
+    },
+    "EXT-033": {
+      "status": "confirmada_usuario",
+      "observacao": "Luiz confirmou acerto do quadro de setembro de R$ 2.784,06. Recebimento documentado; não abater de despesas de outubro nem alterar fechamento de setembro."
+    },
+    "EXT-034": {
+      "status": "confirmada_usuario",
+      "observacao": "Luiz confirmou condomínio de outubro: R$ 1.161,09."
+    },
+    "EXT-015": {
+      "linha": "64",
+      "grupo": "Viagem Rio",
+      "status": "confirmada_usuario",
+      "observacao": "Luiz confirmou: PIX R$ 72 para Paloma em 23/10 foi Uber da viagem Rio; integralmente de Luiz.",
+      "rateio_status": "confirmado_manter_integral"
+    },
+    "EXT-021": {
+      "linha": "66",
+      "status": "confirmada_usuario",
+      "observacao": "Luiz confirmou: PIX R$ 1 foi somente teste; manter em Outros."
+    },
+    "EXT-037": {
+      "linha": "66",
+      "status": "confirmada_usuario",
+      "observacao": "Luiz não reconhece TANKO. Nova consulta completa a entries do site em 16/11, 147 registros, sem correspondência. Manter em Outros por decisão do usuário."
+    },
+    "EXT-040": {
+      "linha": "66",
+      "status": "confirmada_usuario",
+      "observacao": "Luiz não reconhece PagSeguro. Nova consulta completa a entries do site em 16/11, 147 registros, sem correspondência. Manter em Outros por decisão do usuário."
+    },
+    "MASTERCARD-045": {
+      "linha": "66",
+      "status": "confirmada_usuario",
+      "observacao": "Luiz não reconhece SAO JUDAS. Nova consulta completa a entries do site em 16/11, 147 registros, sem correspondência. Manter em Outros por decisão do usuário."
+    },
+    "MASTERCARD-046": {
+      "linha": "53",
+      "status": "confirmada_usuario",
+      "observacao": "Luiz confirmou restaurante. Mantido integral; nenhum reembolso informado."
+    },
+    "MASTERCARD-053": {
+      "linha": "53",
+      "status": "provisoria",
+      "observacao": "Luiz acha que foi restaurante no aniversário da mãe; classificado em Restaurantes conforme hipótese expressa. Não repetir pergunta sem nova evidência."
+    },
+    "MASTERCARD-127": {
+      "linha": "novo-projetos-empresa",
+      "status": "confirmada_usuario",
+      "observacao": "Luiz confirmou gasto do ANG Studio e pediu nova categoria Projetos/Empresa. Valor cobrado R$ 26,50; não criar crédito/reembolso empresarial."
+    },
+    "EXT-001": {
+      "valor_pessoal_exato": "110.00",
+      "status": "confirmada_usuario",
+      "rateio_status": "confirmado_50_porcento",
+      "recebimento_status": "nao_confirmado",
+      "observacao": "Luiz confirmou divisão de 50% com Paloma e inclusão no quadro para a aba da planilha. Participação pessoal calculada uma vez; recebimento não confirmado, sem crédito inventado."
+    },
+    "EXT-016": {
+      "valor_pessoal_exato": "110.00",
+      "status": "confirmada_usuario",
+      "rateio_status": "confirmado_50_porcento",
+      "recebimento_status": "nao_confirmado",
+      "observacao": "Luiz confirmou divisão de 50% com Paloma e inclusão no quadro para a aba da planilha. Participação pessoal calculada uma vez; recebimento não confirmado, sem crédito inventado."
+    },
+    "EXT-022": {
+      "valor_pessoal_exato": "110.00",
+      "status": "confirmada_usuario",
+      "rateio_status": "confirmado_50_porcento",
+      "recebimento_status": "nao_confirmado",
+      "observacao": "Luiz confirmou divisão de 50% com Paloma e inclusão no quadro para a aba da planilha. Participação pessoal calculada uma vez; recebimento não confirmado, sem crédito inventado."
+    },
+    "EXT-036": {
+      "valor_pessoal_exato": "99.50",
+      "status": "confirmada_usuario",
+      "rateio_status": "confirmado_50_porcento",
+      "recebimento_status": "nao_confirmado",
+      "observacao": "Luiz confirmou divisão de 50% com Paloma e inclusão no quadro para a aba da planilha. Participação pessoal calculada uma vez; recebimento não confirmado, sem crédito inventado."
+    },
+    "EXT-041": {
+      "valor_pessoal_exato": "110.00",
+      "status": "confirmada_usuario",
+      "rateio_status": "confirmado_50_porcento",
+      "recebimento_status": "nao_confirmado",
+      "observacao": "Luiz confirmou divisão de 50% com Paloma e inclusão no quadro para a aba da planilha. Participação pessoal calculada uma vez; recebimento não confirmado, sem crédito inventado."
+    },
+    "MASTERCARD-002": {
+      "valor_pessoal_exato": "68.75",
+      "status": "confirmada_usuario",
+      "rateio_status": "confirmado_50_porcento",
+      "recebimento_status": "nao_confirmado",
+      "observacao": "Luiz confirmou divisão de 50% com Paloma e inclusão no quadro para a aba da planilha. Participação pessoal calculada uma vez; recebimento não confirmado, sem crédito inventado."
+    },
+    "MASTERCARD-003": {
+      "valor_pessoal_exato": "150.02",
+      "status": "confirmada_usuario",
+      "rateio_status": "confirmado_50_porcento",
+      "recebimento_status": "nao_confirmado",
+      "observacao": "Luiz confirmou divisão de 50% com Paloma e inclusão no quadro para a aba da planilha. Participação pessoal calculada uma vez; recebimento não confirmado, sem crédito inventado."
+    },
+    "MASTERCARD-027": {
+      "rateio_status": "confirmado_manter_integral",
+      "observacao": "Categoria sugerida pelo descritor/contexto; confirmar finalidade e, se aplicável, viagem/rateio. Luiz confirmou em 16/11 agrupamento dos gastos da viagem de 23–25/10 em Viagem Rio. Luiz confirmou que o gasto fica integralmente com ele, sem divisão com Paloma."
+    },
+    "MASTERCARD-028": {
+      "rateio_status": "confirmado_manter_integral",
+      "observacao": "Classificação pelo descritor e regra vigente; valor integral de Luiz. Classificação revisada no site: travel. Valores e parcela preservados conforme PDF. Luiz confirmou em 16/11 agrupamento dos gastos da viagem de 23–25/10 em Viagem Rio. Luiz confirmou que o gasto fica integralmente com ele, sem divisão com Paloma."
+    },
+    "MASTERCARD-029": {
+      "rateio_status": "confirmado_manter_integral",
+      "observacao": "Categoria sugerida pelo descritor/contexto; confirmar finalidade e, se aplicável, viagem/rateio. Luiz confirmou em 16/11 agrupamento dos gastos da viagem de 23–25/10 em Viagem Rio. Luiz confirmou que o gasto fica integralmente com ele, sem divisão com Paloma."
+    },
+    "MASTERCARD-030": {
+      "rateio_status": "confirmado_manter_integral",
+      "observacao": "Classificação pelo descritor e regra vigente; valor integral de Luiz. Luiz confirmou em 16/11 agrupamento dos gastos da viagem de 23–25/10 em Viagem Rio. Luiz confirmou que o gasto fica integralmente com ele, sem divisão com Paloma."
+    },
+    "MASTERCARD-031": {
+      "rateio_status": "confirmado_manter_integral",
+      "observacao": "Categoria sugerida pelo descritor/contexto; confirmar finalidade e, se aplicável, viagem/rateio. Luiz confirmou em 16/11 agrupamento dos gastos da viagem de 23–25/10 em Viagem Rio. Luiz confirmou que o gasto fica integralmente com ele, sem divisão com Paloma."
+    },
+    "MASTERCARD-032": {
+      "rateio_status": "confirmado_manter_integral",
+      "observacao": "Classificação pelo descritor e regra vigente; valor integral de Luiz. Luiz confirmou em 16/11 agrupamento dos gastos da viagem de 23–25/10 em Viagem Rio. Luiz confirmou que o gasto fica integralmente com ele, sem divisão com Paloma."
+    },
+    "MASTERCARD-033": {
+      "rateio_status": "confirmado_manter_integral",
+      "observacao": "Classificação pelo descritor e regra vigente; valor integral de Luiz. Luiz confirmou em 16/11 agrupamento dos gastos da viagem de 23–25/10 em Viagem Rio. Luiz confirmou que o gasto fica integralmente com ele, sem divisão com Paloma."
+    },
+    "MASTERCARD-034": {
+      "rateio_status": "confirmado_manter_integral",
+      "observacao": "Categoria sugerida pelo descritor/contexto; confirmar finalidade e, se aplicável, viagem/rateio. Luiz confirmou em 16/11 agrupamento dos gastos da viagem de 23–25/10 em Viagem Rio. Luiz confirmou que o gasto fica integralmente com ele, sem divisão com Paloma."
+    },
+    "MASTERCARD-035": {
+      "rateio_status": "confirmado_manter_integral",
+      "observacao": "Categoria sugerida pelo descritor/contexto; confirmar finalidade e, se aplicável, viagem/rateio. Luiz confirmou em 16/11 agrupamento dos gastos da viagem de 23–25/10 em Viagem Rio. Luiz confirmou que o gasto fica integralmente com ele, sem divisão com Paloma."
+    },
+    "MASTERCARD-036": {
+      "rateio_status": "confirmado_manter_integral",
+      "observacao": "Categoria sugerida pelo descritor/contexto; confirmar finalidade e, se aplicável, viagem/rateio. Luiz confirmou em 16/11 agrupamento dos gastos da viagem de 23–25/10 em Viagem Rio. Luiz confirmou que o gasto fica integralmente com ele, sem divisão com Paloma."
+    },
+    "MASTERCARD-037": {
+      "rateio_status": "confirmado_manter_integral",
+      "observacao": "Classificação pelo descritor e regra vigente; valor integral de Luiz. Luiz confirmou em 16/11 agrupamento dos gastos da viagem de 23–25/10 em Viagem Rio. Luiz confirmou que o gasto fica integralmente com ele, sem divisão com Paloma."
+    },
+    "MASTERCARD-038": {
+      "rateio_status": "confirmado_manter_integral",
+      "observacao": "Classificação pelo descritor e regra vigente; valor integral de Luiz. Luiz confirmou em 16/11 agrupamento dos gastos da viagem de 23–25/10 em Viagem Rio. Luiz confirmou que o gasto fica integralmente com ele, sem divisão com Paloma."
+    },
+    "MASTERCARD-039": {
+      "rateio_status": "confirmado_manter_integral",
+      "observacao": "Classificação pelo descritor e regra vigente; valor integral de Luiz. Luiz confirmou em 16/11 agrupamento dos gastos da viagem de 23–25/10 em Viagem Rio. Luiz confirmou que o gasto fica integralmente com ele, sem divisão com Paloma."
+    },
+    "VISA-021": {
+      "rateio_status": "confirmado_manter_integral",
+      "observacao": "Classificação pelo descritor e regra vigente; valor integral de Luiz. Classificação revisada no site: transport. Valores e parcela preservados conforme PDF. Luiz confirmou em 16/11 agrupamento dos gastos da viagem de 23–25/10 em Viagem Rio. Luiz confirmou que o gasto fica integralmente com ele, sem divisão com Paloma."
+    },
+    "EXT-010": {
+      "linha": null,
+      "valor_pessoal_exato": "0.00",
+      "status": "confirmada_usuario",
+      "devolucao_vinculada": "EXT-011",
+      "observacao": "Luiz confirmou que devolveu um dos créditos de R$ 42 de Sonia. PIX de 29/10 é devolução, não gasto dos meninos. Pareamento ao crédito de 28/10 por sequência cronológica; datas individuais não especificadas pelo usuário."
+    },
+    "EXT-011": {
+      "status": "confirmada_usuario",
+      "tipo_recebimento": "devolvido",
+      "devolucao_vinculada": "EXT-010",
+      "observacao": "Um dos dois créditos de Sonia foi devolvido. Pareamento cronológico 28/10 → saída 29/10; não abater loterias nem outra despesa."
+    },
+    "EXT-012": {
+      "status": "confirmada_usuario",
+      "tipo_recebimento": "reembolso",
+      "credito_vinculado": "MASTERCARD-060",
+      "observacao": "Luiz confirmou R$ 42 de participação de Sonia nas loterias pagas por ele. Vinculado à única compra de loterias do período, R$ 90 em 27/10; distribuição entre os dois créditos iguais por sequência cronológica."
+    },
+    "MASTERCARD-060": {
+      "valor_pessoal_exato": "48.00",
+      "status": "confirmada_usuario",
+      "credito_vinculado": "EXT-012",
+      "observacao": "Loterias R$ 90 menos participação de Sonia R$ 42 recebida no Itaú = R$ 48 pessoais. Crédito aplicado uma vez; o segundo crédito foi devolvido e não reduz esta compra."
+    }
+  },
+  "reembolsos_tratamentos": {
+    "status": "recebido_confirmado_usuario",
+    "conta": "Santander",
+    "escopo": "tratamentos do filho, item 13 da conferência de outubro",
+    "data_recebimento": null,
+    "observacao": "Luiz confirmou reembolso em resposta ao item de R$ 6.875. Sem data ou comprovante Santander; não vincular automaticamente às transferências próprias Itaú e não tratar como renda nova."
+  },
+  "revisao_final_aplicada": true
+}

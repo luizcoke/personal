@@ -1,0 +1,16 @@
+[
+  {
+    "arquivo": "input/Fatura_MASTERCARD_100482751858_10-2026.pdf",
+    "sha256": "54e47bda2fbd514206a90bf8a8dd2327b42545af9e9612db0ba94f03a4678ddf",
+    "mes_ja_contabilizado": "2026-09",
+    "arquivo_anterior": "input/Fatura_MASTERCARD_100482751858_10-2026.pdf",
+    "tratamento": "preservado em input; não importado como nova despesa"
+  },
+  {
+    "arquivo": "input/Fatura_VISA_100482751883_10-2026.pdf",
+    "sha256": "7e70e4bc3830978f38897616398ebfe8c4ebb3cee60b5bd0648a6ae6e22d4cc1",
+    "mes_ja_contabilizado": "2026-09",
+    "arquivo_anterior": "input/Fatura_VISA_100482751883_10-2026.pdf",
+    "tratamento": "preservado em input; não importado como nova despesa"
+  }
+]

@@ -1,6 +1,6 @@
 # Base vigente — índice e decisões essenciais
 
-Atualizada em 09/10/2026. Ler esta entrada curta e somente a referência do assunto. Caminhos em código são relativos à raiz `despesas-pessoais/`.
+Atualizada em 16/11/2026. Ler esta entrada curta e somente a referência do assunto. Caminhos em código são relativos à raiz `despesas-pessoais/`.
 
 ## Onde buscar
 
@@ -8,6 +8,7 @@ Atualizada em 09/10/2026. Ler esta entrada curta e somente a referência do assu
 | --- | --- | --- |
 | Valor final de um mês | `periodos/AAAA-MM/periodo.json` e `output/RESUMO_MENSAL.md` | Conferir `fechamento_manual`; ler o quadro antes do detalhamento |
 | Próximo mês ou recebimento pendente | [ACOMPANHAMENTOS.md](ACOMPANHAMENTOS.md) | Ao iniciar o mês; previsão não é realizado |
+| Classificações/observações já registradas no site | [Consulta ao site](SITE_CLASSIFICACOES.md) | Consultar antes de repetir dúvidas de estabelecimentos; usar como classificação, sem importar SMS como nova despesa |
 | Classificar compra | [ESTABELECIMENTOS.md](ESTABELECIMENTOS.md) | Buscar descritor com `rg -n -i -C 3`, depois ler a seção e o escopo |
 | PIX, exclusões e rateios | [EXTRATO_E_RATEIOS.md](EXTRATO_E_RATEIOS.md) | Buscar beneficiário, cartão ou assunto |
 | Extração, JSON, holerite e Excel | [PROCESSAMENTO.md](../PROCESSAMENTO.md) | Ler apenas a seção pertinente |
@@ -31,8 +32,10 @@ Manter cada regra no arquivo do assunto. Valores e ajustes do mês ficam no per�
 
 ## Fechamentos e histórico
 
-Agosto e setembro/2026 estão fechados manualmente. A fonte final é o `periodo.json` com `output/.auditoria/dados/fechamento_manual.json`, não um total provisório de extração. Não executar `gerar` sobre o resumo fechado sem pedido para reabrir.
+Agosto, setembro e outubro/2026 estão fechados manualmente. A fonte final é o `periodo.json` com `output/.auditoria/dados/fechamento_manual.json`, não um total provisório de extração. Não executar `gerar` sobre o resumo fechado sem pedido para reabrir.
 
-Auxílio-creche de setembro segue em acompanhamento para outubro, sem impedir o fechamento. O quadro de Paloma permanece uma conferência, sem nova confirmação de quitação.
+Auxílio-creche de R$ 720 recebido em outubro confirmado como competência outubro. Setembro permanece sem recebimento confirmado em acompanhamento separado. Acerto do quadro de Paloma de setembro recebido em 09/10 e confirmado por Luiz em 16/11; não repetir cobrança ou abatimento. Setembro permanece fechado.
 
 Os [aprendizados de agosto](../../periodos/2026-08/output/historico/APRENDIZADOS.md) são históricos; regras úteis foram consolidadas nas referências atuais. `output/historico/` e `output/.auditoria/historico/` só entram na consulta para rastrear uma decisão específica. Não executar scripts históricos.
+
+Outubro fechado por confirmação de Luiz em 16/11/2026; Excel atualizado nas abas Gastos e Gastos Apartamento. Fechamento e mapa por célula no período. Quadro de Paloma tem rateio confirmado, sem confirmação de recebimento.

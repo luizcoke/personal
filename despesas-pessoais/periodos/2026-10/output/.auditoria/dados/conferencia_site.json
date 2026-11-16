@@ -1,0 +1,515 @@
+{
+  "consultado_em": "2026-11-16",
+  "project_id": "appgprj_6aca421caf108191a3920158085966d2",
+  "vinculos": [
+    {
+      "lancamento_id": "MASTERCARD-007",
+      "site_id": "1d780eda-2a10-4830-a473-de8e5c524bba",
+      "categoria": "snacks",
+      "observacao": ""
+    },
+    {
+      "lancamento_id": "MASTERCARD-008",
+      "site_id": "7677f3d7-0048-4ab7-b238-ecde5d01877a",
+      "categoria": "leisure",
+      "observacao": "Circo Isabela"
+    },
+    {
+      "lancamento_id": "MASTERCARD-009",
+      "site_id": "f0811e79-3e56-4e89-87e0-600b1c80b86b",
+      "categoria": "leisure",
+      "observacao": ""
+    },
+    {
+      "lancamento_id": "MASTERCARD-010",
+      "site_id": "sms-reconcile-2026-10-11-1227-0539-19741",
+      "categoria": "delivery",
+      "observacao": ""
+    },
+    {
+      "lancamento_id": "MASTERCARD-011",
+      "site_id": "sms-reconcile-2026-10-11-1731-0539-600",
+      "categoria": "other",
+      "observacao": ""
+    },
+    {
+      "lancamento_id": "MASTERCARD-012",
+      "site_id": "a82b80ef-8696-4140-8a2f-f0fae3be57ac",
+      "categoria": "snacks",
+      "observacao": ""
+    },
+    {
+      "lancamento_id": "MASTERCARD-013",
+      "site_id": "sms-reconcile-2026-10-11-1443-0539-1800",
+      "categoria": "snacks",
+      "observacao": ""
+    },
+    {
+      "lancamento_id": "MASTERCARD-014",
+      "site_id": "sms-reconcile-2026-10-11-0755-0539-1000",
+      "categoria": "snacks",
+      "observacao": ""
+    },
+    {
+      "lancamento_id": "MASTERCARD-015",
+      "site_id": "e6f6c85b-8bad-4b47-aaae-308bca2dad1e",
+      "categoria": "snacks",
+      "observacao": ""
+    },
+    {
+      "lancamento_id": "MASTERCARD-016",
+      "site_id": "4a2a694b-68f8-4f06-8e5f-f5b9a4654df7",
+      "categoria": "delivery",
+      "observacao": ""
+    },
+    {
+      "lancamento_id": "MASTERCARD-017",
+      "site_id": "c29b0125-4627-4b08-97e1-a6c5f997a29c",
+      "categoria": "snacks",
+      "observacao": ""
+    },
+    {
+      "lancamento_id": "MASTERCARD-018",
+      "site_id": "3a68c29a-4b3e-4d24-93e1-d822e11ae10a",
+      "categoria": "restaurants",
+      "observacao": ""
+    },
+    {
+      "lancamento_id": "MASTERCARD-019",
+      "site_id": "1365c7e9-3ff1-4de0-967b-259267171079",
+      "categoria": "snacks",
+      "observacao": ""
+    },
+    {
+      "lancamento_id": "MASTERCARD-020",
+      "site_id": "a4e87b9f-780b-4fba-b136-066c2df06c30",
+      "categoria": "transport",
+      "observacao": ""
+    },
+    {
+      "lancamento_id": "MASTERCARD-021",
+      "site_id": "83eeb200-1f4a-469e-b3a7-4a7d1040f0cb",
+      "categoria": "snacks",
+      "observacao": ""
+    },
+    {
+      "lancamento_id": "MASTERCARD-022",
+      "site_id": "9cf28579-050c-459a-94cb-2a9642837ffa",
+      "categoria": "snacks",
+      "observacao": ""
+    },
+    {
+      "lancamento_id": "MASTERCARD-023",
+      "site_id": "9db46f47-1423-4545-a3c0-3baa445cd545",
+      "categoria": "restaurants",
+      "observacao": ""
+    },
+    {
+      "lancamento_id": "MASTERCARD-024",
+      "site_id": "78636c52-a38c-4b1d-ab90-050f554aafb0",
+      "categoria": "snacks",
+      "observacao": ""
+    },
+    {
+      "lancamento_id": "MASTERCARD-025",
+      "site_id": "7d688bfe-b076-4f9c-a90e-b8fd94092474",
+      "categoria": "shopping",
+      "observacao": "Cabeleireiro"
+    },
+    {
+      "lancamento_id": "MASTERCARD-026",
+      "site_id": "38f6cb02-0ced-4c3d-a4dd-f108cb77dfe5",
+      "categoria": "snacks",
+      "observacao": ""
+    },
+    {
+      "lancamento_id": "MASTERCARD-027",
+      "site_id": "10ad4ad8-9bd0-4090-a9bf-c1c06076e5b9",
+      "categoria": "unclassified",
+      "observacao": ""
+    },
+    {
+      "lancamento_id": "MASTERCARD-028",
+      "site_id": "6401eec0-4e47-455e-8e7a-7afc0a2c48bf",
+      "categoria": "travel",
+      "observacao": ""
+    },
+    {
+      "lancamento_id": "MASTERCARD-029",
+      "site_id": "05f76608-b4f1-4dda-84e7-8ae1ff903a14",
+      "categoria": "unclassified",
+      "observacao": ""
+    },
+    {
+      "lancamento_id": "MASTERCARD-030",
+      "site_id": "5840b83f-d949-4f29-ae27-3738d16a35ef",
+      "categoria": "unclassified",
+      "observacao": ""
+    },
+    {
+      "lancamento_id": "MASTERCARD-031",
+      "site_id": "4c037c05-09a6-4fce-b023-20fc01844c52",
+      "categoria": "unclassified",
+      "observacao": ""
+    },
+    {
+      "lancamento_id": "MASTERCARD-034",
+      "site_id": "a40383ff-7ead-45cc-bdee-9223585cfa51",
+      "categoria": "unclassified",
+      "observacao": ""
+    },
+    {
+      "lancamento_id": "MASTERCARD-035",
+      "site_id": "96fb1532-6d22-4161-88ef-fdacf21631ff",
+      "categoria": "unclassified",
+      "observacao": ""
+    },
+    {
+      "lancamento_id": "MASTERCARD-036",
+      "site_id": "eb298b73-394f-4634-8553-dae7f717224f",
+      "categoria": "unclassified",
+      "observacao": ""
+    },
+    {
+      "lancamento_id": "MASTERCARD-040",
+      "site_id": "b0c3c41e-22cf-43bb-beb6-d26e6631c2e7",
+      "categoria": "snacks",
+      "observacao": ""
+    },
+    {
+      "lancamento_id": "MASTERCARD-041",
+      "site_id": "600da2bd-cabc-4a18-a77d-ad83b0ec3e5b",
+      "categoria": "restaurants",
+      "observacao": ""
+    },
+    {
+      "lancamento_id": "MASTERCARD-042",
+      "site_id": "6cd0ab80-4ff5-4cbf-a273-6e03fa25937f",
+      "categoria": "transport",
+      "observacao": ""
+    },
+    {
+      "lancamento_id": "MASTERCARD-043",
+      "site_id": "29813480-3007-43fc-afab-6f042ab450b9",
+      "categoria": "home",
+      "observacao": ""
+    },
+    {
+      "lancamento_id": "MASTERCARD-044",
+      "site_id": "e9776156-eb3d-4963-a578-443622f239b0",
+      "categoria": "other",
+      "observacao": ""
+    },
+    {
+      "lancamento_id": "MASTERCARD-056",
+      "site_id": "663c69ec-135b-46ce-a9cf-42cbc6eb4cfe",
+      "categoria": "subscriptions",
+      "observacao": ""
+    },
+    {
+      "lancamento_id": "MASTERCARD-057",
+      "site_id": "65d3b7cb-7271-4ff2-bfef-27eb36d26d60",
+      "categoria": "subscriptions",
+      "observacao": ""
+    },
+    {
+      "lancamento_id": "MASTERCARD-058",
+      "site_id": "601797da-4b63-48e1-8d6b-a990d60660dd",
+      "categoria": "subscriptions",
+      "observacao": ""
+    },
+    {
+      "lancamento_id": "MASTERCARD-059",
+      "site_id": "3675ec93-d772-4866-82ed-459a193e781a",
+      "categoria": "shopping",
+      "observacao": "Pilhas controle carro"
+    },
+    {
+      "lancamento_id": "MASTERCARD-060",
+      "site_id": "d7c80e24-fa66-4105-9bb5-45de3b2ef8ac",
+      "categoria": "other",
+      "observacao": ""
+    },
+    {
+      "lancamento_id": "MASTERCARD-061",
+      "site_id": "c68f21f0-6f98-4b56-bd3f-61e5067a0364",
+      "categoria": "subscriptions",
+      "observacao": ""
+    },
+    {
+      "lancamento_id": "MASTERCARD-073",
+      "site_id": "sms-reconcile-2026-10-05-1222-3878-31497",
+      "categoria": "health",
+      "observacao": ""
+    },
+    {
+      "lancamento_id": "MASTERCARD-074",
+      "site_id": "b3c20c1e-0907-4f7b-b9b8-388733bd76dd",
+      "categoria": "leisure",
+      "observacao": ""
+    },
+    {
+      "lancamento_id": "MASTERCARD-075",
+      "site_id": "865a72fb-0aa0-40dc-98c7-c726ca0007df",
+      "categoria": "transport",
+      "observacao": ""
+    },
+    {
+      "lancamento_id": "MASTERCARD-077",
+      "site_id": "d85e2075-b23e-4fed-b64e-899ce00c7093",
+      "categoria": "leisure",
+      "observacao": "Foto circo Isabela"
+    },
+    {
+      "lancamento_id": "MASTERCARD-078",
+      "site_id": "sms-reconcile-2026-10-11-1810-3878-2468",
+      "categoria": "health",
+      "observacao": ""
+    },
+    {
+      "lancamento_id": "MASTERCARD-079",
+      "site_id": "sms-reconcile-2026-10-12-0905-3878-31999",
+      "categoria": "subscriptions",
+      "observacao": ""
+    },
+    {
+      "lancamento_id": "MASTERCARD-080",
+      "site_id": "d7bbbd6c-f308-4d39-b280-db2c0eef4c73",
+      "categoria": "transport",
+      "observacao": ""
+    },
+    {
+      "lancamento_id": "MASTERCARD-081",
+      "site_id": "9199c456-bb6e-49c8-bed3-a5758479cc13",
+      "categoria": "groceries",
+      "observacao": ""
+    },
+    {
+      "lancamento_id": "MASTERCARD-082",
+      "site_id": "5d81de30-1cda-4433-acc3-c167f097262b",
+      "categoria": "transport",
+      "observacao": ""
+    },
+    {
+      "lancamento_id": "MASTERCARD-083",
+      "site_id": "ec9e26a9-6c84-4d51-bbfe-d4ea66a315c0",
+      "categoria": "transport",
+      "observacao": ""
+    },
+    {
+      "lancamento_id": "MASTERCARD-084",
+      "site_id": "eca021f9-64a2-43aa-b5ad-9795895e94cd",
+      "categoria": "shopping",
+      "observacao": "Maiô natação"
+    },
+    {
+      "lancamento_id": "MASTERCARD-085",
+      "site_id": "6005d978-04ef-4588-bf4a-6514c70082fb",
+      "categoria": "leisure",
+      "observacao": "Fralda piscina isabela"
+    },
+    {
+      "lancamento_id": "MASTERCARD-088",
+      "site_id": "de3628fe-684b-4d67-bde7-dfb5c962295d",
+      "categoria": "transport",
+      "observacao": ""
+    },
+    {
+      "lancamento_id": "MASTERCARD-089",
+      "site_id": "828035b6-7c9b-4b20-acb1-9c3573413a03",
+      "categoria": "shopping",
+      "observacao": "Presente Amanda"
+    },
+    {
+      "lancamento_id": "MASTERCARD-090",
+      "site_id": "e2c3034e-4d2a-4af8-97bf-8988425cc423",
+      "categoria": "transport",
+      "observacao": ""
+    },
+    {
+      "lancamento_id": "MASTERCARD-091",
+      "site_id": "2e773736-f49f-4f97-93bc-91900aa6540b",
+      "categoria": "shopping",
+      "observacao": ""
+    },
+    {
+      "lancamento_id": "MASTERCARD-092",
+      "site_id": "57e4c1b6-f258-4427-99ef-f0960d4d188b",
+      "categoria": "snacks",
+      "observacao": ""
+    },
+    {
+      "lancamento_id": "MASTERCARD-095",
+      "site_id": "6b409d78-f29f-4c25-9182-8ce30619042b",
+      "categoria": "transport",
+      "observacao": ""
+    },
+    {
+      "lancamento_id": "MASTERCARD-096",
+      "site_id": "a5b068be-8468-46bb-8cb8-8d44f85c8b61",
+      "categoria": "shopping",
+      "observacao": "Presente marido amanda"
+    },
+    {
+      "lancamento_id": "MASTERCARD-097",
+      "site_id": "560e8c4f-4fed-4489-91d1-f3877411b392",
+      "categoria": "transport",
+      "observacao": ""
+    },
+    {
+      "lancamento_id": "MASTERCARD-098",
+      "site_id": "54459ab8-9e18-427a-8cab-f3b44cc8e1ce",
+      "categoria": "transport",
+      "observacao": ""
+    },
+    {
+      "lancamento_id": "MASTERCARD-099",
+      "site_id": "25cf32e9-5230-4f48-ad3a-faa4ed50475c",
+      "categoria": "shopping",
+      "observacao": "Roupa Isabela"
+    },
+    {
+      "lancamento_id": "MASTERCARD-101",
+      "site_id": "9912b6f1-0d5a-4c77-a218-aa77886327f2",
+      "categoria": "groceries",
+      "observacao": ""
+    },
+    {
+      "lancamento_id": "MASTERCARD-102",
+      "site_id": "e14e289e-c146-49e5-b416-e44287268c29",
+      "categoria": "groceries",
+      "observacao": ""
+    },
+    {
+      "lancamento_id": "MASTERCARD-105",
+      "site_id": "aeddefcd-363a-4eda-9d67-a86544ff249a",
+      "categoria": "groceries",
+      "observacao": ""
+    },
+    {
+      "lancamento_id": "MASTERCARD-106",
+      "site_id": "158be218-e7d7-44dc-a3f7-6dc90199fb94",
+      "categoria": "shopping",
+      "observacao": "Isabela meio piscina"
+    },
+    {
+      "lancamento_id": "MASTERCARD-107",
+      "site_id": "6de55237-1014-4746-9221-8741253c5021",
+      "categoria": "shopping",
+      "observacao": "Isabela"
+    },
+    {
+      "lancamento_id": "MASTERCARD-109",
+      "site_id": "efc51318-64f1-4a63-93b7-562ed6f25cc7",
+      "categoria": "transport",
+      "observacao": ""
+    },
+    {
+      "lancamento_id": "MASTERCARD-110",
+      "site_id": "ca83078c-ca4a-49a1-bb0c-e956098e38fc",
+      "categoria": "transport",
+      "observacao": ""
+    },
+    {
+      "lancamento_id": "MASTERCARD-111",
+      "site_id": "67c5383c-ad99-4a75-b8b2-abe2da296d22",
+      "categoria": "health",
+      "observacao": ""
+    },
+    {
+      "lancamento_id": "MASTERCARD-112",
+      "site_id": "c14a021f-0c2d-4d4d-aae4-1fce25440195",
+      "categoria": "groceries",
+      "observacao": ""
+    },
+    {
+      "lancamento_id": "MASTERCARD-113",
+      "site_id": "36111918-6918-4d13-ace4-5a22c76b6d8f",
+      "categoria": "groceries",
+      "observacao": ""
+    },
+    {
+      "lancamento_id": "MASTERCARD-114",
+      "site_id": "a53796b3-18d9-49ff-a13e-a94a599b9e7a",
+      "categoria": "restaurants",
+      "observacao": ""
+    },
+    {
+      "lancamento_id": "MASTERCARD-115",
+      "site_id": "2500117f-f642-4814-b107-cf0089aeb557",
+      "categoria": "snacks",
+      "observacao": ""
+    },
+    {
+      "lancamento_id": "MASTERCARD-116",
+      "site_id": "cc3f0d3e-82c5-4a9e-904d-5e1619d5a1f5",
+      "categoria": "snacks",
+      "observacao": ""
+    },
+    {
+      "lancamento_id": "VISA-010",
+      "site_id": "sms-reconcile-2026-10-01-2020-7396-7567",
+      "categoria": "delivery",
+      "observacao": ""
+    },
+    {
+      "lancamento_id": "VISA-011",
+      "site_id": "sms-reconcile-2026-10-03-1235-2587-1725",
+      "categoria": "leisure",
+      "observacao": ""
+    },
+    {
+      "lancamento_id": "VISA-012",
+      "site_id": "sms-reconcile-2026-10-07-2003-7396-4455",
+      "categoria": "delivery",
+      "observacao": ""
+    },
+    {
+      "lancamento_id": "VISA-013",
+      "site_id": "0391b29e-e404-4ac9-b602-88b754934712",
+      "categoria": "delivery",
+      "observacao": ""
+    },
+    {
+      "lancamento_id": "VISA-015",
+      "site_id": "ee132aaf-576a-443c-b098-5171f80f8596",
+      "categoria": "restaurants",
+      "observacao": ""
+    },
+    {
+      "lancamento_id": "VISA-019",
+      "site_id": "b9dd65f5-0f14-4e71-8549-5bd5a19cecab",
+      "categoria": "delivery",
+      "observacao": ""
+    },
+    {
+      "lancamento_id": "VISA-020",
+      "site_id": "37ece5a8-34a0-4226-92db-f67e3c37cba7",
+      "categoria": "leisure",
+      "observacao": ""
+    },
+    {
+      "lancamento_id": "VISA-021",
+      "site_id": "5aa56b82-a735-4fdb-9f14-bbf2a3ef1d1c",
+      "categoria": "transport",
+      "observacao": ""
+    }
+  ],
+  "viagem_rio_ids": [
+    "MASTERCARD-027",
+    "MASTERCARD-028",
+    "MASTERCARD-029",
+    "MASTERCARD-030",
+    "MASTERCARD-031",
+    "MASTERCARD-032",
+    "MASTERCARD-033",
+    "MASTERCARD-034",
+    "MASTERCARD-035",
+    "MASTERCARD-036",
+    "MASTERCARD-037",
+    "MASTERCARD-038",
+    "MASTERCARD-039",
+    "VISA-021"
+  ],
+  "criterio": "Identidade/descritor + data + cartão compatível + valor ou total parcelado; correspondências ambíguas não aplicadas. SMS não entram como despesa adicional. Viagem por confirmação expressa de Luiz; assinaturas independentes de localização preservadas."
+}

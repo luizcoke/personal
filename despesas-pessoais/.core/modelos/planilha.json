@@ -1,6 +1,9 @@
 {
   "versao": 1,
-  "cartoes_paloma": ["3878", "6553"],
+  "cartoes_paloma": [
+    "3878",
+    "6553"
+  ],
   "origem": "Imagem final da planilha de agosto enviada por Luiz em 10/09/2026; OneDrive e OpenAI incluídos em Assinaturas.",
   "criterio_periodo": "Extrato: datas contábeis dentro do mês de referência; cartões: faturas completas do ciclo enviadas pelo usuário, salvo instrução expressa diferente.",
   "observacoes": [
@@ -9,7 +12,8 @@
     "A imagem foi usada só para nomes, ordem e categorias. Nenhum valor de células existentes, metas ou fórmulas é importado.",
     "linha é o ID estável dos dados; linha_excel é a posição atual visível na planilha. Inserções não recategorizam lançamentos antigos.",
     "OneDrive e OpenAI ocupam linhas Excel 61 e 62; Spotify 63, Apple 64, Netflix 65, Lazer 66, Loterias 67 e Outros 68. Os IDs permanecem os anteriores.",
-    "Fundo de Reserva não aparece no recorte final: posição Excel não confirmada. Reembolso empresa continua complementar, sem posição visível."
+    "Fundo de Reserva confirmado na linha Excel 72 em 16/11/2026. Reembolso empresa continua complementar, sem posição visível.",
+    "Projetos/Empresa criada por Luiz em 16/11/2026 para ANG Studio. ID novo-projetos-empresa; linha Excel 59 confirmada no arquivo local, sem deslocar linhas existentes."
   ],
   "linhas": [
     {
@@ -318,7 +322,7 @@
       "linha": "70",
       "item": "Fundo de Reserva",
       "categoria": "Investimentos / Poupança",
-      "linha_excel": null
+      "linha_excel": "72"
     },
     {
       "bloco": "Itens complementares (sem linha na imagem)",
@@ -326,6 +330,13 @@
       "item": "Reembolso empresa",
       "categoria": "Outros",
       "linha_excel": null
+    },
+    {
+      "bloco": "Estilo de Vida e Desejos (30%)",
+      "linha": "novo-projetos-empresa",
+      "item": "Projetos/Empresa",
+      "categoria": "Projetos/Empresa",
+      "linha_excel": "59"
     }
   ]
 }

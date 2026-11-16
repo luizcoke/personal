@@ -1,0 +1,509 @@
+{
+  "arquivo": "C:\\github\\personal\\despesas-pessoais\\planilhas\\Despesas dia a dia - 2026.xlsx",
+  "backup": "C:\\github\\personal\\despesas-pessoais\\planilhas\\.backups\\Despesas dia a dia - 2026.antes-fechamento-outubro-20261116.xlsx",
+  "sha256_antes": "0dc2497e86f35f1910ba4b6141e50d1141600cf0685998a62fa056c592acf52f",
+  "sha256_depois": "bb4498a0eca7ebc5e7e95cf448ebe2f9245155579a6ae98d73ac9d0223554c77",
+  "partes_alteradas": [
+    "xl/worksheets/sheet2.xml",
+    "xl/worksheets/sheet3.xml"
+  ],
+  "verificacao": "Somente células autorizadas em duas abas; outros meses, demais abas, tabelas dinâmicas, vínculos, estilos e objetos preservados. Recálculo Artifact e valores-chave conferidos; Excel nativo não executado.",
+  "edicoes": [
+    {
+      "sheet": "Gastos",
+      "cell": "P21",
+      "value": 1208
+    },
+    {
+      "sheet": "Gastos",
+      "cell": "P22",
+      "value": 1161.09
+    },
+    {
+      "sheet": "Gastos",
+      "cell": "P23",
+      "value": 418.87
+    },
+    {
+      "sheet": "Gastos",
+      "cell": "P24",
+      "value": 419.5
+    },
+    {
+      "sheet": "Gastos",
+      "cell": "P25",
+      "value": 64
+    },
+    {
+      "sheet": "Gastos",
+      "cell": "P26",
+      "value": 94.9
+    },
+    {
+      "sheet": "Gastos",
+      "cell": "P27",
+      "value": 341.27
+    },
+    {
+      "sheet": "Gastos",
+      "cell": "P28",
+      "value": 539.5
+    },
+    {
+      "sheet": "Gastos",
+      "cell": "P29",
+      "value": 310
+    },
+    {
+      "sheet": "Gastos",
+      "cell": "P30",
+      "value": 0
+    },
+    {
+      "sheet": "Gastos",
+      "cell": "P31",
+      "value": 1348.73
+    },
+    {
+      "sheet": "Gastos",
+      "cell": "P32",
+      "value": 0
+    },
+    {
+      "sheet": "Gastos",
+      "cell": "P33",
+      "value": 0
+    },
+    {
+      "sheet": "Gastos",
+      "cell": "P34",
+      "value": 0
+    },
+    {
+      "sheet": "Gastos",
+      "cell": "P35",
+      "value": 0
+    },
+    {
+      "sheet": "Gastos",
+      "cell": "P36",
+      "value": 0
+    },
+    {
+      "sheet": "Gastos",
+      "cell": "P37",
+      "value": 0
+    },
+    {
+      "sheet": "Gastos",
+      "cell": "P38",
+      "value": 0
+    },
+    {
+      "sheet": "Gastos",
+      "cell": "P39",
+      "value": 0
+    },
+    {
+      "sheet": "Gastos",
+      "cell": "P40",
+      "value": 0
+    },
+    {
+      "sheet": "Gastos",
+      "cell": "P41",
+      "value": 26.84
+    },
+    {
+      "sheet": "Gastos",
+      "cell": "P42",
+      "value": 0
+    },
+    {
+      "sheet": "Gastos",
+      "cell": "P45",
+      "value": 573.53
+    },
+    {
+      "sheet": "Gastos",
+      "cell": "P46",
+      "value": 0
+    },
+    {
+      "sheet": "Gastos",
+      "cell": "P49",
+      "value": 0
+    },
+    {
+      "sheet": "Gastos",
+      "cell": "P50",
+      "value": 80
+    },
+    {
+      "sheet": "Gastos",
+      "cell": "P51",
+      "value": 606.99
+    },
+    {
+      "sheet": "Gastos",
+      "cell": "P52",
+      "value": 133.95
+    },
+    {
+      "sheet": "Gastos",
+      "cell": "P53",
+      "value": 344.17
+    },
+    {
+      "sheet": "Gastos",
+      "cell": "P54",
+      "value": 1146.13
+    },
+    {
+      "sheet": "Gastos",
+      "cell": "P55",
+      "value": 549.25
+    },
+    {
+      "sheet": "Gastos",
+      "cell": "P56",
+      "value": 1487.19
+    },
+    {
+      "sheet": "Gastos",
+      "cell": "P57",
+      "value": 653
+    },
+    {
+      "sheet": "Gastos",
+      "cell": "P58",
+      "value": 0
+    },
+    {
+      "sheet": "Gastos",
+      "cell": "P60",
+      "value": 0
+    },
+    {
+      "sheet": "Gastos",
+      "cell": "P61",
+      "value": 0
+    },
+    {
+      "sheet": "Gastos",
+      "cell": "P62",
+      "value": 231.94
+    },
+    {
+      "sheet": "Gastos",
+      "cell": "P63",
+      "value": 31.9
+    },
+    {
+      "sheet": "Gastos",
+      "cell": "P64",
+      "value": 13.4
+    },
+    {
+      "sheet": "Gastos",
+      "cell": "P65",
+      "value": 20.9
+    },
+    {
+      "sheet": "Gastos",
+      "cell": "P66",
+      "value": 1810.07
+    },
+    {
+      "sheet": "Gastos",
+      "cell": "P67",
+      "value": 48
+    },
+    {
+      "sheet": "Gastos",
+      "cell": "P68",
+      "value": 168.49
+    },
+    {
+      "sheet": "Gastos",
+      "cell": "P72",
+      "value": 0
+    },
+    {
+      "sheet": "Gastos",
+      "cell": "P59",
+      "value": 26.5
+    },
+    {
+      "sheet": "Gastos",
+      "cell": "C59",
+      "value": "Projetos/Empresa"
+    },
+    {
+      "sheet": "Gastos",
+      "cell": "D59",
+      "value": "Projetos/Empresa"
+    },
+    {
+      "sheet": "Gastos",
+      "cell": "P3",
+      "value": 13268.31
+    },
+    {
+      "sheet": "Gastos",
+      "cell": "P4",
+      "value": 1620
+    },
+    {
+      "sheet": "Gastos",
+      "cell": "P5",
+      "value": 1010.82
+    },
+    {
+      "sheet": "Gastos",
+      "cell": "P6",
+      "value": 0
+    },
+    {
+      "sheet": "Gastos",
+      "cell": "P7",
+      "value": 10708.86
+    },
+    {
+      "sheet": "Gastos",
+      "cell": "P8",
+      "value": 0
+    },
+    {
+      "sheet": "Gastos",
+      "cell": "P9",
+      "value": 0
+    },
+    {
+      "sheet": "Gastos",
+      "cell": "P10",
+      "value": 0
+    },
+    {
+      "sheet": "Gastos",
+      "cell": "P12",
+      "value": 988.07
+    },
+    {
+      "sheet": "Gastos",
+      "cell": "P13",
+      "value": 1565.41
+    },
+    {
+      "sheet": "Gastos",
+      "cell": "P14",
+      "value": 4684.42
+    },
+    {
+      "sheet": "Gastos",
+      "cell": "P15",
+      "value": 0
+    },
+    {
+      "sheet": "Gastos",
+      "cell": "P16",
+      "value": 58.9
+    },
+    {
+      "sheet": "Gastos",
+      "cell": "P17",
+      "value": 0
+    },
+    {
+      "sheet": "Gastos",
+      "cell": "P11",
+      "formula": "=SUM(P3:P10)"
+    },
+    {
+      "sheet": "Gastos",
+      "cell": "P18",
+      "formula": "=SUM(P12:P17)"
+    },
+    {
+      "sheet": "Gastos",
+      "cell": "P19",
+      "formula": "=P11-P18"
+    },
+    {
+      "sheet": "Gastos",
+      "cell": "P47",
+      "formula": "=SUM(P21:P46)"
+    },
+    {
+      "sheet": "Gastos",
+      "cell": "P48",
+      "formula": "=IF($P$19=0,\"-\",P47/$P$19)"
+    },
+    {
+      "sheet": "Gastos",
+      "cell": "P70",
+      "formula": "=SUM(P49:P69)"
+    },
+    {
+      "sheet": "Gastos",
+      "cell": "P71",
+      "formula": "=IF($P$19=0,\"-\",P70/$P$19)"
+    },
+    {
+      "sheet": "Gastos",
+      "cell": "P77",
+      "formula": "=SUM(P72:P76)"
+    },
+    {
+      "sheet": "Gastos",
+      "cell": "P78",
+      "formula": "=IF($P$19=0,\"-\",P77/$P$19)"
+    },
+    {
+      "sheet": "Gastos",
+      "cell": "P80",
+      "formula": "=P19"
+    },
+    {
+      "sheet": "Gastos",
+      "cell": "P81",
+      "formula": "=SUM(P47,P70,P77)"
+    },
+    {
+      "sheet": "Gastos",
+      "cell": "P82",
+      "formula": "=P48+P71+P78"
+    },
+    {
+      "sheet": "Gastos",
+      "cell": "P83",
+      "formula": "=P80-P81"
+    },
+    {
+      "sheet": "Gastos Apartamento",
+      "cell": "B2",
+      "value": "Gastos totais — outubro/2026"
+    },
+    {
+      "sheet": "Gastos Apartamento",
+      "cell": "E10",
+      "value": 880
+    },
+    {
+      "sheet": "Gastos Apartamento",
+      "cell": "E11",
+      "value": 2974.38
+    },
+    {
+      "sheet": "Gastos Apartamento",
+      "cell": "D12",
+      "value": "04/08"
+    },
+    {
+      "sheet": "Gastos Apartamento",
+      "cell": "D13",
+      "value": "04/14"
+    },
+    {
+      "sheet": "Gastos Apartamento",
+      "cell": "B14",
+      "value": "Faxina SOS Diaristas",
+      "styleFrom": "B10"
+    },
+    {
+      "sheet": "Gastos Apartamento",
+      "cell": "C14",
+      "value": "PIX",
+      "styleFrom": "C10"
+    },
+    {
+      "sheet": "Gastos Apartamento",
+      "cell": "D14",
+      "value": "À vista",
+      "styleFrom": "D10"
+    },
+    {
+      "sheet": "Gastos Apartamento",
+      "cell": "E14",
+      "value": 199,
+      "styleFrom": "E10"
+    },
+    {
+      "sheet": "Gastos Apartamento",
+      "cell": "F14",
+      "formula": "=E14/2",
+      "styleFrom": "F10"
+    },
+    {
+      "sheet": "Gastos Apartamento",
+      "cell": "F10",
+      "formula": "=E10/2"
+    },
+    {
+      "sheet": "Gastos Apartamento",
+      "cell": "F11",
+      "formula": "=ROUND(E11/2,2)"
+    },
+    {
+      "sheet": "Gastos Apartamento",
+      "cell": "F12",
+      "formula": "=E12/2"
+    },
+    {
+      "sheet": "Gastos Apartamento",
+      "cell": "F13",
+      "formula": "=E13/2"
+    },
+    {
+      "sheet": "Gastos Apartamento",
+      "cell": "E26",
+      "formula": "=SUM(E9:E25)"
+    },
+    {
+      "sheet": "Gastos Apartamento",
+      "cell": "F26",
+      "formula": "=SUM(F9:F25)"
+    },
+    {
+      "sheet": "Gastos Apartamento",
+      "cell": "F27",
+      "formula": "=F8+F26"
+    },
+    {
+      "sheet": "Gastos Apartamento",
+      "cell": "I24",
+      "value": "out/2026",
+      "styleFrom": "I23"
+    },
+    {
+      "sheet": "Gastos Apartamento",
+      "cell": "J24",
+      "formula": "=SUM(Gastos!P53:P55)",
+      "styleFrom": "J23"
+    },
+    {
+      "sheet": "Gastos Apartamento",
+      "cell": "J27",
+      "formula": "=SUM(J3:J26)"
+    }
+  ],
+  "totais": {
+    "Gastos": {
+      "receitas": 19311.19,
+      "despesas": 13858.109999999999,
+      "saldo": 5453.08
+    },
+    "Paloma": {
+      "total": 2245.46,
+      "alimentacao": 2039.5500000000002
+    }
+  },
+  "status": "salvo_verificado",
+  "data_atualizacao": "2026-11-16",
+  "observacoes": [
+    "Outubro P72 tinha previsão de reserva de R$ 2.000; substituída por zero conforme fechamento sem aporte documentado. Novembro/dezembro preservados.",
+    "Rótulo legado Salário Mensal - Líquido preservado: P3 contém bruto de 25 dias; descontos nas linhas 12–17 e férias na linha 7.",
+    "Quadro de Paloma é conferência com rateio confirmado, não recebimento confirmado.",
+    "Histórico alimentar até setembro e todos os valores de outros meses preservados; só outubro e células estruturais necessárias foram editados."
+  ]
+}

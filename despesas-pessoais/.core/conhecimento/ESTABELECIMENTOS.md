@@ -364,3 +364,7 @@ Usar quando o estabelecimento ainda não constar no catálogo, verificando o ser
 | Lazer/Viagem (64) | BOOKING, AIRBNB, hotel, passagem, cinema, show, parque | Confirmar consumo/viagem; não generalizar aluguel de filme como assinatura |
 
 O histórico também identifica viagem a Belém em 07/03–14/03 no ciclo de 2026: naquela viagem, os gastos da localidade foram para Lazer/Viagem. Essa é uma exceção daquele período, não uma regra para todas as compras futuras em Belém.
+
+## ANG Studio — confirmação de 16/11/2026
+
+Luiz identificou LINK.COM* TRIPO AI de 02/11 no ciclo novembro como gasto do ANG Studio e pediu categoria própria **Projetos/Empresa**, ID `novo-projetos-empresa`. Manter separada de Projetos Pessoais. Aplicar a gastos identificados como ANG Studio; não presumir reembolso nem transformar toda cobrança OpenAI em despesa empresarial. Valor e decisão por ID no período outubro.

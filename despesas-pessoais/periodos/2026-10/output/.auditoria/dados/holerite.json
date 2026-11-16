@@ -1,0 +1,414 @@
+{
+  "versao": 1,
+  "mes_referencia": "2026-10",
+  "documentos": [
+    {
+      "tipo": "referencia_setembro",
+      "competencia": "2026-09",
+      "pagamento": "2026-09-30",
+      "arquivo": "input/2026_10_salario_37002605_20260930__M_70.pdf",
+      "sha256": "389645f7e66d493104d539c5bbb2efe477539f1ae26abcfd3a3d3aea8a9af131",
+      "rubricas": [
+        {
+          "codigo": "1000",
+          "descricao": "Salário",
+          "tipo": "provento",
+          "valor": "15921.97",
+          "pagina": 1
+        },
+        {
+          "codigo": "315A",
+          "descricao": "Reemb. APAE/APDEX",
+          "tipo": "provento",
+          "valor": "900.00",
+          "pagina": 1
+        },
+        {
+          "codigo": "/314",
+          "descricao": "Contr. INSS Remuneração",
+          "tipo": "desconto",
+          "valor": "988.07",
+          "pagina": 1
+        },
+        {
+          "codigo": "/401",
+          "descricao": "Tributo IRRF",
+          "tipo": "desconto",
+          "valor": "2013.87",
+          "pagina": 1
+        },
+        {
+          "codigo": "/B02",
+          "descricao": "Adiantamento pago",
+          "tipo": "desconto",
+          "valor": "6368.79",
+          "pagina": 1
+        },
+        {
+          "codigo": "71B0",
+          "descricao": "Plano bradesco dental",
+          "tipo": "desconto",
+          "valor": "58.90",
+          "pagina": 1
+        },
+        {
+          "codigo": "72B0",
+          "descricao": "Copart bradesco dental",
+          "tipo": "desconto",
+          "valor": "20.08",
+          "pagina": 1
+        },
+        {
+          "codigo": "MG11",
+          "descricao": "Pagamento Pensão Reg.",
+          "tipo": "desconto",
+          "valor": "4306.25",
+          "pagina": 1
+        }
+      ],
+      "totais": {
+        "proventos": "16821.97",
+        "descontos": "13755.96",
+        "liquido": "3066.01"
+      }
+    },
+    {
+      "tipo": "ferias",
+      "competencia": "2026-10",
+      "pagamento": "2026-10-16",
+      "arquivo": "input/2026-10_abono_ferias_37002605_20261016__M_72.pdf",
+      "sha256": "d70e835a538379e6b49b439b8985169ba702174272d4442e77b5ca08fdb4b75b",
+      "rubricas": [
+        {
+          "codigo": "MZ00",
+          "descricao": "Férias",
+          "tipo": "provento",
+          "valor": "2653.66",
+          "pagina": 1
+        },
+        {
+          "codigo": "MZ02",
+          "descricao": "Férias 1/3",
+          "tipo": "provento",
+          "valor": "884.55",
+          "pagina": 1
+        },
+        {
+          "codigo": "MZ10",
+          "descricao": "Médias férias",
+          "tipo": "provento",
+          "valor": "23.56",
+          "pagina": 1
+        },
+        {
+          "codigo": "MZ12",
+          "descricao": "Médias férias 1/3",
+          "tipo": "provento",
+          "valor": "7.85",
+          "pagina": 1
+        },
+        {
+          "codigo": "MZ20",
+          "descricao": "Abono de férias",
+          "tipo": "provento",
+          "valor": "5307.32",
+          "pagina": 1
+        },
+        {
+          "codigo": "MZ22",
+          "descricao": "Abono de férias - 1/3",
+          "tipo": "provento",
+          "valor": "1769.11",
+          "pagina": 1
+        },
+        {
+          "codigo": "MZ26",
+          "descricao": "Abono de férias - Médias",
+          "tipo": "provento",
+          "valor": "47.11",
+          "pagina": 1
+        },
+        {
+          "codigo": "MZ27",
+          "descricao": "Abono férias - Médias 1/3",
+          "tipo": "provento",
+          "valor": "15.70",
+          "pagina": 1
+        },
+        {
+          "codigo": "M388",
+          "descricao": "Provisão Contr. INSS ded",
+          "tipo": "desconto",
+          "valor": "316.94",
+          "pagina": 1
+        },
+        {
+          "codigo": "MG12",
+          "descricao": "Pagamento Pensão Férias",
+          "tipo": "desconto",
+          "valor": "1084.12",
+          "pagina": 1
+        }
+      ],
+      "totais": {
+        "proventos": "10708.86",
+        "descontos": "1401.06",
+        "liquido": "9307.80"
+      }
+    },
+    {
+      "tipo": "folha_outubro",
+      "competencia": "2026-10",
+      "pagamento": "2026-10-30",
+      "arquivo": "input/2026-10_abono_ferias.pdf",
+      "sha256": "91b6c91c531317de0ae959f49bf7118648291981c69287715d5501f516c18ce9",
+      "rubricas": [
+        {
+          "codigo": "M389",
+          "descricao": "Provisão Contr. INSS rec.",
+          "tipo": "provento",
+          "valor": "316.94",
+          "pagina": 1
+        },
+        {
+          "codigo": "1000",
+          "descricao": "Salário",
+          "tipo": "provento",
+          "valor": "13268.31",
+          "pagina": 1
+        },
+        {
+          "codigo": "315A",
+          "descricao": "Reemb. APAE/APDEX",
+          "tipo": "provento",
+          "valor": "900.00",
+          "pagina": 1
+        },
+        {
+          "codigo": "MC03",
+          "descricao": "Férias no mês",
+          "tipo": "provento",
+          "valor": "2653.66",
+          "pagina": 1
+        },
+        {
+          "codigo": "MC04",
+          "descricao": "Férias 1/3 no mês",
+          "tipo": "provento",
+          "valor": "884.55",
+          "pagina": 1
+        },
+        {
+          "codigo": "MC13",
+          "descricao": "Médias férias no mês",
+          "tipo": "provento",
+          "valor": "23.56",
+          "pagina": 1
+        },
+        {
+          "codigo": "MC14",
+          "descricao": "Médias férias 1/3 no mês",
+          "tipo": "provento",
+          "valor": "7.85",
+          "pagina": 1
+        },
+        {
+          "codigo": "MC40",
+          "descricao": "Abono de férias reav",
+          "tipo": "provento",
+          "valor": "5307.32",
+          "pagina": 1
+        },
+        {
+          "codigo": "MC42",
+          "descricao": "Abono de férias- 1/3 reav",
+          "tipo": "provento",
+          "valor": "1769.11",
+          "pagina": 1
+        },
+        {
+          "codigo": "MC46",
+          "descricao": "Abono de férias- Méd reav",
+          "tipo": "provento",
+          "valor": "47.11",
+          "pagina": 1
+        },
+        {
+          "codigo": "MC47",
+          "descricao": "Abono férias-Méd 1/3 reav",
+          "tipo": "provento",
+          "valor": "15.70",
+          "pagina": 1
+        },
+        {
+          "codigo": "/314",
+          "descricao": "Contr. INSS Remuneração",
+          "tipo": "desconto",
+          "valor": "988.07",
+          "pagina": 1
+        },
+        {
+          "codigo": "/401",
+          "descricao": "Tributo IRRF",
+          "tipo": "desconto",
+          "valor": "1565.41",
+          "pagina": 1
+        },
+        {
+          "codigo": "/B02",
+          "descricao": "Adiantamento pago",
+          "tipo": "desconto",
+          "valor": "5307.33",
+          "pagina": 1
+        },
+        {
+          "codigo": "71B0",
+          "descricao": "Plano bradesco dental",
+          "tipo": "desconto",
+          "valor": "58.90",
+          "pagina": 1
+        },
+        {
+          "codigo": "MC20",
+          "descricao": "Abono de férias imp",
+          "tipo": "desconto",
+          "valor": "5307.32",
+          "pagina": 1
+        },
+        {
+          "codigo": "MC22",
+          "descricao": "Abono de férias - 1/3 imp",
+          "tipo": "desconto",
+          "valor": "1769.11",
+          "pagina": 1
+        },
+        {
+          "codigo": "MC26",
+          "descricao": "Abono férias - Médias imp",
+          "tipo": "desconto",
+          "valor": "47.11",
+          "pagina": 1
+        },
+        {
+          "codigo": "MC27",
+          "descricao": "Abono férias- Méd 1/3 imp",
+          "tipo": "desconto",
+          "valor": "15.70",
+          "pagina": 1
+        },
+        {
+          "codigo": "MO00",
+          "descricao": "Férias - imp",
+          "tipo": "desconto",
+          "valor": "2653.66",
+          "pagina": 1
+        },
+        {
+          "codigo": "MO02",
+          "descricao": "Férias 1/3 - imp",
+          "tipo": "desconto",
+          "valor": "884.55",
+          "pagina": 1
+        },
+        {
+          "codigo": "MO10",
+          "descricao": "Médias férias - imp",
+          "tipo": "desconto",
+          "valor": "23.56",
+          "pagina": 1
+        },
+        {
+          "codigo": "MO12",
+          "descricao": "Médias férias 1/3 - imp",
+          "tipo": "desconto",
+          "valor": "7.85",
+          "pagina": 1
+        },
+        {
+          "codigo": "MG11",
+          "descricao": "Pagamento Pensão Reg.",
+          "tipo": "desconto",
+          "valor": "3600.30",
+          "pagina": 2
+        }
+      ],
+      "totais": {
+        "proventos": "25194.11",
+        "descontos": "22228.87",
+        "liquido": "2965.24"
+      }
+    }
+  ],
+  "conferencia": {
+    "folha_liquido": "2965.24",
+    "adiantamento": "5307.33",
+    "ferias_liquido": "9307.80",
+    "liquido_total": "17580.37",
+    "bruto_sem_duplicidade": "24877.17",
+    "descontos_efetivos": "7296.80",
+    "diferenca": "0.00",
+    "vinculos_bancarios": {
+      "folha": "EXT-005",
+      "adiantamento": "EXT-028",
+      "ferias": "EXT-023"
+    }
+  },
+  "beneficios": {
+    "APAE_APDEX_embutido": "900.00",
+    "VA_Alelo": "910.82",
+    "credito_Avanade": "720.00",
+    "credito_id": "EXT-019",
+    "natureza_provavel": "auxilio_creche_confirmado_usuario",
+    "competencia_auxilio_creche": "2026-10",
+    "outros_beneficios": "100.00",
+    "total_beneficios_cartao": "1010.82",
+    "confirmacao": "Luiz, 16/11/2026; crédito de R$ 720 da Avanade é auxílio-creche."
+  },
+  "bases_informativas": {
+    "IR_folha": "8996.88",
+    "INSS_folha": "16837.93",
+    "FGTS_folha": "16837.93",
+    "FGTS_mes": "1347.02",
+    "IR_ferias": "4747.23"
+  },
+  "mapa_excel": {
+    "aba": "Gastos",
+    "coluna": "P — outubro, confirmar rótulos antes de editar",
+    "status": "atualizado e verificado em 16/11/2026",
+    "valores_conceituais": {
+      "salario_25_dias": "13268.31",
+      "ferias_abono_tercos_medias": "10708.86",
+      "APAE_APDEX": "900.00",
+      "INSS_efetivo": "988.07",
+      "IRRF": "1565.41",
+      "pensao_total": "4684.42",
+      "plano_dental": "58.90",
+      "copart_dental": "0.00",
+      "copart_medica": "0.00"
+    },
+    "celulas": {
+      "P3": 13268.31,
+      "P4": 1620,
+      "P5": 1010.82,
+      "P6": 0,
+      "P7": 10708.86,
+      "P8": 0,
+      "P9": 0,
+      "P10": 0,
+      "P12": 988.07,
+      "P13": 1565.41,
+      "P14": 4684.42,
+      "P15": 0,
+      "P16": 58.9,
+      "P17": 0,
+      "P11": "=SUM(P3:P10)",
+      "P18": "=SUM(P12:P17)",
+      "P19": "=P11-P18"
+    }
+  },
+  "observacoes": [
+    "Recibo nomeado salario 2026_10 é de setembro: somente referência, não receita de outubro.",
+    "Provisão INSS férias de 316.94 é devolvida na folha por M389; não somar a INSS efetivo.",
+    "Férias/abono são repetidos na folha e compensados por rubricas imp: contar uma vez."
+  ]
+}

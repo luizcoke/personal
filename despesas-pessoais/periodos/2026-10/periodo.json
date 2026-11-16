@@ -1,0 +1,66 @@
+{
+  "versao": 1,
+  "mes_referencia": "2026-10",
+  "ciclo_faturas": "2026-11",
+  "extrato_inicio": "2026-10-01",
+  "extrato_fim": "2026-10-31",
+  "criterio_cartoes": "faturas_completas",
+  "arquivos": [
+    {
+      "arquivo": "input/2026-10-extrato.pdf",
+      "sha256": "eb6ed283bb6123cf757db62dee3e55923aece9c1d7a4976201258b9191410ab1"
+    },
+    {
+      "arquivo": "input/Fatura_Itau_20261116-110800.pdf",
+      "sha256": "38b8674f43feea1fc9d5578b00d23126e848bbd1e8f4824c17e9fa3a8da74f0d"
+    },
+    {
+      "arquivo": "input/Fatura_Itau_20261116-110711.pdf",
+      "sha256": "3b3142c5d577f3f57359db6e269fe44da87607148096dafd64ac4cd3b9121362"
+    }
+  ],
+  "status": "fechado_confirmado_usuario",
+  "fontes_ausentes": [],
+  "observacao_referencia": "Outubro pelo extrato contábil e faturas completas do ciclo novembro, recebidas em 16/11. Faturas antigas ciclo outubro preservadas como duplicatas já contabilizadas em setembro.",
+  "documentos_nao_importados": [
+    {
+      "arquivo": "input/Fatura_MASTERCARD_100482751858_10-2026.pdf",
+      "sha256": "54e47bda2fbd514206a90bf8a8dd2327b42545af9e9612db0ba94f03a4678ddf",
+      "mes_ja_contabilizado": "2026-09",
+      "arquivo_anterior": "input/Fatura_MASTERCARD_100482751858_10-2026.pdf",
+      "tratamento": "preservado em input; não importado como nova despesa"
+    },
+    {
+      "arquivo": "input/Fatura_VISA_100482751883_10-2026.pdf",
+      "sha256": "7e70e4bc3830978f38897616398ebfe8c4ebb3cee60b5bd0648a6ae6e22d4cc1",
+      "mes_ja_contabilizado": "2026-09",
+      "arquivo_anterior": "input/Fatura_VISA_100482751883_10-2026.pdf",
+      "tratamento": "preservado em input; não importado como nova despesa"
+    }
+  ],
+  "documentos_complementares": [
+    {
+      "tipo": "referencia_setembro",
+      "arquivo": "input/2026_10_salario_37002605_20260930__M_70.pdf",
+      "sha256": "389645f7e66d493104d539c5bbb2efe477539f1ae26abcfd3a3d3aea8a9af131",
+      "dados": "output/.auditoria/dados/holerite.json"
+    },
+    {
+      "tipo": "ferias",
+      "arquivo": "input/2026-10_abono_ferias_37002605_20261016__M_72.pdf",
+      "sha256": "d70e835a538379e6b49b439b8985169ba702174272d4442e77b5ca08fdb4b75b",
+      "dados": "output/.auditoria/dados/holerite.json"
+    },
+    {
+      "tipo": "folha_outubro",
+      "arquivo": "input/2026-10_abono_ferias.pdf",
+      "sha256": "91b6c91c531317de0ae959f49bf7118648291981c69287715d5501f516c18ce9",
+      "dados": "output/.auditoria/dados/holerite.json"
+    }
+  ],
+  "fechamento_manual": {
+    "arquivo": "output/.auditoria/dados/fechamento_manual.json",
+    "data_confirmacao": "2026-11-16",
+    "preservar": true
+  }
+}

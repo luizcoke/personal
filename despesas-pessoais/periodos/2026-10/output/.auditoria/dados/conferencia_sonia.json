@@ -1,0 +1,15 @@
+{
+  "confirmacao": "Luiz, 16/11/2026",
+  "creditos": [
+    "EXT-011",
+    "EXT-012"
+  ],
+  "reembolso_loterias": "42.00",
+  "despesa_loterias": "MASTERCARD-060",
+  "loterias_original": "90.00",
+  "loterias_pessoal": "48.00",
+  "devolucao": "EXT-010",
+  "valor_devolvido": "42.00",
+  "criterio_pareamento": "Créditos iguais: 27/10 usado como reembolso e 28/10 como devolvido pela sequência; usuário confirmou finalidade do conjunto, não especificou qual data. Inversão não altera nenhum total.",
+  "conferencia": "Crédito reembolsado usado uma vez; crédito devolvido não aplicado a despesas. Conferência complementar ao CLI para vínculo cartão/extrato."
+}
