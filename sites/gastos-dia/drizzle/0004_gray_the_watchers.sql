@@ -1,0 +1,1 @@
+ALTER TABLE `card_profiles` ADD `match_rules` text DEFAULT '[]' NOT NULL;

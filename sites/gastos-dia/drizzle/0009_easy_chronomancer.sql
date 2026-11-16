@@ -1,0 +1,1 @@
+ALTER TABLE `access_grants` ADD `include_pix` integer DEFAULT 0 NOT NULL;

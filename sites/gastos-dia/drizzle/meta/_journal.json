@@ -1,0 +1,76 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1791640588577,
+      "tag": "0000_married_slyde",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1791646185905,
+      "tag": "0001_daily_mulholland_black",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1791927885616,
+      "tag": "0002_yummy_terrax",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "6",
+      "when": 1791928145720,
+      "tag": "0003_skinny_whizzer",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "6",
+      "when": 1791929036849,
+      "tag": "0004_gray_the_watchers",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "6",
+      "when": 1791929517275,
+      "tag": "0005_seed_paloma_card_rule",
+      "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "6",
+      "when": 1791931327391,
+      "tag": "0006_reconcile_sms_history",
+      "breakpoints": true
+    },
+    {
+      "idx": 7,
+      "version": "6",
+      "when": 1791939932346,
+      "tag": "0007_spending_periods",
+      "breakpoints": true
+    },
+    {
+      "idx": 8,
+      "version": "6",
+      "when": 1791940704627,
+      "tag": "0008_periods_access",
+      "breakpoints": true
+    },
+    {
+      "idx": 9,
+      "version": "6",
+      "when": 1792170320631,
+      "tag": "0009_easy_chronomancer",
+      "breakpoints": true
+    }
+  ]
+}

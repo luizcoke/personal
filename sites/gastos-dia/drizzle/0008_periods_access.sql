@@ -1,0 +1,1 @@
+ALTER TABLE `access_grants` ADD `can_periods` integer DEFAULT 0 NOT NULL;
